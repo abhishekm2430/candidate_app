@@ -1,0 +1,1237 @@
+Category,Sub-Category,Technology,Techonlogy_cleaned,Validated
+Accounting,,Akaunting,Akaunting,1
+Advertising Networks,,Adcash,Adcash,1
+Advertising Networks,,AdInfinity,AdInfinity,1
+Advertising Networks,,Adnegah,Adnegah,1
+Advertising Networks,,AdRiver,AdRiver,1
+Advertising Networks,,AdRoll,AdRoll,1
+Advertising Networks,,Advert Stream,Advert Stream,1
+Advertising Networks,,Adzerk,Adzerk,1
+Advertising Networks,,Anetwork,Anetwork,1
+Advertising Networks,,AppNexus,AppNexus,1
+Advertising Networks,,BittAds,BittAds,1
+Advertising Networks,,BuySellAds,BuySellAds,1
+Advertising Networks,,Captch Me,Captch Me,1
+Advertising Networks,,Carbon Ads,Carbon Ads,1
+Advertising Networks,,Chitika,Chitika,1
+Advertising Networks,,Criteo,Criteo,1
+Advertising Networks,,DoubleClick Ad Exchange (AdX),DoubleClick Ad Exchange (AdX),1
+Advertising Networks,,DoubleClick Campaign Manager (DCM),DoubleClick Campaign Manager (DCM),1
+Advertising Networks,,DoubleClick Floodlight,DoubleClick Floodlight,1
+Advertising Networks,,DoubleClick for Publishers (DFP),DoubleClick for Publishers (DFP),1
+Advertising Networks,,Epom,Epom,1
+Advertising Networks,,Fusion Ads,Fusion Ads,1
+Advertising Networks,,Google AdSense,Google AdSense,1
+Advertising Networks,,LinkSmart,LinkSmart,1
+Advertising Networks,,MadAdsMedia,MadAdsMedia,1
+Advertising Networks,,Open AdStream,Open AdStream,1
+Advertising Networks,,OpenX,OpenX,1
+Advertising Networks,,Prebid,Prebid,1
+Advertising Networks,,Project Wonderful,Project Wonderful,1
+Advertising Networks,,PubMatic,PubMatic,1
+Advertising Networks,,Rubicon Project,Rubicon Project,1
+Advertising Networks,,Sizmek,Sizmek,1
+Advertising Networks,,Smart Ad Server,Smart Ad Server,1
+Advertising Networks,,Solve Media,Solve Media,1
+Advertising Networks,,Tealium,Tealium,1
+Advertising Networks,,Titan,Titan,1
+Advertising Networks,,Veoxa,Veoxa,1
+Advertising Networks,,VigLink,VigLink,1
+Advertising Networks,,Yahoo Advertising,Yahoo Advertising,1
+Advertising Networks,,Yandex.Direct,Yandex.Direct,1
+Advertising Networks,,Yieldlab,Yieldlab,1
+Advertising Networks,,Zanox,Zanox,1
+Analytics,,AD EBiS,AD EBiS,1
+Analytics,,ADPLAN,ADPLAN,1
+Analytics,,Advanced Web Stats,Advanced Web Stats,1
+Analytics,,Amplitude,Amplitude,1
+Analytics,,AT Internet Analyzer,AT Internet Analyzer,1
+Analytics,,AT Internet XiTi,AT Internet XiTi,1
+Analytics,,AWStats,AWStats,1
+Analytics,,BugSense,BugSense,1
+Analytics,,BugSnag,BugSnag,1
+Analytics,,Chartbeat,Chartbeat,1
+Analytics,,ClickHeat,ClickHeat,1
+Analytics,,ClickTale,ClickTale,1
+Analytics,,Clicky,Clicky,1
+Analytics,,CO2Stats,CO2Stats,1
+Analytics,,comScore,comScore,1
+Analytics,,ConversionLab,ConversionLab,1
+Analytics,,Crazy Egg,Crazy Egg,1
+Analytics,,Cross Pixel,Cross Pixel,1
+Analytics,,Dynamicweb,Dynamicweb,1
+Analytics,,Dynatrace,Dynatrace,1
+Analytics,,Freespee,Freespee,1
+Analytics,,Freshmarketer,Freshmarketer,1
+Analytics,,Gauges,Gauges,1
+Analytics,,Google Analytics,Google Analytics,1
+Analytics,,Google Analytics Enhanced eCommerce,Google Analytics Enhanced eCommerce,1
+Analytics,,GoSquared,GoSquared,1
+Analytics,,GoStats,GoStats,1
+Analytics,,Gravity Insights,Gravity Insights,1
+Analytics,,Heap,Heap,1
+Analytics,,Hotjar,Hotjar,1
+Analytics,,IBM Coremetrics,IBM Coremetrics,1
+Analytics,,INFOnline,INFOnline,1
+Analytics,,Inspectlet,Inspectlet,1
+Analytics,,Intercom,Intercom,1
+Analytics,,ip-label,ip-label,1
+Analytics,,Jirafe,Jirafe,1
+Analytics,,Kampyle,Kampyle,1
+Analytics,,KISSmetrics,KISSmetrics,1
+Analytics,,Liveinternet,Liveinternet,1
+Analytics,,Luigi’s Box,Luigi’s Box,1
+Analytics,,Matomo,Matomo,1
+Analytics,,Mint,Mint,1
+Analytics,,Mixpanel,Mixpanel,1
+Analytics,,Mouse Flow,Mouse Flow,1
+Analytics,,Navegg,Navegg,1
+Analytics,,Netmonitor,Netmonitor,1
+Analytics,,New Relic,New Relic,1
+Analytics,,OneAPM,OneAPM,1
+Analytics,,OneStat,OneStat,1
+Analytics,,Open Web Analytics,Open Web Analytics,1
+Analytics,,Optimizely,Optimizely,1
+Analytics,,Oracle Recommendations On Demand,Oracle Recommendations On Demand,1
+Analytics,,Parse.ly,Parse.ly,1
+Analytics,,Quantcast,Quantcast,1
+Analytics,,Reinvigorate,Reinvigorate,1
+Analytics,,Ruxit,Ruxit,1
+Analytics,,Segment,Segment,1
+Analytics,,ShinyStat,ShinyStat,1
+Analytics,,Shopalize,Shopalize,1
+Analytics,,Site Meter,Site Meter,1
+Analytics,,SiteCatalyst,SiteCatalyst,1
+Analytics,,Snoobi,Snoobi,1
+Analytics,,Statcounter,Statcounter,1
+Analytics,,Tealeaf,Tealeaf,1
+Analytics,,TrackJs,TrackJs,1
+Analytics,,UserEngage,UserEngage,1
+Analytics,,UserGuiding,UserGuiding,1
+Analytics,,Visual Website Optimizer,Visual Website Optimizer,1
+Analytics,,VisualPath,VisualPath,1
+Analytics,,W3Counter,W3Counter,1
+Analytics,,Web Optimizer,Web Optimizer,1
+Analytics,,Webtrekk,Webtrekk,1
+Analytics,,Webtrends,Webtrends,1
+Analytics,,Woopra,Woopra,1
+Analytics,,Yahoo! Web Analytics,Yahoo! Web Analytics,1
+Analytics,,Yandex.Metrika,Yandex.Metrika,1
+Blogs,,Aegea,Aegea,1
+Blogs,,Blogger,Blogger,1
+Blogs,,BoldGrid,BoldGrid,1
+Blogs,,ContentBox,ContentBox,1
+Blogs,,Ghost,Ghost,1
+Blogs,,LiveJournal,LiveJournal,1
+Blogs,,Medium,Medium,1
+Blogs,,Mura CMS,Mura CMS,1
+Blogs,,Ophal,Ophal,1
+Blogs,,PencilBlue,PencilBlue,1
+Blogs,,Posterous,Posterous,1
+Blogs,,Roadiz CMS,Roadiz CMS,1
+Blogs,,RockRMS,RockRMS,1
+Blogs,,Serendipity,Serendipity,1
+Blogs,,Svbtle,Svbtle,1
+Blogs,,Tiki Wiki CMS Groupware,Tiki Wiki CMS Groupware,1
+Blogs,,Tumblr,Tumblr,1
+Blogs,,Typecho,Typecho,1
+Blogs,,TypePad,TypePad,1
+Blogs,,Virgool,Virgool,1
+Blogs,,WordPress,WordPress,1
+Blogs,,Zinnia,Zinnia,1
+Build CI Systems,,GitLab CI,GitLab CI,1
+Build CI Systems,,Jenkins,Jenkins,1
+Build CI Systems,,TeamCity,TeamCity,1
+Cache Tools,,Google PageSpeed,Google PageSpeed,1
+Cache Tools,,Oracle Web Cache,Oracle Web Cache,1
+Cache Tools,,RackCache,RackCache,1
+Cache Tools,,Varnish,Varnish,1
+Cache Tools,,W3 Total Cache,W3 Total Cache,1
+Cache Tools,,WordPress Super Cache,WordPress Super Cache,1
+Cache Tools,,WP Rocket,WP Rocket,1
+Cache Tools,,wpCache,wpCache,1
+Captchas,,CoinHive Captcha,CoinHive Captcha,1
+Captchas,,Mollom,Mollom,1
+Captchas,,reCAPTCHA,reCAPTCHA,1
+CDN,,Airee,Airee,1
+CDN,,Akamai,Akamai,1
+CDN,,Amazon Cloudfront,Amazon Cloudfront,1
+CDN,,ArvanCloud,ArvanCloud,1
+CDN,,Backtory,Backtory,1
+CDN,,CacheFly,CacheFly,1
+CDN,,CDN77,CDN77,1
+CDN,,CloudFlare,CloudFlare,1
+CDN,,EdgeCast,EdgeCast,1
+CDN,,Fastly,Fastly,1
+CDN,,Fireblade,Fireblade,1
+CDN,,GitHub Pages,GitHub Pages,1
+CDN,,Google Cloud,Google Cloud,1
+CDN,,Incapsula,Incapsula,1
+CDN,,KeyCDN,KeyCDN,1
+CDN,,MaxCDN,MaxCDN,1
+CDN,,Netlify,Netlify,1
+CDN,,Sucuri,Sucuri,1
+CMS,,1C-Bitrix,1C-Bitrix,1
+CMS,,3dCart,3dCart,1
+CMS,,a-blog cms,a-blog cms,1
+CMS,,Accessible Portal,Accessible Portal,1
+CMS,,actionhero.js,actionhero.js,1
+CMS,,Adobe Experience Manager,Adobe Experience Manager,1
+CMS,,Ametys,Ametys,1
+CMS,,Amiro.CMS,Amiro.CMS,1
+CMS,,AMPcms,AMPcms,1
+CMS,,Apostrophe CMS,Apostrophe CMS,1
+CMS,,AsciiDoc,AsciiDoc,1
+CMS,,Backdrop,Backdrop,1
+CMS,,Banshee,Banshee,1
+CMS,,BIGACE,BIGACE,1
+CMS,,Bolt,Bolt,1
+CMS,,Brightspot,Brightspot,1
+CMS,,BrowserCMS,BrowserCMS,1
+CMS,,Bubble,Bubble,1
+CMS,,Business Catalyst,Business Catalyst,1
+CMS,,Cargo,Cargo,1
+CMS,,Chameleon,Chameleon,1
+CMS,,Ckan,Ckan,1
+CMS,,CMS Made Simple,CMS Made Simple,1
+CMS,,CMSimple,CMSimple,1
+CMS,,Coaster CMS,Coaster CMS,1
+CMS,,Concrete5,Concrete5,1
+CMS,,Contao,Contao,1
+CMS,,Contenido,Contenido,1
+CMS,,Contens,Contens,1
+CMS,,Contentful,Contentful,1
+CMS,,Cotonti,Cotonti,1
+CMS,,CPG Dragonfly,CPG Dragonfly,1
+CMS,,CppCMS,CppCMS,1
+CMS,,Craft CMS,Craft CMS,1
+CMS,,Danneo CMS,Danneo CMS,1
+CMS,,DataLife Engine,DataLife Engine,1
+CMS,,DedeCMS,DedeCMS,1
+CMS,,Django CMS,Django CMS,1
+CMS,,DM Polopoly,DM Polopoly,1
+CMS,,DNN,DNN,1
+CMS,,Dotclear,Dotclear,1
+CMS,,DovetailWRP,DovetailWRP,1
+CMS,,Drupal,Drupal,1
+CMS,,DTG,DTG,1
+CMS,,e107,e107,1
+CMS,,Eleanor CMS,Eleanor CMS,1
+CMS,,enduro.js,enduro.js,1
+CMS,,EPiServer,EPiServer,1
+CMS,,eSyndiCat,eSyndiCat,1
+CMS,,ExpressionEngine,ExpressionEngine,1
+CMS,,eZ Publish,eZ Publish,1
+CMS,,FlexCMP,FlexCMP,1
+CMS,,Fork CMS,Fork CMS,1
+CMS,,GetSimple CMS,GetSimple CMS,1
+CMS,,Google Sites,Google Sites,1
+CMS,,govCMS,govCMS,1
+CMS,,Graffiti CMS,Graffiti CMS,1
+CMS,,Grav,Grav,1
+CMS,,Green Valley CMS,Green Valley CMS,1
+CMS,,GX WebManager,GX WebManager,1
+CMS,,Hinza Advanced CMS,Hinza Advanced CMS,1
+CMS,,Hippo,Hippo,1
+CMS,,Homeland,Homeland,1
+CMS,,Hotaru CMS,Hotaru CMS,1
+CMS,,IBM WebSphere Portal,IBM WebSphere Portal,1
+CMS,,imperia CMS,imperia CMS,1
+CMS,,ImpressCMS,ImpressCMS,1
+CMS,,ImpressPages,ImpressPages,1
+CMS,,Indexhibit,Indexhibit,1
+CMS,,Indico,Indico,1
+CMS,,InProces,InProces,1
+CMS,,InstantCMS,InstantCMS,1
+CMS,,io4 CMS,io4 CMS,1
+CMS,,Jahia DX,Jahia DX,1
+CMS,,Jalios,Jalios,1
+CMS,,Jimdo,Jimdo,1
+CMS,,Joomla,Joomla,1
+CMS,,Kentico CMS,Kentico CMS,1
+CMS,,Koala Framework,Koala Framework,1
+CMS,,Koken,Koken,1
+CMS,,Kolibri CMS,Kolibri CMS,1
+CMS,,Komodo CMS,Komodo CMS,1
+CMS,,Koobi,Koobi,1
+CMS,,Kooboo CMS,Kooboo CMS,1
+CMS,,Kotisivukone,Kotisivukone,1
+CMS,,LEPTON,LEPTON,1
+CMS,,Liferay,Liferay,1
+CMS,,LightMon Engine,LightMon Engine,1
+CMS,,Lithium,Lithium,1
+CMS,,LiveStreet CMS,LiveStreet CMS,1
+CMS,,Locomotive,Locomotive,1
+CMS,,Mambo,Mambo,1
+CMS,,MaxSite CMS,MaxSite CMS,1
+CMS,,Melis CMS V2,Melis CMS V2,1
+CMS,,Methode,Methode,1
+CMS,,Microsoft SharePoint,Microsoft SharePoint,1
+CMS,,MODX,MODX,1
+CMS,,Moguta.CMS,Moguta.CMS,1
+CMS,,Mono.net,Mono.net,1
+CMS,,MotoCMS,MotoCMS,1
+CMS,,Movable Type,Movable Type,1
+CMS,,Mozard Suite,Mozard Suite,1
+CMS,,Mynetcap,Mynetcap,1
+CMS,,MYPAGE Platform,MYPAGE Platform,1
+CMS,,Neos CMS,Neos CMS,1
+CMS,,Nepso,Nepso,1
+CMS,,October CMS,October CMS,1
+CMS,,Odoo,Odoo,1
+CMS,,OpenCms,OpenCms,1
+CMS,,openEngine,openEngine,1
+CMS,,OpenNemas,OpenNemas,1
+CMS,,OpenText Web Solutions,OpenText Web Solutions,1
+CMS,,Orchard CMS,Orchard CMS,1
+CMS,,Pagekit,Pagekit,1
+CMS,,Pagevamp,Pagevamp,1
+CMS,,PANSITE,PANSITE,1
+CMS,,papaya CMS,papaya CMS,1
+CMS,,Pars Elecom Portal,Pars Elecom Portal,1
+CMS,,Percussion,Percussion,1
+CMS,,PHP-Fusion,PHP-Fusion,1
+CMS,,PHP-Nuke,PHP-Nuke,1
+CMS,,phpCMS,phpCMS,1
+CMS,,phpSQLiteCMS,phpSQLiteCMS,1
+CMS,,phpwind,phpwind,1
+CMS,,Pimcore,Pimcore,1
+CMS,,pirobase CMS,pirobase CMS,1
+CMS,,Pligg,Pligg,1
+CMS,,Plone,Plone,1
+CMS,,Proximis Omnichannel,Proximis Omnichannel,1
+CMS,,Public CMS,Public CMS,1
+CMS,,PyroCMS,PyroCMS,1
+CMS,,Quick.CMS,Quick.CMS,1
+CMS,,Rayo,Rayo,1
+CMS,,RBS Change,RBS Change,1
+CMS,,RCMS,RCMS,1
+CMS,,RiteCMS,RiteCMS,1
+CMS,,S.Builder,S.Builder,1
+CMS,,Sarka-SPIP,Sarka-SPIP,1
+CMS,,SDL Tridion,SDL Tridion,1
+CMS,,SeamlessCMS,SeamlessCMS,1
+CMS,,Silva,Silva,1
+CMS,,SilverStripe,SilverStripe,1
+CMS,,Simplébo,Simplébo,1
+CMS,,SIMsite,SIMsite,1
+CMS,,Sitecore,Sitecore,1
+CMS,,SiteEdit,SiteEdit,1
+CMS,,Sitefinity,Sitefinity,1
+CMS,,Sivuviidakko,Sivuviidakko,1
+CMS,,SmartSite,SmartSite,1
+CMS,,sNews,sNews,1
+CMS,,Solodev,Solodev,1
+CMS,,SpinCMS,SpinCMS,1
+CMS,,SPIP,SPIP,1
+CMS,,Squarespace,Squarespace,1
+CMS,,Squiz Matrix,Squiz Matrix,1
+CMS,,Storyblok,Storyblok,1
+CMS,,Subrion,Subrion,1
+CMS,,Sulu,Sulu,1
+CMS,,swift.engine,swift.engine,1
+CMS,,Telescope,Telescope,1
+CMS,,Textpattern CMS,Textpattern CMS,1
+CMS,,Thelia,Thelia,1
+CMS,,TiddlyWiki,TiddlyWiki,1
+CMS,,Tilda,Tilda,1
+CMS,,Translucide,Translucide,1
+CMS,,Twilight CMS,Twilight CMS,1
+CMS,,TYPO3 CMS,TYPO3 CMS,1
+CMS,,uCore,uCore,1
+CMS,,uCoz,uCoz,1
+CMS,,uKnowva,uKnowva,1
+CMS,,Umbraco,Umbraco,1
+CMS,,UMI.CMS,UMI.CMS,1
+CMS,,Ushahidi,Ushahidi,1
+CMS,,Vigbo,Vigbo,1
+CMS,,Vignette,Vignette,1
+CMS,,VIVVO,VIVVO,1
+CMS,,webEdition,webEdition,1
+CMS,,WebGUI,WebGUI,1
+CMS,,WebPublisher,WebPublisher,1
+CMS,,Webs,Webs,1
+CMS,,WebsiteBaker,WebsiteBaker,1
+CMS,,WebsPlanet,WebsPlanet,1
+CMS,,Weebly,Weebly,1
+CMS,,Wix,Wix,1
+CMS,,Wolf CMS,Wolf CMS,1
+CMS,,Woosa,Woosa,1
+CMS,,XOOPS,XOOPS,1
+CMS,,XpressEngine,XpressEngine,1
+Comment Systems,,Disqus,Disqus,1
+Comment Systems,,IntenseDebate,IntenseDebate,1
+Comment Systems,,Livefyre,Livefyre,1
+Comment Systems,,Question2Answer,Question2Answer,1
+Control Systems,,Saia PCD,Saia PCD,1
+Control Systems,,SpiderControl iniNet,SpiderControl iniNet,1
+CRM,,INTI,INTI,1
+CRM,,LiveHelp,LiveHelp,1
+CRM,,Salesforce,Salesforce,1
+Cryptominer,,Cloudcoins,Cloudcoins,1
+Cryptominer,,Coinhave,Coinhave,1
+Cryptominer,,CoinHive,CoinHive,1
+Cryptominer,,Coinimp,Coinimp,1
+Cryptominer,,Coinlab,Coinlab,1
+Cryptominer,,Crypto-Loot,Crypto-Loot,1
+Cryptominer,,deepMiner,deepMiner,1
+Cryptominer,,Inwemo,Inwemo,1
+Cryptominer,,JSEcoin,JSEcoin,1
+Cryptominer,,Minero.cc,Minero.cc,1
+Cryptominer,,Monerominer,Monerominer,1
+Cryptominer,,ProjectPoi,ProjectPoi,1
+Cryptominer,,Webmine,Webmine,1
+Database Managers,,Adminer,Adminer,1
+Database Managers,,Bablic,Bablic,1
+Database Managers,,BigDump,BigDump,1
+Database Managers,,phpliteadmin,phpliteadmin,1
+Database Managers,,phpMyAdmin,phpMyAdmin,1
+Database Managers,,phpPgAdmin,phpPgAdmin,1
+Database Managers,,SQL Buddy,SQL Buddy,1
+Databases,,Apache Hadoop,Apache Hadoop,1
+Databases,,Apache HBase,Apache HBase,1
+Databases,,Cloudera,Cloudera,1
+Databases,,Firebase,Firebase,1
+Databases,,Lucene,Lucene,1
+Databases,,MongoDB,MongoDB,1
+Databases,,MySQL,MySQL,1
+Databases,,PostgreSQL,PostgreSQL,1
+Databases,,Solr,Solr,1
+Databases,,SQLite,SQLite,1
+Databases,,Virtuoso,Virtuoso,1
+Dev Tools,,Artifactory,Artifactory,1
+Dev Tools,,Atlassian Bitbucket,Atlassian Bitbucket,1
+Dev Tools,,Atlassian FishEye,Atlassian FishEye,1
+Dev Tools,,Atlassian Jira Issue Collector,Atlassian Jira Issue Collector,1
+Dev Tools,,Gerrit,Gerrit,1
+Dev Tools,,git,git,1
+Dev Tools,,Gitea,Gitea,1
+Dev Tools,,Gitiles,Gitiles,1
+Dev Tools,,GitLab,GitLab,1
+Dev Tools,,gitlist,gitlist,1
+Dev Tools,,gitweb,gitweb,1
+Dev Tools,,Gogs,Gogs,1
+Dev Tools,,Kubernetes Dashboard,Kubernetes Dashboard,1
+Dev Tools,,Phabricator,Phabricator,1
+Dev Tools,,PHPDebugBar,PHPDebugBar,1
+Dev Tools,,SonarQubes,SonarQubes,1
+Dev Tools,,styled-components,styled-components,1
+Document Management Systems,,Invenio,Invenio,1
+Document Management Systems,,MHonArc,MHonArc,1
+Document Management Systems,,Open Journal Systems,Open Journal Systems,1
+Documentation Tools,,Adobe RoboHelp,Adobe RoboHelp,1
+Documentation Tools,,Docusaurus,Docusaurus,1
+Documentation Tools,,Doxygen,Doxygen,1
+Documentation Tools,,GitBook,GitBook,1
+Documentation Tools,,Haddock,Haddock,1
+Documentation Tools,,MkDocs,MkDocs,1
+Documentation Tools,,phpDocumentor,phpDocumentor,1
+Documentation Tools,,RDoc,RDoc,1
+Documentation Tools,,ReDoc,ReDoc,1
+Documentation Tools,,Sphinx,Sphinx,1
+Documentation Tools,,YUI Doc,YUI Doc,1
+Ecommerce,,Afosto,Afosto,1
+Ecommerce,,AfterBuy,AfterBuy,1
+Ecommerce,,Arastta,Arastta,1
+Ecommerce,,Avangate,Avangate,1
+Ecommerce,,Bigcommerce,Bigcommerce,1
+Ecommerce,,Bigware,Bigware,1
+Ecommerce,,Bizweb,Bizweb,1
+Ecommerce,,Blesta,Blesta,1
+Ecommerce,,Clientexec,Clientexec,1
+Ecommerce,,CloudCart,CloudCart,1
+Ecommerce,,ColorMeShop,ColorMeShop,1
+Ecommerce,,Comandia,Comandia,1
+Ecommerce,,Commerce Server,Commerce Server,1
+Ecommerce,,Cosmoshop,Cosmoshop,1
+Ecommerce,,Craft Commerce,Craft Commerce,1
+Ecommerce,,CS Cart,CS Cart,1
+Ecommerce,,CubeCart,CubeCart,1
+Ecommerce,,Drupal Commerce,Drupal Commerce,1
+Ecommerce,,EC-CUBE,EC-CUBE,1
+Ecommerce,,Elcodi,Elcodi,1
+Ecommerce,,EPages,EPages,1
+Ecommerce,,Fastcommerce,Fastcommerce,1
+Ecommerce,,Fbits,Fbits,1
+Ecommerce,,Fortune3,Fortune3,1
+Ecommerce,,Future Shop,Future Shop,1
+Ecommerce,,FWP,FWP,1
+Ecommerce,,Gambio,Gambio,1
+Ecommerce,,Haravan,Haravan,1
+Ecommerce,,Hybris,Hybris,1
+Ecommerce,,IBM WebSphere Commerce,IBM WebSphere Commerce,1
+Ecommerce,,iCongo,iCongo,1
+Ecommerce,,Ideasoft,Ideasoft,1
+Ecommerce,,IdoSell Shop,IdoSell Shop,1
+Ecommerce,,Intershop,Intershop,1
+Ecommerce,,iPresta,iPresta,1
+Ecommerce,,JET Enterprise,JET Enterprise,1
+Ecommerce,,Jetshop,Jetshop,1
+Ecommerce,,JTL Shop,JTL Shop,1
+Ecommerce,,Kajabi,Kajabi,1
+Ecommerce,,Kamva,Kamva,1
+Ecommerce,,Klarna Checkout,Klarna Checkout,1
+Ecommerce,,KobiMaster,KobiMaster,1
+Ecommerce,,Lightspeed eCom,Lightspeed eCom,1
+Ecommerce,,Magento,Magento,1
+Ecommerce,,MakeShopKorea,MakeShopKorea,1
+Ecommerce,,Mietshop,Mietshop,1
+Ecommerce,,Modified,Modified,1
+Ecommerce,,Mondo Media,Mondo Media,1
+Ecommerce,,NEO - Omnichannel Commerce Platform,NEO - Omnichannel Commerce Platform,1
+Ecommerce,,Neto,Neto,1
+Ecommerce,,Netsuite,Netsuite,1
+Ecommerce,,nopCommerce,nopCommerce,1
+Ecommerce,,Open Classifieds,Open Classifieds,1
+Ecommerce,,Open eShop,Open eShop,1
+Ecommerce,,OpenCart,OpenCart,1
+Ecommerce,,Oracle Commerce,Oracle Commerce,1
+Ecommerce,,Oracle Commerce Cloud,Oracle Commerce Cloud,1
+Ecommerce,,osCommerce,osCommerce,1
+Ecommerce,,osCSS,osCSS,1
+Ecommerce,,OXID eShop,OXID eShop,1
+Ecommerce,,Plentymarkets,Plentymarkets,1
+Ecommerce,,Powergap,Powergap,1
+Ecommerce,,PrestaShop,PrestaShop,1
+Ecommerce,,Projesoft,Projesoft,1
+Ecommerce,,Proximis Web to Store,Proximis Web to Store,1
+Ecommerce,,Quick.Cart,Quick.Cart,1
+Ecommerce,,Rakuten DBCore,Rakuten DBCore,1
+Ecommerce,,Rakuten Digital Commerce,Rakuten Digital Commerce,1
+Ecommerce,,Robin,Robin,1
+Ecommerce,,Salesforce Commerce Cloud,Salesforce Commerce Cloud,1
+Ecommerce,,Sazito,Sazito,1
+Ecommerce,,Shopatron,Shopatron,1
+Ecommerce,,Shopcada,Shopcada,1
+Ecommerce,,Shoper,Shoper,1
+Ecommerce,,Shopery,Shopery,1
+Ecommerce,,Shopfa,Shopfa,1
+Ecommerce,,Shopify,Shopify,1
+Ecommerce,,Shoptet,Shoptet,1
+Ecommerce,,Shopware,Shopware,1
+Ecommerce,,Smartstore,Smartstore,1
+Ecommerce,,SoftTr,SoftTr,1
+Ecommerce,,Solusquare OmniCommerce Cloud,Solusquare OmniCommerce Cloud,1
+Ecommerce,,Spree,Spree,1
+Ecommerce,,Store Systems,Store Systems,1
+Ecommerce,,Storeden,Storeden,1
+Ecommerce,,Strato,Strato,1
+Ecommerce,,Textalk,Textalk,1
+Ecommerce,,Ticimax,Ticimax,1
+Ecommerce,,Tictail,Tictail,1
+Ecommerce,,TomatoCart,TomatoCart,1
+Ecommerce,,TotalCode,TotalCode,1
+Ecommerce,,Tray,Tray,1
+Ecommerce,,Ubercart,Ubercart,1
+Ecommerce,,UltraCart,UltraCart,1
+Ecommerce,,Venda,Venda,1
+Ecommerce,,vibecommerce,vibecommerce,1
+Ecommerce,,VirtueMart,VirtueMart,1
+Ecommerce,,Volusion,Volusion,1
+Ecommerce,,VP-ASP,VP-ASP,1
+Ecommerce,,VTEX Enterprise,VTEX Enterprise,1
+Ecommerce,,VTEX Integrated Store,VTEX Integrated Store,1
+Ecommerce,,Websale,Websale,1
+Ecommerce,,WEBXPAY,WEBXPAY,1
+Ecommerce,,WHMCS,WHMCS,1
+Ecommerce,,Wikinggruppen,Wikinggruppen,1
+Ecommerce,,WooCommerce,WooCommerce,1
+Ecommerce,,X-Cart,X-Cart,1
+Ecommerce,,Xanario,Xanario,1
+Ecommerce,,Xonic,Xonic,1
+Ecommerce,,xtCommerce,xtCommerce,1
+Ecommerce,,Yahoo! Ecommerce,Yahoo! Ecommerce,1
+Ecommerce,,Zen Cart,Zen Cart,1
+Ecommerce,,Zeuscart,Zeuscart,1
+Editors,,Adobe GoLive,Adobe GoLive,1
+Editors,,Adobe Muse,Adobe Muse,1
+Editors,,Amaya,Amaya,1
+Editors,,Bluefish,Bluefish,1
+Editors,,DreamWeaver,DreamWeaver,1
+Editors,,FrontPage,FrontPage,1
+Editors,,iWeb,iWeb,1
+Editors,,Microsoft Excel,Microsoft Excel,1
+Editors,,Microsoft PowerPoint,Microsoft PowerPoint,1
+Editors,,Microsoft Publisher,Microsoft Publisher,1
+Editors,,Microsoft Word,Microsoft Word,1
+Editors,,Unbounce,Unbounce,1
+Editors,,Webdev,Webdev,1
+Editors,,WebSite X5,WebSite X5,1
+Feed Readers,,Planet,Planet,1
+Font Scripts,,Cufon,Cufon,1
+Font Scripts,,Font Awesome,Font Awesome,1
+Font Scripts,,Glyphicons,Glyphicons,1
+Font Scripts,,Google Font API,Google Font API,1
+Font Scripts,,Ionicons,Ionicons,1
+Font Scripts,,sIFR,sIFR,1
+Font Scripts,,Typekit,Typekit,1
+Hosting Panels,,cPanel,cPanel,1
+Hosting Panels,,DirectAdmin,DirectAdmin,1
+Hosting Panels,,Plesk,Plesk,1
+Issue Trackers,,Atlassian Jira,Atlassian Jira,1
+Issue Trackers,,Bugzilla,Bugzilla,1
+Issue Trackers,,Flyspray,Flyspray,1
+Issue Trackers,,Get Satisfaction,Get Satisfaction,1
+Issue Trackers,,MantisBT,MantisBT,1
+Issue Trackers,,osTicket,osTicket,1
+Issue Trackers,,otrs,otrs,1
+Issue Trackers,,Redmine,Redmine,1
+Issue Trackers,,Sentry,Sentry,1
+Issue Trackers,,Taiga,Taiga,1
+Issue Trackers,,Trac,Trac,1
+Issue Trackers,,Usabilla,Usabilla,1
+Issue Trackers,,UserRules,UserRules,1
+Issue Trackers,,UserVoice,UserVoice,1
+Issue Trackers,,YouTrack,YouTrack,1
+Frameworks,JavaScript,Accelerated Mobile Pages,Accelerated Mobile Pages,1
+Frameworks,JavaScript,AlloyUI,AlloyUI,1
+Frameworks,JavaScript,Angular,Angular,1
+Frameworks,JavaScript,AngularJS,AngularJS,1
+Frameworks,JavaScript,Ant Design,Ant Design,1
+Frameworks,JavaScript,Aurelia,Aurelia,1
+Frameworks,JavaScript,Backbone.js,Backbone.js,1
+Frameworks,JavaScript,BEM,BEM,1
+Frameworks,JavaScript,Catberry.js,Catberry.js,1
+Frameworks,JavaScript,ef.js,ef.js,1
+Frameworks,JavaScript,Ember.js,Ember.js,1
+Frameworks,JavaScript,Enyo,Enyo,1
+Frameworks,JavaScript,ExtJS,ExtJS,1
+Frameworks,JavaScript,Gatsby,Gatsby,1
+Frameworks,JavaScript,Handlebars,Handlebars,1
+Frameworks,JavaScript,Hogan.js,Hogan.js,1
+Frameworks,JavaScript,InfernoJS,InfernoJS,1
+Frameworks,JavaScript,Knockout.js,Knockout.js,1
+Frameworks,JavaScript,Marionette.js,Marionette.js,1
+Frameworks,JavaScript,Mean.io,Mean.io,1
+Frameworks,JavaScript,Meteor,Meteor,1
+Frameworks,JavaScript,Moon,Moon,1
+Frameworks,JavaScript,MooTools,MooTools,1
+Frameworks,JavaScript,Mustache,Mustache,1
+Frameworks,JavaScript,OpenUI5,OpenUI5,1
+Frameworks,JavaScript,Phaser,Phaser,1
+Frameworks,JavaScript,Polymer,Polymer,1
+Frameworks,JavaScript,Prototype,Prototype,1
+Frameworks,JavaScript,React,React,1
+Frameworks,JavaScript,RequireJS,RequireJS,1
+Frameworks,JavaScript,Reveal.js,Reveal.js,1
+Frameworks,JavaScript,RightJS,RightJS,1
+Frameworks,JavaScript,Riot,Riot,1
+Frameworks,JavaScript,RxJS,RxJS,1
+Frameworks,JavaScript,Sencha Touch,Sencha Touch,1
+Frameworks,JavaScript,Socket.io,Socket.io,1
+Frameworks,JavaScript,Strapdown.js,Strapdown.js,1
+Frameworks,JavaScript,Transifex,Transifex,1
+Frameworks,JavaScript,TweenMax,TweenMax,1
+Frameworks,JavaScript,Twitter Flight,Twitter Flight,1
+Frameworks,JavaScript,Vue.js,Vue.js,1
+Frameworks,JavaScript,Webix,Webix,1
+Frameworks,JavaScript,Wink,Wink,1
+Frameworks,JavaScript,Zone.js,Zone.js,1
+Graphics,JavaScript,A-Frame,A-Frame,1
+Graphics,JavaScript,amCharts,amCharts,1
+Graphics,JavaScript,Chart.js,Chart.js,1
+Graphics,JavaScript,D3,D3,1
+Graphics,JavaScript,Epoch,Epoch,1
+Graphics,JavaScript,Exhibit,Exhibit,1
+Graphics,JavaScript,Google Charts,Google Charts,1
+Graphics,JavaScript,Highcharts,Highcharts,1
+Graphics,JavaScript,Highstock,Highstock,1
+Graphics,JavaScript,JavaScript Infovis Toolkit,JavaScript Infovis Toolkit,1
+Graphics,JavaScript,jqPlot,jqPlot,1
+Graphics,JavaScript,jQuery Sparklines,jQuery Sparklines,1
+Graphics,JavaScript,JS Charts,JS Charts,1
+Graphics,JavaScript,Kibana,Kibana,1
+Graphics,JavaScript,KineticJS,KineticJS,1
+Graphics,JavaScript,MathJax,MathJax,1
+Graphics,JavaScript,Mermaid,Mermaid,1
+Graphics,JavaScript,NVD3,NVD3,1
+Graphics,JavaScript,Paper.js,Paper.js,1
+Graphics,JavaScript,particles.js,particles.js,1
+Graphics,JavaScript,Paths.js,Paths.js,1
+Graphics,JavaScript,Plotly,Plotly,1
+Graphics,JavaScript,Protovis,Protovis,1
+Graphics,JavaScript,Raphael,Raphael,1
+Graphics,JavaScript,Rickshaw,Rickshaw,1
+Graphics,JavaScript,shine.js,shine.js,1
+Graphics,JavaScript,Supersized,Supersized,1
+Graphics,JavaScript,three.js,three.js,1
+Graphics,JavaScript,Timeplot,Timeplot,1
+Graphics,JavaScript,xCharts,xCharts,1
+Libraries,JavaScript,basket.js,basket.js,1
+Libraries,JavaScript,Boba.js,Boba.js,1
+Libraries,JavaScript,Bootstrap Table,Bootstrap Table,1
+Libraries,JavaScript,DataTables,DataTables,1
+Libraries,JavaScript,DHTMLX,DHTMLX,1
+Libraries,JavaScript,Dojo,Dojo,1
+Libraries,JavaScript,FancyBox,FancyBox,1
+Libraries,JavaScript,Fingerprintjs,Fingerprintjs,1
+Libraries,JavaScript,Flickity,Flickity,1
+Libraries,JavaScript,Hammer.js,Hammer.js,1
+Libraries,JavaScript,HeadJS,HeadJS,1
+Libraries,JavaScript,Immutable.js,Immutable.js,1
+Libraries,JavaScript,jQuery,jQuery,1
+Libraries,JavaScript,jQuery Migrate,jQuery Migrate,1
+Libraries,JavaScript,jQuery UI,jQuery UI,1
+Libraries,JavaScript,Lazy.js,Lazy.js,1
+Libraries,JavaScript,Lightbox,Lightbox,1
+Libraries,JavaScript,List.js,List.js,1
+Libraries,JavaScript,Lodash,Lodash,1
+Libraries,JavaScript,Marked,Marked,1
+Libraries,JavaScript,math.js,math.js,1
+Libraries,JavaScript,MochiKit,MochiKit,1
+Libraries,JavaScript,Modernizr,Modernizr,1
+Libraries,JavaScript,Moment Timezone,Moment Timezone,1
+Libraries,JavaScript,Moment.js,Moment.js,1
+Libraries,JavaScript,Polyfill,Polyfill,1
+Libraries,JavaScript,prettyPhoto,prettyPhoto,1
+Libraries,JavaScript,Ramda,Ramda,1
+Libraries,JavaScript,script.aculo.us,script.aculo.us,1
+Libraries,JavaScript,scrollreveal,scrollreveal,1
+Libraries,JavaScript,Select2,Select2,1
+Libraries,JavaScript,Slick,Slick,1
+Libraries,JavaScript,Slimbox,Slimbox,1
+Libraries,JavaScript,Slimbox 2,Slimbox 2,1
+Libraries,JavaScript,Snap.svg,Snap.svg,1
+Libraries,JavaScript,SoundManager,SoundManager,1
+Libraries,JavaScript,SweetAlert,SweetAlert,1
+Libraries,JavaScript,SweetAlert2,SweetAlert2,1
+Libraries,JavaScript,Twitter typeahead.js,Twitter typeahead.js,1
+Libraries,JavaScript,Underscore.js,Underscore.js,1
+Libraries,JavaScript,Xajax,Xajax,1
+Libraries,JavaScript,XRegExp,XRegExp,1
+Libraries,JavaScript,YUI,YUI,1
+Libraries,JavaScript,Zepto,Zepto,1
+Landing Page Builders,,ApexPages,ApexPages,1
+Landing Page Builders,,Mobirise,Mobirise,1
+Live Chat,,Aircall,Aircall,1
+Live Chat,,Bold Chat,Bold Chat,1
+Live Chat,,LiveAgent,LiveAgent,1
+Live Chat,,LiveChat,LiveChat,1
+Live Chat,,LivePerson,LivePerson,1
+Live Chat,,Olark,Olark,1
+Live Chat,,Raychat,Raychat,1
+Live Chat,,Tawk.to,Tawk.to,1
+Live Chat,,UserLike,UserLike,1
+Live Chat,,Zendesk Chat,Zendesk Chat,1
+LMS,,Chamilo,Chamilo,1
+LMS,,Dokeos,Dokeos,1
+LMS,,Koha,Koha,1
+LMS,,Moodle,Moodle,1
+LMS,,Scholica,Scholica,1
+Maps,,ArcGIS API for JavaScript,ArcGIS API for JavaScript,1
+Maps,,Google Maps,Google Maps,1
+Maps,,HERE,HERE,0
+Maps,,Leaflet,Leaflet,1
+Maps,,OpenLayers,OpenLayers,1
+Marketing Automation,,Act-On,Act-On,1
+Marketing Automation,,Bounce Exchange,Bounce Exchange,1
+Marketing Automation,,Eloqua,Eloqua,1
+Marketing Automation,,HubSpot,HubSpot,1
+Marketing Automation,,Infusionsoft,Infusionsoft,1
+Marketing Automation,,MailChimp,MailChimp,1
+Marketing Automation,,Marketo,Marketo,1
+Marketing Automation,,Mautic,Mautic,1
+Marketing Automation,,Pardot,Pardot,1
+Marketing Automation,,RD Station,RD Station,1
+Marketing Automation,,Signal,Signal,1
+Marketing Automation,,SumoMe,SumoMe,1
+Media Servers,,Logitech Media Server,Logitech Media Server,1
+Media Servers,,MediaTomb,MediaTomb,1
+Media Servers,,Wowza Media Server,Wowza Media Server,1
+Message Boards,,Arc Forum,Arc Forum,1
+Message Boards,,Burning Board,Burning Board,1
+Message Boards,,Discourse,Discourse,1
+Message Boards,,Discuz! X,Discuz! X,1
+Message Boards,,Flarum,Flarum,1
+Message Boards,,FluxBB,FluxBB,1
+Message Boards,,IPB,IPB,1
+Message Boards,,Mattermost,Mattermost,1
+Message Boards,,MiniBB,MiniBB,1
+Message Boards,,MyBB,MyBB,1
+Message Boards,,NodeBB,NodeBB,1
+Message Boards,,phpBB,phpBB,1
+Message Boards,,punBB,punBB,1
+Message Boards,,Reddit,Reddit,1
+Message Boards,,SMF,SMF,1
+Message Boards,,Vanilla,Vanilla,1
+Message Boards,,vBulletin,vBulletin,1
+Message Boards,,XenForo,XenForo,1
+Message Boards,,XMB,XMB,1
+Message Boards,,YaBB,YaBB,1
+Miscellaneous,,Amazon S3,Amazon S3,1
+Miscellaneous,,cgit,cgit,1
+Miscellaneous,,Clipboard.js,Clipboard.js,1
+Miscellaneous,,CodeMirror,CodeMirror,1
+Miscellaneous,,ELOG,ELOG,1
+Miscellaneous,,EPrints,EPrints,1
+Miscellaneous,,Google Code Prettify,Google Code Prettify,1
+Miscellaneous,,Gravatar,Gravatar,1
+Miscellaneous,,Gravity Forms,Gravity Forms,1
+Miscellaneous,,Highlight.js,Highlight.js,1
+Miscellaneous,,HTTP/2,HTTP/2,1
+Miscellaneous,,Jive,Jive,1
+Miscellaneous,,JobberBase,JobberBase,1
+Miscellaneous,,K2,K2,1
+Miscellaneous,,Less,Less,1
+Miscellaneous,,LimeSurvey,LimeSurvey,1
+Miscellaneous,,NOIX,NOIX,1
+Miscellaneous,,OpenGrok,OpenGrok,1
+Miscellaneous,,Oracle Dynamic Monitoring Service,Oracle Dynamic Monitoring Service,1
+Miscellaneous,,ownCloud,ownCloud,1
+Miscellaneous,,parcel,parcel,1
+Miscellaneous,,PDF.js,PDF.js,1
+Miscellaneous,,Prefix-Free,Prefix-Free,1
+Miscellaneous,,Prism,Prism,1
+Miscellaneous,,Pygments,Pygments,1
+Miscellaneous,,Revslider,Revslider,1
+Miscellaneous,,SOBI 2,SOBI 2,1
+Miscellaneous,,SobiPro,SobiPro,1
+Miscellaneous,,SPDY,SPDY,1
+Miscellaneous,,Splunk,Splunk,1
+Miscellaneous,,Sqreen,Sqreen,1
+Miscellaneous,,SWFObject,SWFObject,1
+Miscellaneous,,SyntaxHighlighter,SyntaxHighlighter,1
+Miscellaneous,,Twitter Emoji (Twemoji),Twitter Emoji (Twemoji),1
+Miscellaneous,,webpack,webpack,1
+Miscellaneous,,Zabbix,Zabbix,1
+Frameworks,Mobile,jQTouch,jQTouch,1
+Frameworks,Mobile,jQuery Mobile,jQuery Mobile,1
+Frameworks,Mobile,Mobify,Mobify,1
+Network Devices,,HP ProCurve,HP ProCurve,1
+Network Devices,,Moxa,Moxa,1
+Network Storage,,Synology DiskStation,Synology DiskStation,1
+Operating Systems,,CentOS,CentOS,1
+Operating Systems,,Darwin,Darwin,1
+Operating Systems,,Debian,Debian,1
+Operating Systems,,Fedora,Fedora,1
+Operating Systems,,FreeBSD,FreeBSD,1
+Operating Systems,,Gentoo,Gentoo,1
+Operating Systems,,M.R. Inc BoxyOS,M.R. Inc BoxyOS,1
+Operating Systems,,Raspbian,Raspbian,1
+Operating Systems,,Red Hat,Red Hat,1
+Operating Systems,,Scientific Linux,Scientific Linux,1
+Operating Systems,,SunOS,SunOS,1
+Operating Systems,,SUSE,SUSE,1
+Operating Systems,,Ubuntu,Ubuntu,1
+Operating Systems,,UNIX,UNIX,1
+Operating Systems,,Windows CE,Windows CE,1
+Operating Systems,,Windows Server,Windows Server,1
+Payment Processors,,Adyen,Adyen,1
+Payment Processors,,Braintree,Braintree,1
+Payment Processors,,Google Wallet,Google Wallet,1
+Payment Processors,,Laterpay,Laterpay,1
+Payment Processors,,PayPal,PayPal,1
+Payment Processors,,Stripe,Stripe,1
+Photo Galleries,,Coppermine,Coppermine,1
+Photo Galleries,,Gallery,Gallery,1
+Photo Galleries,,JAlbum,JAlbum,1
+Photo Galleries,,NextGEN Gallery,NextGEN Gallery,1
+Photo Galleries,,phpAlbum,phpAlbum,1
+Photo Galleries,,Zenfolio,Zenfolio,1
+Programming Languages,,C++,C++,1
+Programming Languages,,CFML,CFML,1
+Programming Languages,,Dart,Dart,1
+Programming Languages,,Erlang,Erlang,1
+Programming Languages,,Go,Go,1
+Programming Languages,,Haskell,Haskell,1
+Programming Languages,,Java,Java,1
+Programming Languages,,Lua,Lua,1
+Programming Languages,,Node.js,Node.js,1
+Programming Languages,,Perl,Perl,1
+Programming Languages,,PHP,PHP,1
+Programming Languages,,Python,Python,1
+Programming Languages,,Rdf,Rdf,1
+Programming Languages,,Ruby,Ruby,1
+Programming Languages,,Scala,Scala,1
+Programming Languages,,Sparql,Sparql,1
+Programming Languages,,Xeora,Xeora,1
+Remote Access,,HP iLO,HP iLO,1
+Remote Access,,HP System Management,HP System Management,1
+Remote Access,,Intel Active Management Technology,Intel Active Management Technology,1
+Remote Access,,ShellInABox,ShellInABox,1
+Rich Text Editors,,CKEditor,CKEditor,1
+Rich Text Editors,,Etherpad,Etherpad,1
+Rich Text Editors,,FreeTextBox,FreeTextBox,1
+Rich Text Editors,,Froala Editor,Froala Editor,1
+Rich Text Editors,,Quill,Quill,1
+Rich Text Editors,,TinyMCE,TinyMCE,1
+Search Engines,,Algolia Realtime Search,Algolia Realtime Search,1
+Search Engines,,Awesomplete,Awesomplete,1
+Search Engines,,Fact Finder,Fact Finder,1
+Search Engines,,FAST ESP,FAST ESP,1
+Search Engines,,FAST Search for SharePoint,FAST Search for SharePoint,1
+Search Engines,,Gazelle,Gazelle,1
+Search Engines,,Swiftype,Swiftype,1
+SEO,,All in One SEO Pack,All in One SEO Pack,1
+SEO,,Yoast SEO,Yoast SEO,1
+Static Site Generator,,Hexo,Hexo,1
+Static Site Generator,,Hugo,Hugo,1
+Static Site Generator,,Jekyll,Jekyll,1
+Static Site Generator,,Octopress,Octopress,1
+Static Site Generator,,Pelican,Pelican,1
+Static Site Generator,,Phenomic,Phenomic,1
+Static Site Generator,,PHPoole,PHPoole,1
+Tag Managers,,Adobe DTM,Adobe DTM,1
+Tag Managers,,Ensighten,Ensighten,1
+Tag Managers,,Google Tag Manager,Google Tag Manager,1
+Tag Managers,,Yahoo! Tag Manager,Yahoo! Tag Manager,1
+User Onboarding,,Appcues,Appcues,1
+User Onboarding,,Pendo,Pendo,1
+Video Players,,Asciinema,Asciinema,1
+Video Players,,Blip.tv,Blip.tv,1
+Video Players,,MediaElement.js,MediaElement.js,1
+Video Players,,SublimeVideo,SublimeVideo,1
+Video Players,,VideoJS,VideoJS,1
+Video Players,,Vimeo,Vimeo,1
+Video Players,,YouTube,YouTube,1
+Frameworks,Web,Adobe ColdFusion,Adobe ColdFusion,1
+Frameworks,Web,Akka HTTP,Akka HTTP,1
+Frameworks,Web,Amber,Amber,1
+Frameworks,Web,Angular Material,Angular Material,1
+Frameworks,Web,AngularDart,AngularDart,1
+Frameworks,Web,animate.css,animate.css,1
+Frameworks,Web,Apache Wicket,Apache Wicket,1
+Frameworks,Web,Blade,Blade,1
+Frameworks,Web,Bonfire,Bonfire,1
+Frameworks,Web,Bootstrap,Bootstrap,1
+Frameworks,Web,Bulma,Bulma,1
+Frameworks,Web,CakePHP,CakePHP,1
+Frameworks,Web,CherryPy,CherryPy,1
+Frameworks,Web,CodeIgniter,CodeIgniter,1
+Frameworks,Web,Connect,Connect,1
+Frameworks,Web,Cowboy,Cowboy,1
+Frameworks,Web,Dancer,Dancer,1
+Frameworks,Web,Django,Django,1
+Frameworks,Web,Express,Express,1
+Frameworks,Web,Fat-Free Framework,Fat-Free Framework,1
+Frameworks,Web,Flask,Flask,1
+Frameworks,Web,Flat UI,Flat UI,1
+Frameworks,Web,Google Web Toolkit,Google Web Toolkit,1
+Frameworks,Web,hapi.js,hapi.js,1
+Frameworks,Web,Includable,Includable,1
+Frameworks,Web,Java Servlet,Java Servlet,1
+Frameworks,Web,JavaServer Faces,JavaServer Faces,1
+Frameworks,Web,JavaServer Pages,JavaServer Pages,1
+Frameworks,Web,Kemal,Kemal,1
+Frameworks,Web,Kendo UI,Kendo UI,1
+Frameworks,Web,Koa,Koa,1
+Frameworks,Web,Kohana,Kohana,1
+Frameworks,Web,Laravel,Laravel,1
+Frameworks,Web,Lift,Lift,1
+Frameworks,Web,Lighty,Lighty,1
+Frameworks,Web,M.R. Inc SiteFrame,M.R. Inc SiteFrame,1
+Frameworks,Web,Material Design Lite,Material Design Lite,1
+Frameworks,Web,Materialize CSS,Materialize CSS,1
+Frameworks,Web,Microsoft ASP.NET,Microsoft ASP.NET,1
+Frameworks,Web,Milligram,Milligram,1
+Frameworks,Web,Mojolicious,Mojolicious,1
+Frameworks,Web,Mono,Mono,1
+Frameworks,Web,Neos Flow,Neos Flow,1
+Frameworks,Web,Nette Framework,Nette Framework,1
+Frameworks,Web,Next.js,Next.js,1
+Frameworks,Web,Play,Play,1
+Frameworks,Web,Pure CSS,Pure CSS,1
+Frameworks,Web,Revel,Revel,1
+Frameworks,Web,Ruby on Rails,Ruby on Rails,1
+Frameworks,Web,Sails.js,Sails.js,1
+Frameworks,Web,Semantic-ui,Semantic-ui,1
+Frameworks,Web,Shadow,Shadow,1
+Frameworks,Web,Shapecss,Shapecss,1
+Frameworks,Web,Snap,Snap,1
+Frameworks,Web,Swiftlet,Swiftlet,1
+Frameworks,Web,Symfony,Symfony,1
+Frameworks,Web,ThinkPHP,ThinkPHP,1
+Frameworks,Web,total.js,total.js,1
+Frameworks,Web,TwistPHP,TwistPHP,1
+Frameworks,Web,UIKit,UIKit,1
+Frameworks,Web,Vaadin,Vaadin,1
+Frameworks,Web,Visual WebGUI,Visual WebGUI,1
+Frameworks,Web,Web2py,Web2py,1
+Frameworks,Web,Woltlab Community Framework,Woltlab Community Framework,1
+Frameworks,Web,Yii,Yii,1
+Frameworks,Web,ZK,ZK,1
+Frameworks,Web,ZURB Foundation,ZURB Foundation,1
+Web Mail,,Outlook Web App,Outlook Web App,1
+Web Mail,,RainLoop,RainLoop,1
+Web Mail,,RoundCube,RoundCube,1
+Web Mail,,SquirrelMail,SquirrelMail,1
+Web Mail,,Sympa,Sympa,1
+Web Server Extensions,,mod_auth_pam,mod_auth_pam,1
+Web Server Extensions,,mod_dav,mod_dav,1
+Web Server Extensions,,mod_fastcgi,mod_fastcgi,1
+Web Server Extensions,,mod_jk,mod_jk,1
+Web Server Extensions,,mod_perl,mod_perl,1
+Web Server Extensions,,mod_python,mod_python,1
+Web Server Extensions,,mod_rack,mod_rack,1
+Web Server Extensions,,mod_rails,mod_rails,1
+Web Server Extensions,,mod_ssl,mod_ssl,1
+Web Server Extensions,,mod_wsgi,mod_wsgi,1
+Web Server Extensions,,OpenSSL,OpenSSL,1
+Web Servers,,Acquia Cloud,Acquia Cloud,1
+Web Servers,,Allegro RomPager,Allegro RomPager,1
+Web Servers,,Amazon EC2,Amazon EC2,1
+Web Servers,,AOLserver,AOLserver,1
+Web Servers,,Apache,Apache,1
+Web Servers,,Apache Tomcat,Apache Tomcat,1
+Web Servers,,Apache Traffic Server,Apache Traffic Server,1
+Web Servers,,Artifactory Web Server,Artifactory Web Server,1
+Web Servers,,BaseHTTP,BaseHTTP,1
+Web Servers,,Boa,Boa,1
+Web Servers,,Caddy,Caddy,1
+Web Servers,,Cherokee,Cherokee,1
+Web Servers,,CompaqHTTPServer,CompaqHTTPServer,1
+Web Servers,,CouchDB,CouchDB,1
+Web Servers,,debut,debut,1
+Web Servers,,ELOG HTTP,ELOG HTTP,1
+Web Servers,,EmbedThis Appweb,EmbedThis Appweb,1
+Web Servers,,G-WAN,G-WAN,1
+Web Servers,,GlassFish,GlassFish,1
+Web Servers,,GoAhead,GoAhead,1
+Web Servers,,Google App Engine,Google App Engine,1
+Web Servers,,Google Web Server,Google Web Server,1
+Web Servers,,gunicorn,gunicorn,1
+Web Servers,,HHVM,HHVM,1
+Web Servers,,Hiawatha,Hiawatha,1
+Web Servers,,HP ChaiServer,HP ChaiServer,1
+Web Servers,,HP Compact Server,HP Compact Server,1
+Web Servers,,IBM HTTP Server,IBM HTTP Server,1
+Web Servers,,IBM Tivoli Storage Manager,IBM Tivoli Storage Manager,1
+Web Servers,,IIS,IIS,1
+Web Servers,,Indy,Indy,1
+Web Servers,,JBoss Application Server,JBoss Application Server,1
+Web Servers,,JBoss Web,JBoss Web,1
+Web Servers,,Jetty,Jetty,1
+Web Servers,,LabVIEW,LabVIEW,1
+Web Servers,,libwww-perl-daemon,libwww-perl-daemon,1
+Web Servers,,lighttpd,lighttpd,1
+Web Servers,,LiteSpeed,LiteSpeed,1
+Web Servers,,Lotus Domino,Lotus Domino,1
+Web Servers,,M.R. Inc Webserver,M.R. Inc Webserver,1
+Web Servers,,Microsoft HTTPAPI,Microsoft HTTPAPI,1
+Web Servers,,MiniServ,MiniServ,1
+Web Servers,,mini_httpd,mini_httpd,1
+Web Servers,,MochiWeb,MochiWeb,1
+Web Servers,,Mongrel,Mongrel,1
+Web Servers,,Monkey HTTP Server,Monkey HTTP Server,1
+Web Servers,,Nginx,Nginx,1
+Web Servers,,Now,Now,0
+Web Servers,,OpenGSE,OpenGSE,1
+Web Servers,,OpenResty,OpenResty,1
+Web Servers,,Oracle Application Server,Oracle Application Server,1
+Web Servers,,Oracle HTTP Server,Oracle HTTP Server,1
+Web Servers,,Phusion Passenger,Phusion Passenger,1
+Web Servers,,Resin,Resin,1
+Web Servers,,SAP,SAP,1
+Web Servers,,SimpleHTTP,SimpleHTTP,1
+Web Servers,,Splunkd,Splunkd,1
+Web Servers,,Starlet,Starlet,1
+Web Servers,,Tengine,Tengine,1
+Web Servers,,thttpd,thttpd,1
+Web Servers,,TornadoServer,TornadoServer,1
+Web Servers,,TwistedWeb,TwistedWeb,1
+Web Servers,,Warp,Warp,1
+Web Servers,,Winstone Servlet Container,Winstone Servlet Container,1
+Web Servers,,XAMPP,XAMPP,1
+Web Servers,,Xitami,Xitami,1
+Web Servers,,Yaws,Yaws,1
+Web Servers,,Zend,Zend,1
+Web Servers,,Zope,Zope,1
+Widgets,,AddShoppers,AddShoppers,1
+Widgets,,AddThis,AddThis,1
+Widgets,,AddToAny,AddToAny,1
+Widgets,,Facebook,Facebook,1
+Widgets,,FlexSlider,FlexSlider,1
+Widgets,,Google Plus,Google Plus,1
+Widgets,,Hello Bar,Hello Bar,1
+Widgets,,Kontaktify,Kontaktify,1
+Widgets,,Linkedin,Linkedin,1
+Widgets,,ManyContacts,ManyContacts,1
+Widgets,,Meebo,Meebo,1
+Widgets,,MyBlogLog,MyBlogLog,1
+Widgets,,Outbrain,Outbrain,1
+Widgets,,OWL Carousel,OWL Carousel,1
+Widgets,,Pinterest,Pinterest,1
+Widgets,,Po.st,Po.st,1
+Widgets,,ShareThis,ShareThis,1
+Widgets,,Stackla,Stackla,1
+Widgets,,Twitter,Twitter,1
+Wikis,,Apache JSPWiki,Apache JSPWiki,1
+Wikis,,Atlassian Confluence,Atlassian Confluence,1
+Wikis,,DokuWiki,DokuWiki,1
+Wikis,,Foswiki,Foswiki,1
+Wikis,,ikiwiki,ikiwiki,1
+Wikis,,MediaWiki,MediaWiki,1
+Wikis,,MoinMoin,MoinMoin,1
+Wikis,,TWiki,TWiki,1
+Wikis,,Wikispaces,Wikispaces,1
+Wikis,,WikkaWiki,WikkaWiki,1
+Wikis,,XWiki,XWiki,1
+Frameworks,ASP.NET,ASP.NET Dynamic Data,ASP.NET Dynamic Data,1
+Frameworks,ASP.NET,Base One Foundation Component Library,Base One Foundation Component Library,1
+Frameworks,ASP.NET,Component-based Scalable Logical Architecture,Component-based Scalable Logical Architecture,1
+Frameworks,ASP.NET,MonoRail,MonoRail,1
+Frameworks,ASP.NET,OpenRasta,OpenRasta,1
+Frameworks,C++,Poco,Poco,1
+Frameworks,C++,Tntnet,Tntnet,1
+Frameworks,C++,Wt,Wt,1
+Frameworks,ColdFusion Markup Language (CFML),CFWheels,CFWheels,1
+Frameworks,ColdFusion Markup Language (CFML),ColdBox Platform,ColdBox Platform,1
+Frameworks,ColdFusion Markup Language (CFML),ColdSpring,ColdSpring,1
+Frameworks,ColdFusion Markup Language (CFML),Fusebox,Fusebox,1
+Frameworks,ColdFusion Markup Language (CFML),ColdFusion,ColdFusion,1
+Frameworks,ColdFusion Markup Language (CFML),Model-Glue,Model-Glue,1
+Frameworks,Common Lisp,Caveman2,Caveman2,1
+Frameworks,D,vibe.d,vibe.d,1
+Frameworks,Elixir,Phoenix,Phoenix,1
+Frameworks,Haskell,Yesod,Yesod,1
+Frameworks,"HTML, CSS",Bootstrap (front-end framework),Bootstrap (front-end framework),1
+Frameworks,Java,Apache Click,Apache Click,1
+Frameworks,Java,Apache OFBiz,Apache OFBiz,1
+Frameworks,Java,Apache Shale,Apache Shale,1
+Frameworks,Java,Apache Sling,Apache Sling,1
+Frameworks,Java,Apache Struts 2,Apache Struts 2,1
+Frameworks,Java,Apache Tapestry,Apache Tapestry,1
+Frameworks,Java,AppFuse,AppFuse,1
+Frameworks,Java,Brutos Framework,Brutos Framework,1
+Frameworks,Java,Eclipse RAP,Eclipse RAP,1
+Frameworks,Java,FormEngine,FormEngine,1
+Frameworks,Java,Grails,Grails,1
+Frameworks,Java,Hamlets,Hamlets,1
+Frameworks,Java,ItsNat,ItsNat,1
+Frameworks,Java,JBoss Seam,JBoss Seam,1
+Frameworks,Java,Jspx-bay,Jspx-bay,1
+Frameworks,Java,JVx,JVx,1
+Frameworks,Java,JWt,JWt,1
+Frameworks,Java,OpenLaszlo,OpenLaszlo,1
+Frameworks,Java,OpenXava,OpenXava,1
+Frameworks,Java,Oracle ADF,Oracle ADF,1
+Frameworks,Java,RIFE,RIFE,1
+Frameworks,Java,Spark,Spark,1
+Frameworks,Java,Spring,Spring,1
+Frameworks,Java,Stripes,Stripes,1
+Frameworks,Java,VRaptor,VRaptor,1
+Frameworks,Java,Wavemaker,Wavemaker,1
+Frameworks,Java,WebObjects,WebObjects,1
+Frameworks,Java,WebWork,WebWork,1
+Frameworks,Java,ztemplates,ztemplates,1
+Frameworks,JavaScript,React.js,React.js,1
+Frameworks,JavaScript,Express.js,Express.js,1
+Frameworks,JavaScript,KnockoutJS,KnockoutJS,1
+Frameworks,Lua,Kepler,Kepler,1
+Frameworks,Scala,Scalatra,Scalatra,1
+Frameworks,Perl,Catalyst,Catalyst,1
+Frameworks,Perl,Mason,Mason,1
+Frameworks,Perl,Maypole,Maypole,1
+Frameworks,PHP,Agavi,Agavi,1
+Frameworks,PHP,Fat-Free,Fat-Free,1
+Frameworks,PHP,FuelPHP,FuelPHP,1
+Frameworks,PHP,Gyroscope,Gyroscope,1
+Frameworks,PHP,Jamroom,Jamroom,1
+Frameworks,PHP,Kajona,Kajona,1
+Frameworks,PHP,Li3,Li3,1
+Frameworks,PHP,Phalcon,Phalcon,1
+Frameworks,PHP,Pop PHP,Pop PHP,1
+Frameworks,PHP,PRADO,PRADO,1
+Frameworks,PHP,Silex,Silex,1
+Frameworks,PHP,Smart.Framework,Smart.Framework,1
+Frameworks,PHP,TYPO3 Flow,TYPO3 Flow,1
+Frameworks,PHP,Zend Framework,Zend Framework,1
+Frameworks,Python,Bottle,Bottle,1
+Frameworks,Python,BlueBream,BlueBream,1
+Frameworks,Python,CubicWeb,CubicWeb,1
+Frameworks,Python,Grok,Grok,1
+Frameworks,Python,Nagare,Nagare,1
+Frameworks,Python,Pyjs,Pyjs,1
+Frameworks,Python,Pylons,Pylons,1
+Frameworks,Python,Pyramid,Pyramid,1
+Frameworks,Python,TACTIC,TACTIC,1
+Frameworks,Python,Tornado,Tornado,1
+Frameworks,Python,TurboGears,TurboGears,1
+Frameworks,Python,web2py,web2py,1
+Frameworks,Python,Webware,Webware,1
+Frameworks,Python,Zope 2,Zope 2,1
+Frameworks,Ruby,Camping,Camping,1
+Frameworks,Ruby,Padrino,Padrino,1
+Frameworks,Ruby,Sinatra,Sinatra,1
+Frameworks,Ruby,Merb,Merb,1
+Frameworks,Ruby,PureMVC,PureMVC,1
+Frameworks,Others,AIDA/Web,AIDA/Web,1
+Frameworks,Others,Application Express,Application Express,1
+Frameworks,Others,Flex,Flex,1
+Frameworks,Others,Morfik,Morfik,1
+Frameworks,Others,Ocsigen,Ocsigen,1
+Frameworks,Others,Opa,Opa,1
+Frameworks,Others,OpenACS,OpenACS,1
+Frameworks,Others,Seaside,Seaside,1
+Frameworks,Java,Apache Struts,Apache Struts,1
+Frameworks,Java,JVx WebUI,JVx WebUI,1
+Frameworks,JavaScript,EmberJS,EmberJS,1
+Frameworks,JavaScript,qooxdoo,qooxdoo,1
+Frameworks,JavaScript,SproutCore,SproutCore,1
+Frameworks,JavaScript,Wakanda,Wakanda,1
+Frameworks,PHP,CakePHP 3,CakePHP 3,1
+Frameworks,PHP,Symfony 2,Symfony 2,1
+Frameworks,PHP,TYPO3,TYPO3,1
+Frameworks,PHP,Zend Framework 2,Zend Framework 2,1
+ORM,Java,ActiveJDBC,ActiveJDBC,1
+ORM,Java,ActiveJPA,ActiveJPA,1
+ORM,Java,Apache Cayenne,Apache Cayenne,1
+ORM,Java,Apache Gora,Apache Gora,1
+ORM,Java,Athena Framework,Athena Framework,1
+ORM,Java,Carbonado,Carbonado,1
+ORM,Java,DataNucleus,DataNucleus,1
+ORM,Java,Ebean,Ebean,1
+ORM,Java,EclipseLink,EclipseLink,1
+ORM,Java,Enterprise JavaBeans,Enterprise JavaBeans,1
+ORM,Java,Enterprise Objects Framework,Enterprise Objects Framework,1
+ORM,Java,Fast Java Object Relation Mapping,Fast Java Object Relation Mapping,1
+ORM,Java,Speedment,Speedment,1
+ORM,Java,Hibernate,Hibernate,1
+ORM,Java,Java Data Objects,Java Data Objects,1
+ORM,Java,Java Object Oriented Querying,Java Object Oriented Querying,1
+ORM,Java,Kodo,Kodo,1
+ORM,Java,Kundera,Kundera,1
+ORM,Java,MyBatis,MyBatis,1
+ORM,Java,QuickDB ORM,QuickDB ORM,1
+ORM,Java,TopLink,TopLink,1
+ORM,Java,Torque,Torque,1
+ORM,iOS,DatabaseObjects,DatabaseObjects,1
+ORM,iOS,Core Data,Core Data,1
+ORM,.NET,DataObjects.NET,DataObjects.NET,1
+ORM,.NET,Dapper,Dapper,1
+ORM,.NET,ECO,ECO,1
+ORM,.NET,Entity Framework,Entity Framework,1
+ORM,.NET,iBATIS,iBATIS,1
+ORM,.NET,LINQ to SQL,LINQ to SQL,1
+ORM,.NET,Neo,Neo,1
+ORM,.NET,NHibernate,NHibernate,1
+ORM,.NET,nHydrate,nHydrate,1
+ORM,.NET,NPOCO,NPOCO,1
+ORM,.NET,Quick Objects,Quick Objects,1
+ORM,.NET,Vega,Vega,1
+ORM,.NET,SubSonic,SubSonic,1
+ORM,.NET,XPO,XPO,1
+ORM,.NET,EntityWorker.Core,EntityWorker.Core,1
+ORM,Object Pascal (Delphi),Bold for Delphi,Bold for Delphi,1
+ORM,"Objective-C, Cocoa",Enterprise Objects,Enterprise Objects,1
+ORM,Perl,DBIx::Class,DBIx::Class,1
+ORM,PHP,Doctrine,Doctrine,1
+ORM,PHP,Maghead,Maghead,1
+ORM,PHP,Propel,Propel,1
+ORM,PHP,Qcodo,Qcodo,1
+ORM,PHP,QCubed,QCubed,1
+ORM,PHP,Rocks,Rocks,1
+ORM,PHP,Redbean,Redbean,1
+ORM,PHP,Skipper,Skipper,1
+ORM,PHP,Torpor,Torpor,1
+ORM,Python,SQLAlchemy,SQLAlchemy,1
+ORM,Python,SQLObject,SQLObject,1
+ORM,Python,Storm,Storm,1
+ORM,Python,Tryton,Tryton,1
+ORM,Ruby,ActiveRecord,ActiveRecord,1
+ORM,Ruby,DataMapper,DataMapper,1
+ORM,Smalltalk,TOPLink/Smalltalk,TOPLink/Smalltalk,1
+ORM,See also,Comparison of object-relational mapping software,Comparison of object-relational mapping software,1
+Web,,HTML,HTML,1
+Web,,Javascript,Javascript,1
+Web,,CSS,CSS,1

@@ -1,0 +1,2116 @@
+Rule,Category,Example,Score
+A_BUT,Possible Typo,So I confused things a but and it was Kai who had planned that.,80
+A_GREAT_NUMBER_OF_NN,Grammar,A great number of problem have arisen.,50
+A_HUNDREDS,Grammar,A hundreds people were in the store.,50
+A_INFINITVE,Grammar,a compete catastrophe.,50
+A_KNOW_BUG,Possible Typo,This is a know problem.,80
+A_LOT_OF_NN,Grammar,I have a lot of car.,50
+A_MUCH_NN1,Grammar,This will be a much work.,50
+A_MY,Collocations,The my car is on the maintenance services.,
+A_PLURAL,Grammar,I needed to use a text line as a criteria to select users for a list.,50
+,,The Syria resolution was a major milestones for the United Nations.,
+A_RB_NN,Grammar,This is a philosophically question.,50
+A_TRIP_TO,Collocations,John and Jenny week decided to go on a trip in New York.,
+,,John and Jenny week decided to go on a trip in New-York.,
+,,John and Jenny week decided to go on a trip in York.,
+A_UNCOUNTABLE,Grammar,A good knowledge is power.,50
+,,A knowledge is power.,
+,,A nice accommodation is too expensive.,
+,,A very good knowledge is too time-consuming.,
+,,A very nice accommodation is too expensive.,
+,,An accommodation is too expensive.,
+A_WAS,Possible Typo,But is there a was to work around the problem?,80
+ABOUT_ITS_NN,Possible Typo,The frog told a story about it's happy childhood in the river.,80
+ABOUT_WHO_TO,Possible Typo,What do you think about who to promote?,80
+ABSOLUTELY_ESSENTIAL,Redundant Phrases,This is absolutely essential.,
+ABSORB_AT_IN,Collocations,I am absorbed at this book.,
+ABUNDANCE,Plain English,There is an abundance of flowers in the meadow.,
+ACCEDE_TO,Plain English,He acceded to our demands.,
+ACCELERATE,Plain English,The car accelerated from traffic lights,
+ACCENTUATE,Plain English,The harsh light accentuated the ruggedness of the landscape.,
+ACCEPT_EXCEPT,Commonly Confused Words,Please except my apologies.,
+,,Police found the culprits (accept one).,
+,,This is done accept for that fact that we still have JBossws 2.0.0 binaries.,
+ACCOMMODATION,Plain English,Accommodation available.,
+ACCOMPANY,Plain English,You need to accompany him.,
+ACCOMPANY_WITH,Collocations,Land reclamation is always accompany with pollution.,
+ACCOMPLISH,Plain English,Accomplish your work!,
+ACCORDING_TO,Grammar,"According about a recent survey, most smokers suffer from cancer.",50
+ACCORDING_TO_ME,Grammar,"According to me, this is a great movie.",50
+ACCOUNTS_FOR,Collocations,That accounts a rise in price.,
+ACCRUE,Plain English,The deposit accrued interest.,
+ACCURATE,Plain English,We need accurate information.,
+ACCUSE_FOR_OF,Collocations,He is accused for fraud.,
+ACCUSE_FOR_OFF,Collocations,She accused the man for stealing.,
+ACCUSED_OF_A_CHARGE_CHARGED_WITH,Redundant Phrases,The Magistrate's Court in Kuala Lumpur today decided that a former model accused of a charge of public indecency is fit to stand trial.,
+ACCUSTOM_WITH_TO,Collocations,The mechanic is accustomed with handling those situations.,
+ACCUSTOMED_TO,Grammar,He is accustomed of playing football now.,50
+ACQUIRE,Plain English,He acquired all the tools he needed.,
+ACTUAL_EXPERIENCE,Redundant Phrases,This talk is based on actual experience gained during recovery operations following a fire at the Washington National Records.,
+AD_NAUSEUM,Possible Typo,The song was playing ad nauseum.,80
+ADD_AN_ADDITIONAL,Redundant Phrases,How to Add an Additional Page to a Full Flash Site,
+ADDED_BONUS,Redundant Phrases,Added bonus: booting from cdrom.,
+ADDICTION_TO_OF,Collocations,I would like to work with people who have an addiction of drugs.,
+ADEQUATE_ENOUGH,Redundant Phrases,The Allen test is not adequate enough for the screening of hand circulation.,
+ADJECTIVE_IN_ATTRIBUTE,Redundant Phrases,The man is big in size.,
+ADMIN_ADMIT,Commonly Confused Words,I must admin that my code is not perfect.,
+ADMIT_ENJOY_VB,Grammar,I am accustomed to run.,50
+,,I am used to run. I run every day for 30 minutes.,
+,,I consider to run my favourite sport.,
+,,I enjoy to run.,
+,,I look forward to see you.,
+,,I regret to read this book.,
+,,I'm used to run. I run every day for 30 minutes.,
+ADMITTED_AT_TO,Collocations,"On his way to an interview to be admitted at Princeton College, Quentin and his childhood best friend James arrive on a crime scene where they find the corpse of the man who was supposed to interview the former, along with a very nonchalant paramedic.",
+ADOPT_TO,Commonly Confused Words,Maybe you will need time to adopt to the situation.,
+ADVANCE_PLANNING,Redundant Phrases,Advance planning is one strategy couples can use to establish legal rights.,
+ADVERB_WORD_ORDER,Grammar,Always I am happy.,50
+,,Ever it was thus.,
+,,I always will love you.,
+,,I am happy always.,
+,,I am here and I sometimes am happy.,
+,,I go often to bed before midnight.,
+,,I sometimes am happy.,
+,,They have been often seen together.,
+,,They have been seen often together.,
+,,They often have been seen together.,
+ADVERSE_AVERSE,Commonly Confused Words,Are you adverse to eating horse meat?,
+ADVERTISEMENT_OF_FOR,Collocations,Nice advertisement of your company.,
+ADVICE_ADVISE,Commonly Confused Words,We advice you to do it.,
+ADVISE_VBG,Grammar,All he did was to help carrying the bags.,50
+,,All he did was to help not carrying the bags.,
+,,All he did was to help us getting on the bus.,
+,,All he did was to help us not staying calm.,
+,,He advised not staying calm.,
+,,He advised staying calm.,
+,,He advised us not staying calm.,
+,,He advised us staying calm.,
+,,He helped not buying some crap.,
+,,He helped us getting on the bus.,
+,,He helped us not staying calm.,
+AFFECT_EFFECT,Commonly Confused Words,A side affect of global warming,
+,,A side-affect of global warming,
+,,It had the same affect on me.,
+,,Parking Fees are in affect in this park.,
+,,Regional factors have an affect on hotel guest satisfaction.,
+,,She was badly effected.,
+,,That might adversely effect the bottom line.,
+,,That might effect the bottom line.,
+,,The ban took affect at midnight.,
+,,The experiment didn't obey the laws of cause and affect.,
+,,The laws had an immediate affect.,
+,,The medicine shouldn't effect the baby.,
+,,The medicine would've effected the baby.,
+,,The primary affect on property values.,
+,,The side affects of global warming,
+,,There was a law with immediate affects.,
+,,"We tried appeasing the rain gods, but to no affect.",
+AFFORD_VB,Grammar,We cannot afford not spend the whole month in the Alps.,50
+,,We cannot afford spend the whole month in the Alps.,
+AFFORD_VBG,Grammar,We cannot afford not spending the whole month in the Alps.,50
+,,We cannot afford spending the whole month in the Alps.,
+AFRAID_FROM_OF,Collocations,Rats are afraid from cats.,
+AFRAID_OF_HEIGHT,Grammar,I'm afraid of dark.,50
+,,I'm afraid of open space.,
+,,I'm afraid of spider.,
+AFTER_BEEN,Possible Typo,"After been assaulted, the man was often wary.",80
+AFTERALL,Possible Typo,"Afterall, there isn't any food to be had in this country.",80
+AGREE_WITH_THE_FACT,Redundant Phrases,I agree with the fact that the sky is blue.,
+,,We did not disagree with the fact that the sky is blue.,
+AGREEMENT_QUESTION,Grammar,Do your father live in England?,50
+,,Does your parents live in England?,
+,,Has your parents told you everything?,
+,,Have your father lived in England?,
+,,Where is your dogs?,
+AGREEMENT_SENT_START,Grammar,Both element are red.,50
+,,Both of them believes in God.,
+,,Cars is useful.,
+,,Cats sleeps more than 15 hours per day.,
+,,"Do you know what the dogs, which are specially trained to detect organic matter, eats?",
+,,"Do you know whether the users from Asia, for example, wants to learn English?",
+,,Each of the children are happy.,
+,,"He asked whether the black dogs, mostly dachshunds and terrier mixes, barks loudly.",
+,,"He asked whether the dogs of war, mostly dachshunds and terrier mixes, barks loudly.",
+,,How can we know whether the black dogs barks loudly?,
+,,Is this the house in which the dogs of war sleeps each night?,
+,,Many users in Asia wants to learn English.,
+,,"Many users in Asia, for example, wants to learn English.",
+,,She asked whether the users from Asia wants to learn English.,
+,,She wanted to know whether the dogs barks loudly.,
+,,The black dogs barks loudly.,
+,,"The black dogs, mostly dachshunds and terrier mixes, barks loudly.",
+,,The dogs barks loudly.,
+,,The dogs is released.,
+,,The dogs of war barks loudly.,
+,,The dogs of war is released.,
+,,The dogs of war was released.,
+,,"The dogs of war, finally, is released.",
+,,"The dogs of war, however, was released.",
+,,"The dogs of war, mostly dachshunds and terrier mixes, barks loudly.",
+,,The dogs was released.,
+,,"The dogs, Bob and Ben, is released.",
+,,"The dogs, Bob and Ben, was released.",
+,,"The dogs, which are specially trained to detect organic matter, patrols the nearly 4,000 vehicles.",
+,,The teacher and her students is in the classroom.,
+,,This infrared radiation rises into the atmosphere where gases prevents the infrared radiation from escaping into space.,
+,,"This infrared radiation rises into the atmosphere where gases, such as carbon dioxide, prevents the infrared radiation from escaping into space.",
+,,Tina and her father sings a song.,
+,,What happened when the dogs of war was released.,
+,,"What happened when the dogs of war, two dachshunds, was released.",
+,,What happened when the dogs was released?,
+,,"What happened when the dogs, Bob and Ben, was released.",
+,,What happens when the dogs is released?,
+,,What happens when the dogs of war is released.,
+,,"What happens when the dogs of war, finally, is released.",
+,,"What happens when the dogs, Bob and Ben, is released?",
+AGREEMENT_THEIR_HIS,Grammar,Each child needs their parents.,50
+,,Each of the boys likes their new teacher.,
+AH_HA,Possible Typo,"After that we had an ""ah ha"" moment and that was it.",80
+AIM_ON_AT,Collocations,This tool is aimed on regular users.,
+AIRPLANE_HANGER,Commonly Confused Words,These are airplane hangers.,
+ALA_MODE,Possible Typo,He loves his pie ala mode.,80
+ALBUM_COMPRISED_OF,Possible Typo,This is an album comprised of of great songs.,80
+ALL_AND_ALL,Nonstandard Phrases,All and all it’s just another brick in the… toilet?,
+ALL_BE_IT,Possible Typo,The good news is that there are several redeeming factors to (all be it barely).,80
+ALL_FOR_NOT,Commonly Confused Words,My farmer pants were all for not...,
+ALL_MOST,Possible Typo,All most all the patents were rejected...,80
+ALL_MOST_SOME_OF_NOUN,Grammar,All of students like mathematics.,50
+ALL_OF_THE,Redundant Phrases,She is going to all of the parks.,
+ALL_OF_THE_SUDDEN,Nonstandard Phrases,Why would a man all of the sudden send flowers?,
+,,Why would a man all the sudden send flowers?,
+ALL_OVER_THE_WORD,Possible Typo,The company employs over 25 000 people all over the word.,80
+ALL_READY,Possible Typo,I have all ready bought it.,80
+,,I've all ready bought it.,
+ALL_THE_FARTHER,Possible Typo,The town was all the farther than the border.,80
+ALL_THE_FURTHER,Commonly Confused Words,That's all the further I'll go.,
+ALL_THINGS_CONSIDERED,Plain English,"All things considered, Connecticut's woodlands are in better shape now than ever before.",
+ALL_WAYS,Possible Typo,He all ways takes the last piece of cake.,80
+ALLOT_OF,Possible Typo,I've got allot of questions to you.,80
+ALLOW_TO,Grammar,It allowed to see better.,50
+,,It allows to see better.,
+ALLOW_TO_DO,Grammar,He allowed me do it on my own.,50
+ALLTHOUGH,Possible Typo,"All though I liked the book, I had to stop reading it.",80
+,,All though the day: a song by Anita O'Day.,
+ALLUDE_ELUDE,Possible Typo,Her failure to allude the school bullies is evident.,80
+ALLY_ALLAY,Commonly Confused Words,I would like to ally concern.,
+ALONG_SIDE,Possible Typo,The car pulled up along side.,80
+ALONG_THE_LINES_OF,Plain English,I think my point is very much along the lines of his.,
+ALONG_THE_SAME_VEIN,Nonstandard Phrases,I've been working along the same vein.,
+ALONG_TIME,Possible Typo,After along time the lovers were reunited.,80
+ALREADY_ALL_READY,Commonly Confused Words,Are you already?,
+,,The device is all ready available in Korea.,
+ALSO_KNOW,Possible Typo,He is also know as the first Chechen writer.,80
+ALSO_OTHER,Redundant Phrases,"However, there are also other marbles in the jar.",
+ALSO_SENT_END,Style,You will buy some eggs also.,
+ALTER_BOY,Commonly Confused Words,Forty-seven percent of executives said they were concerned that retiring Boomers will significantly altar the workforce in the next decade.,
+,,He was an alter boy.,
+,,He was at the alter.,
+AM_I,Grammar,Whom am talking with?,50
+AM_IN_THE_MORNING,Redundant Phrases,It's 5 A.M. in the morning.,
+,,It's 5 AM in the morning.,
+AM_LOATHE_TO,Possible Typo,I am loathe to continue this conversation.,80
+AM_PM,Redundant Phrases,"It's 7,30 p.m.",
+AM_PM_OCLOCK,Redundant Phrases,It's 7 o'clock a.m.,
+,,It's 7 o'clock AM.,
+AMENABLE_AMENDABLE,Commonly Confused Words,You must be amendable to compromise.,
+AN_ANOTHER,Grammar,It's an another lonely night.,50
+AN_INVITE,Style,Is that an invite...?,
+AN_THEN,Possible Typo,Tonight I'm going to eat dinner at Alyssa's an then go to Christina's.,80
+ANALYSIS_ABOUT,Collocations,Read the analysis about the results.,
+ANALYSIS_IF,Possible Typo,An Analysis if Rock Music,80
+And,Style,"And yes, it shows a lack of style to start a sentence with 'and'.",
+AND_ALSO,Redundant Phrases,Typical English Food and also Welsh and Scottish too,
+AND_END,Grammar,Is he at the and?,50
+AND_ETC,Redundant Phrases,E-Commerce and etc.,
+AND_SO_FOURTH,Possible Typo,And so on and so fourth.,80
+AND_SO_ONE,Possible Typo,We think it helps to find bottlenecks and so one.,80
+AND_THAN,Commonly Confused Words,How to add equal values and than replace them with their sum?,
+ANGRY_AGAINST_WITH,Collocations,Birds fly when they are angry against pigs.,
+ANGRY_WITH_ABOUT,Collocations,Barbie is angry with the situation.,
+ANINFOR_EVERY_DAY,Possible Typo,These shoes are great for every day wear.,80
+,,You shouldn’t wear an every day outfit to the wedding.,
+ANNUAL_ANNIVERSARY,Redundant Phrases,First Annual Anniversary Contest,
+ANOTHER_WORDS,Possible Typo,"Another words, he is an ideal husband.",80
+ANXIOUS_OF_ABOUT,Collocations,They are anxious for his health.,
+ANY_BODY,Possible Typo,Any one needs help here?,80
+,,No body seems to care.,
+ANY_WHERE,Possible Typo,Put your stuff down any where.,80
+APART_A_PART,Possible Typo,I'd like to be apart of your team.,80
+,,We set it apart of other religions.,
+APART_FORM,Possible Typo,Christianity was set apart form other religions.,80
+APOS_ARE,Punctuation Errors,The car's are cheap.,
+APOS_RE,Possible Typo,We don'T need this.,80
+,,We'Re looking forward to our meeting.,
+APOSTROPHE_IN_DATES,Typography,Hillary Clinton asked where Bernie Sanders was in the 1990's.,
+APOSTROPHE_PLURAL,Possible Typo,7 reason's why,80
+,,7 reasons why teacher's found us top class,
+APPLY_FOR,Collocations,You try and apply for another University!,
+APPLY_TO,Collocations,You can apply to welfare.,
+APPROXIMATELY_ABOUT,Redundant Phrases,Americans feel full of energy and healthy approximately about 19 days per month.,
+ARCHITECT_VERB,Commonly Confused Words,I would like to architect a house,
+ARE_ABLE_TO,Redundant Phrases,"Yes, there are some species of frogs that are able to throw up their entire stomach and wipe it off with their legs.",
+ARE_STILL_THE_SOME,Possible Typo,That means that tires are still the some of the most important components of your vehicle.,80
+AREA_COMPRISED_OF,Possible Typo,The Tenderloin is an area comprised of the seedy sort.,80
+ARMED_GUNMAN,Redundant Phrases,Armed gunmen entered the room to kill Bill.,
+ARRIVAL_TO_THE_HOUSE,Collocations,"At that time, their arrival to the house was a surprise.",
+,,Their arrival to the city will be at one o'clock.,
+ARRIVE_AT_IN,Collocations,They will arrive at the city at 9:00 am.,
+ARRIVE_NNP,Grammar,I would like to arrive Dallas next day.,50
+ARRIVE_ON_AT_THE_BEACH,Collocations,"When John arrived on the beach, he went for a swim.",
+ARRIVED_IN,Collocations,Arrive in the downtown.,
+ARTICLE_ADJECTIVE_OF,Grammar,We are not responsible for the delusional of your client.,50
+ARTICLE_MISSING,Grammar,About large boat.,50
+,,About month before I left it was discussed...,
+,,ACET would not be able to reclaim tax on covenant.,
+,,Change your filter after week.,
+,,He does lot of things.,
+,,He gives brother a bar of chocolate.,
+,,He goes step too far.,
+,,He is experienced soldier.,
+,,He is extremely experienced soldier.,
+,,He is friend.,
+,,He is good friend.,
+,,He is talking about friend.,
+,,He is talking about good friend.,
+,,He is talking of such friend.,
+,,He is talking of such good friend.,
+,,He takes brother with him.,
+,,He was waiting at airport.,
+,,He was waiting at new airport.,
+,,He was waiting by river.,
+,,He was waiting by small river.,
+,,He was waiting for answer.,
+,,He was waiting for swift answer.,
+,,He was waiting in large lobby.,
+,,He was waiting in lobby.,
+,,It falls tad.,
+,,Recently I have experienced problem.,
+,,Recently I have experienced serious problem.,
+,,The dog spent all day in kitchen.,
+,,This remark is on previous page.,
+ARTICLE_UNNECESSARY,Grammar,I need a oil for my car.,50
+AS_A_MATTER_OF_FACT,Plain English,"As a matter of fact, dry-bulb temperature indicates the amount of heat in the air.",
+AS_ADJ_AS,Grammar,This house is as big than mine.,50
+AS_FOLLOW,Possible Typo,The main points are as follow:,80
+AS_FOLLOW_AS_FOLLOWS,Possible Typo,We can elaborate this distinction as follow.,80
+AS_OF_YET,Redundant Phrases,The report remains unfinished as of yet.,
+AS_OPPOSE_TO_AS_OPPOSED_TO,Possible Typo,"Professional sports, as oppose to amateur sports , are sport s in which athletes receive payment for their performance",80
+AS_PER,Plain English,"As per usual, he came late to work.",
+AS_TIME_PROGRESSED,Possible Typo,"As time progressed, the sisters got wiser.",80
+AS_WELL_AS_BETTER,Commonly Confused Words,As well or better than,
+ASCETIC_ACID,Commonly Confused Words,There was a spill of ascetic acid.,
+ASHAMED_FROM,Collocations,"After flunking in the exam, she felt ashamed from it.",
+ASK_NO_PREPOSITION,Grammar,She asked to me whether I like cats.,50
+ASK_THE_QUESTION,Redundant Phrases,He asked the question whether it's OK to add some rules to LanguageTool.,
+ASK_TO,Collocations,Ask to all the employees.,
+ASK_WETHER,Commonly Confused Words,Don't ask me wether it is already decided!,
+ASSIST_ASSISTANCE,Plain English,Do you need any assistance?,
+ASSOCIATE_TOGETHER,Redundant Phrases,Hippos associate together in groups.,
+,,"Poets and choregi having been associated together in pairs, there still remained the selection and appointment of the actors.",
+ASSOCIATES_TO,Collocations,She associates her layoff to your arrival.,
+AT_ALL_TIMES,Plain English,Kingfisher can be found near water at all times,
+AT_IN_THE_KITCHEN,Collocations,The plant is at the kitchen.,
+AT_IN_THE_MORNING,Collocations,I like to do soccer on the evening.,
+AT_OVER_THE_WEEKEND,Collocations,I like to do soccer on the weekend.,
+AT_THE_JOB,Collocations,He does personal stuff at the job.,
+AT_THE_REIGNS,Possible Typo,The coachman held the reigns with expertise.,80
+AT_TIME,Grammar,She came on 7 o'clock.,50
+,,She came on 7:30 p.m.,
+AT_YOUR_EARLIEST_CONVENIENCE,Plain English,Please come at your earliest convenience.,
+ATM_MACHINE,Redundant Phrases,ATM Machine Comparison Guide,
+AUTOBIOGRAPHY_OF_A_LIFE,Redundant Phrases,"In this autobiography of a life of courage and love, we get to share in the compelling story of a family’s struggles.",
+AWAITING_FOR,Commonly Confused Words,He was awaiting for a person.,
+AWAY_FRO,Possible Typo,He is away fro the sea.,80
+AXED_ASKED,Commonly Confused Words,He axed me to dinner.,
+BACK_ABACK,Commonly Confused Words,He was totally taken back by my response.,
+BACK_AND_FOURTH,Commonly Confused Words,How to move back and fourth from linux to xmb?,
+BACK_FIRE,Possible Typo,His plans always back fire.,80
+BACK_IN_FORTH,Commonly Confused Words,I've been texting back in forth with him for the past 3 days.,
+BAITED_BREATH,Possible Typo,We are waiting with baited breath.,80
+BALD-HEADED,Redundant Phrases,He is bald-headed.,
+BALSA_WOOD,Redundant Phrases,It's made of balsa wood.,
+BAND_COMPRISED_OF,Possible Typo,The Beatles were a band comprised of great musicians.,80
+BAR_B_QUE,Commonly Confused Words,A casual summer bar-b-queue.,
+BARE_IN_MIND,Possible Typo,Bare in mind that we're alone.,80
+BARE_NAKED,Redundant Phrases,The old man ran bare naked through the streets.,
+BASE_FORM,Grammar,I really likes cats.,50
+BASIC_FUNDAMENTALS,Redundant Phrases,Let’s get back to the basic fundamentals!,
+BASIS_ON_A,Plain English,We have been coming here on a regular basis for years.,
+BE_A_X_ONE,Plain English,This test is an easy one.,
+BE_ADVISED,Plain English,You are advised look after your belongings.,
+BE_ALOUD_TO,Commonly Confused Words,Who is aloud to get information from your mail?,
+BE_CAUSE,Possible Typo,It was all be cause of you.,80
+BE_FINED_WITH,Grammar,I'm fined with that.,50
+BE_FOND_TO,Grammar,Children are fond to skipping.,50
+BE_I_BE_GERUND,Grammar,What was I am doing again?,50
+BE_IN_UNDER_PRESSURE,Collocations,Kelly is in pressure.,
+BE_INTEREST_IN,Grammar,I am interesting in this book.,50
+BE_ON_IN_SHOCK,Collocations,We were on shock when it happen..,
+BE_USE_TO_DO,Grammar,He is use to a vegetarian diet.,50
+BE_WARE,Possible Typo,Be ware of the bears.,80
+BE_WILL,Grammar,How is would this approach be useful?,50
+BEAT_REGARDS,Possible Typo,"Beat Regards, Daniel",80
+BECAUSE,Plain English,A national emergency exists by reason of the terrorist attacks.,
+,,His lack of conversation is attributable to his shyness.,
+,,Nader had to cancel his planned invasion in light of the fact that the Abdali Afghans had rebelled and invaded Khorasan.,
+,,"The Stoors also had their own dialect of Hobbitish, owing to the fact that they spent some time in Dunland.",
+,,"These two syndromes are usually referred to under one name, Wernicke–Korsakoff syndrome, due to the fact that they are part of the same etiology.",
+BECAUSE_OF_I,Grammar,"Because of we didn't want a big train, but we want a fast train.",50
+BECAUSE_OF_THE_FACT_THAT,Redundant Phrases,"Its crystals are usually hexagonal in shape, with flakiness and plating, usually because of the fact that it replaced a mineral.",
+BECKON_CALL,Possible Typo,Don't expect me to be at your beckon call.,80
+BED_ENGLISH,Possible Typo,Sorry for my bed English.,80
+BEEN_PART_AGREEMENT,Grammar,I must have been always wrote that.,50
+,,The software was introduce yesterday.,
+BEFORE_HAND,Possible Typo,We packed before hand.,80
+BEGS_BELIEF,Possible Typo,It begs belief that corporate policies can always pursue the best interests of a company.,80
+BEING_BEGIN,Possible Typo,I was willing to risk begin interrogated about what I was going to do with the information.,80
+,,"To being with, she is a Russian spy.",
+BELATED,Plain English,They are on a belated honeymoon.,
+BELIEF_BELIEVE,Commonly Confused Words,We belief that this is wrong.,
+BELIEVE_BELIEF,Commonly Confused Words,It is my strong believe that something has to be changed.,
+BELIEVE_TO_IN,Collocations,cause I believe to fitness.,
+BEST_EVER,Redundant Phrases,Top ten best ever beer names.,
+BETWEEN_PRP,Grammar,"His opposition to homosexuality causes tension between he and his gay roommate, Davis.",50
+,,His opposition to homosexuality causes tension between I and Davis.,
+,,His opposition to homosexuality causes tension between she and Davis.,
+,,His opposition to homosexuality causes tension between they and Davis.,
+BETWEEN_TO_AND,Collocations,Children between three to five are cute.,
+BETWEEN_YOU_AND_I,Possible Typo,"Between you and I, there's no hope of survival.",80
+BEWARE_PREPOSITION,Grammar,Beware about malware.,50
+BEYOND_THE_PAIL,Possible Typo,His behavior was beyond the pail.,80
+BIOGRAPHY_OF_A_LIFE,Redundant Phrases,"In this biography of her life, we get to share in the compelling story of a family’s struggles.",
+BITTER_IN_TASTE,Redundant Phrases,This beer is bitter in taste.,
+BIVOUAC_CAMP_BIVOUAC,Redundant Phrases,A rock climber leaves a hanging bivouac camp on an Arctic cliff,
+BLEND_TOGETHER,Redundant Phrases,Their voices blend together in lovely harmony.,
+BLIND_FOR_FROM,Collocations,blind for the fury.,
+BLU_RAY,Commonly Confused Words,I ordered a Blu ray disk with their software.,
+,,I ordered a Blu ray with their software.,
+,,I ordered a Blu-ray disk with their software.,
+,,I ordered a Blueray disk with their software.,
+BOAST_FOR_OF,Collocations,He boasted for his skills.,
+BOAT_MARINA,Redundant Phrases,Taupo Boat Marina,
+BOB_WIRE,Commonly Confused Words,Building a bob wire fence,
+BOLD_FACED,Commonly Confused Words,It was a bold-faced lie.,
+BORED_OF,Possible Typo,I always get bored of people who talk about themselves.,80
+BOTH_AS_WELL_AS,Grammar,He is both very rich as well as handsome.,50
+BOTH_ENUM,Semantic,"It allows us to both grow, focus, and flourish.",
+BOUQUET_OF_FLOWERS,Redundant Phrases,What a beautiful bouquet of flowers!,
+BRAKE_AWAY_BREAK_AWAY,Commonly Confused Words,The should brake away from Russia.,
+BREATHE_BREATH,Commonly Confused Words,I am not going to hold my breathe that he will do anything,
+,,I could breath.,
+,,I couldn't breath.,
+,,We can not breath under water.,
+BREW_HAHA,Possible Typo,What's all the brew haha about over there?,80
+BRIEF_IN_DURATION,Redundant Phrases,"However, most wilderness programs are brief in duration.",
+BRIEF_MOMENT,Redundant Phrases,A Brief Moment of Compassion,
+BRING_AT_TO,Collocations,Bring Suzanne at the party.,
+BRING_PUN_ON_THE_AGENDA,Collocations,We must bring to the agenda the people that are fed up of so many elections.,
+BROUGHT_THEM_IN_THE_AIRPORT,Collocations,Friday came fast and the couple quitted their sweet house for took the bus who will brought them in the airport.,
+BRUSSEL_SPROUT,Possible Typo,He left the last brussel sprout on his plate.,80
+BUILD_OFF_OF,Possible Typo,Arcade Fire tried to build off of the success of their first album.,80
+BUT_NEVERTHELESS,Redundant Phrases,"I should not have, but nevertheless I did.",
+BUTTLOAD,Possible Typo,There was a buttload of cabbage left over.,80
+BUY_VBG,Commonly Confused Words,We exploit these two features buy using Named Entity recognition.,
+BY_DEFAULT_COMMA,Punctuation Errors,By default this setting is enabled.,
+BY_EXAMPLE,Collocations,"By example, poor spelling makes pattern matching more difficult.",
+BY_MEANS_OF,Plain English,Major forest areas are coming back by means of natural processes.,
+BY_PASSIVE_PARTICIPLE_BE,Possible Typo,This can by consistent with usability constraints.,80
+BYE_THE_WAY,Commonly Confused Words,"And bye the way, this program is open source.",
+CA_PRP,Possible Typo,What ca I do?,80
+,,You ca do it!,
+CALENDER,Commonly Confused Words,"A calender is a system of organizing days for social, religious, commercial or administrative purposes.",
+CAME_IN_INTO,Collocations,Judy came in the house after greeting her elders.,
+CAN_ABLE_TO,Grammar,So you can able to download more apps regardless of the storage.,50
+CAN_BACKUP,Possible Typo,Did you know you can backup your data on an external drive?,80
+CAN_BLACKOUT,Possible Typo,You can blackout if you have any more to drink.,80
+CAN_NOT,Possible Typo,You can not use the keyboard to select an item.,80
+CAN_SETUP,Possible Typo,She can setup the tent in thirty seconds.,80
+CAN_WHAT,Grammar,You should really how it works.,50
+CAN_WORKOUT,Possible Typo,We can workout after we get lunch.,80
+CANT,Possible Typo,I cant view pdf files in Explorer.,80
+CANT_HELP_BUT,Grammar,I can't help but fall in love with you.,50
+,,I cannot help but fall in love with you.,
+CAPITALIZATION,Style,How many people died in world war II?,
+,,She lived several years in south America.,
+,,"Since 1914, cape cod has been separated from the mainland by the Cape Cod Canal.",
+,,Some of the most prosperous neighbourhoods of the Netherlands can be found in the Hague.,
+,,"The cape of good hope is a rocky headland on the Atlantic coast of the Cape Peninsula, South Africa.",
+,,The middle ages is one of the three major periods in the most enduring scheme for analysing European history.,
+,,What did you do on Valentine's day last year?,
+,,What did you do on Veterans day last year?,
+CAREFUL_FOR_WITH,Collocations,Be careful for the camera.,
+CD_00_O_CLOCK,Nonstandard Phrases,It's 7:00 o'clock.,
+,,It's 7:45 o'clock.,
+CD_APOSTROPHE_S,Possible Typo,I have 5 CD's.,80
+,,I have many CD's.,
+CD_DISC,Redundant Phrases,I ordered a CD disk with their software.,
+CD_DOZENS_OF,Grammar,You need two dozens of eggs.,50
+CD_NN,Grammar,I have five book.,50
+CD_WEEK_S,Possible Typo,"""he'll be sailing around the world in two week's time.",80
+CDROM,Redundant Phrases,I ordered a Cdrom with their software.,
+CHALK_FULL,Commonly Confused Words,Chalk full of mobile content,
+CHANCE_CHANGE,Commonly Confused Words,Do not chance these settings!,
+,,The climate chance must be stopped.,
+CHOMPING_AT_THE_BIT,Possible Typo,The horses were all chomping at the bit.,80
+CIRCUMSTANCES_SURROUNDING,Redundant Phrases,"Based upon this discussion, the OIG expanded the scope of its investigation to analyze the circumstances surrounding the settlement rejected by Judge Rakoff.",
+CLEAN_UP,Commonly Confused Words,A full clean up is required.,
+,,He promised to cleanup his room.,
+CLEARLY_OR_OBVIOUSLY,Plain English,"Obviously, this is important.",
+CLOSE_SCRUTINY,Redundant Phrases,The majority of Jannali's enterprises are located within close proximity to the suburb's railway station.,
+,,Their manifesto yesterday received the same close scrutiny as the other two big parties — and it was an uncomfortable experience.,
+CLOSER_FROM,Collocations,I moved in July to be closer from school.,
+COARSE_COURSE,Commonly Confused Words,A coarse after action,
+,,"In the syllabus for an Applied Mathematics coarse, students are told to write their problem sets individually.",
+COLD_COULD,Possible Typo,Cold her father hear him?,80
+,,Cold you hear him?,
+,,This is all he cold do.,
+,,This is all my father cold do.,
+COLLECTIVE_NOUN_VERB_AGREEMENT_VBD,Grammar,A fleet of ships have been spotted.,50
+COLLECTIVE_NOUN_VERB_AGREEMENT_VBP,Grammar,A fleet of ships are spotted.,50
+COMBINE_TOGETHER,Redundant Phrases,Two things are combined together in this application.,
+COME_IN_CAR,Collocations,She comes in car.,
+,,She comes to work in car.,
+COME_IN_TO,Collocations,"Finally, the boss called us all to come in her giant office for a meeting.",
+COME_THROUGH,Possible Typo,They came throw the door.,80
+COME_TO_PLANE,Collocations,I came to plane.,
+COMFORTABLE_WITH_VBG,Redundant Phrases,I am not comfortable with dancing with strangers.,
+COMMA_AFTER_A_MONTH,Punctuation Errors,"The store closed its doors for good in October, 1958.",
+COMMA_BEFORE_AND,Punctuation Errors,She loves playing the piano and I hate it.,
+COMMA_COMPOUND_SENTENCE,Punctuation Errors,Bill didn't work hard enough and so he failed.,
+,,I need to borrow some money so I can buy some medicine for Tom.,
+,,My friends are in Washington but I am in Seattle.,
+,,She really purchased the car but she declined the extended warranty.,
+COMMA_PARENTHESIS_WHITESPACE,Typography,"We had coffee , cheese and crackers and grapes.",
+COMMA_TAG_QUESTION,Punctuation Errors,She isn't coming is she?,
+COMMA_THAN,Commonly Confused Words,"If we want to eat, than we need to get some money.",
+COMMA_WHICH,Punctuation Errors,I am going to the house which burned down.,
+COMMON_BOND,Redundant Phrases,They formed a common bond against the British,
+COMMUTE_BACK_AND_FORTH,Redundant Phrases,She will commute back and forth between New Haven and her home in Southern California before relocating to the Elm City this summer.,
+COMP_THAN,Grammar,The tagger will return more as one tag.,50
+,,The tagger will return more then one tag.,
+,,This house is bigger then mine.,
+COMPARISONS_AS_ADJECTIVE_AS,Possible Typo,We must do our job as best as we can.,80
+COMPARISONS_NNS_THEN,Possible Typo,There were better companies then GE and Google.,80
+COMPARISONS_THEN,Possible Typo,It was hotter then it'd ever been.,80
+COMPLAIN_FOR_ABOUT,Collocations,The client complained for the service.,
+COMPLAINS_COMPLAINTS,Commonly Confused Words,I do not understand why there are complains from our community.,
+,,This is our biggest complain.,
+COMPLAINT_COMPLIANT,Possible Typo,"If the rules are not fully complaint with the specification, post them here.",80
+COMPLEMENT_COMPLIMENT,Possible Typo,She was complemented on her beautiful eyes.,80
+COMPOSE_FROM_OF,Collocations,It is composed from carbohydrates and proteins.,
+COMPRISE_OF,Possible Typo,It's tough to think you comprise of mostly water.,80
+COMPRISED_CHIEFLY_OF,Possible Typo,The song was comprised chiefly of B chords.,80
+COMPRISED_PRINCIPALLY_OF,Possible Typo,The lawsuit was comprised primarily of false accusations.,80
+COMPRISES_OF,Possible Typo,The part comprises of the whole.,80
+COMPRISING_OF,Possible Typo,This is a country comprising of independent people.,80
+CONCENTRATE_WITH_ON,Collocations,"I know my life, it's not very interest because I am concentrated with my studies.",
+CONFUSION_AWAIT_WAIT,Commonly Confused Words,"I can hardly await until "" Evidence "" arrives at my home.",
+CONFUSION_DURING_FOR,Commonly Confused Words,I haven't seen him during ages.,
+CONFUSION_OF_ADDICTING_ADDICITVE,Commonly Confused Words,Nicotine is the addicting drug in tobacco.,
+CONFUSION_OF_ANOTHER_IN_OTHER,Commonly Confused Words,Let me say this another words.,
+CONFUSION_OF_BEEN_BEING,Possible Typo,Stop been funny!,80
+,,What doctrine are they been taught?,
+CONFUSION_OF_CORRAL_CORAL,Commonly Confused Words,Corral reefs are diverse underwater ecosystems.,
+CONFUSION_OF_DECENT_DESCENT,Commonly Confused Words,He is of Asian decent.,
+,,Looking for a hotel with descent rooms.,
+CONFUSION_OF_FOND_FUND,Possible Typo,A vulture fond is a...,80
+CONFUSION_OF_GOLD_GOLF,Commonly Confused Words,She drove the gold cart.,
+,,She is a golf medallist.,
+,,She likes playing gold.,
+CONFUSION_OF_HART_HEART,Commonly Confused Words,The questions of training and pay lie at the hard of the staffing problems.,
+CONFUSION_OF_MARSHAL_MARTIAL,Commonly Confused Words,He is an experienced marshal artist.,
+CONFUSION_OF_ME_I,Possible Typo,He gave it to Tim and I.,80
+,,Her and I cheated on the test.,
+,,Him and I cheated on the test.,
+,,My mother and me went to California.,
+,,Tim and me work together.,
+CONFUSION_OF_OUR_OUT,Possible Typo,We evaluated out method by running RASP.,80
+CONFUSION_OF_RIDE_RID,Possible Typo,Let's get rid if that broken chair.,80
+,,Let's get ride of that broken chair.,
+CONFUSION_OF_SAVE_SAFE_TO_IGNORE,Possible Typo,It is save to ignore trivial code when writing unit tests.,80
+CONFUSION_OF_SOBBER_SOBER,Commonly Confused Words,I'm sobber.,
+CONFUSION_OF_THEN_THAN,Possible Typo,It may be more expensive on some file systems then others.,80
+,,She knows more then her colleagues.,
+CONFUSION_OF_THESES_THESE,Possible Typo,Are theses scenes from a novel?,80
+CONSENSUS_OF_OPINION,Redundant Phrases,"Wim Duisenberg, the ECB's Dutch president, is seen as a leader who seeks to fashion a consensus of opinion on the council rather than imposing his own views, as some chairmen of the US Federal Reserve have done.",
+CONSEQUENCES_OF_FOR,Collocations,The new labour laws will have consequences on employees.,
+CONSIST_TO_OF,Collocations,There is a program in medicine and this program consists to diagnostic people to know if their body works well.,
+CONSTELLATION_PRIZE,Possible Typo,"The team was so upset, they didn't even claim their constellation prize.",80
+CONSTITUTES_OF,Possible Typo,The city constitutes of five boroughs.,80
+CONSTRUCTION_SIGHT,Possible Typo,We didn't visit the construction sight until Wednesday.,80
+CONTINUE_TO_REMAIN,Redundant Phrases,We continued to remain optimistic.,
+CONTRACT_CONTACT,Possible Typo,Please contract me as soon as possible.,80
+COPYRIGHT,Typography,"Copyright (C) Joanna Bator, 2012",
+COULD_CARE_LESS,Possible Typo,The man on the street said he could care less.,80
+COULD_GIVE_A_DAMN,Possible Typo,"Frankly, my dear, I could give a damn.",80
+COULD_OF,Commonly Confused Words,I should of finished it by now.,
+COULDNT_CARELESS,Possible Typo,I couldn't careless.,80
+COULDVE_IRREGULAR_VERB,Possible Typo,We could've ate the chicken.,80
+COUNSEL_GENERAL,Commonly Confused Words,"Archer Blood, the counsel general in Dacca.",
+COUNTLESS_OF,Collocations,There are countless of occurrences.,
+COVER_BY_IN,Collocations,The Mountains are covered by snow.,
+CRAZY_ON_WITH,Collocations,What makes me crazy on this dwelling is that some time we are higher than the clouds.,
+CROWD_SOURCING,Possible Typo,Mechanical Turk is an example of crowd sourcing.,80
+CURATOR_OF,Collocations,The man to whom you were speaking to was the curator on the exposition.,
+CURE_AGAINST_FOR,Collocations,Researcher have found the cure against that type of cancer.,
+CURE_FROM_OF,Collocations,This medicine will cure you from the disease.,
+CURRENCY,Typography,You owe me 7.25$.,
+CURRENCY_SPACE,Typography,You owe me $ 100.,
+CURRENTLY,Plain English,I am currently employed.,
+CURSING_THROUGH_VEINS,Possible Typo,It felt like the drugs were cursing through veins.,80
+DAILY_REGIMENT,Possible Typo,They had a strict daily regiment of calisthenics.,80
+DAMAGE_OF_TO,Collocations,It may cause damage of wildlife.,
+DAMP_SQUID,Possible Typo,The last firework of the evening was a disappointing damp squid.,80
+DARING-DO,Possible Typo,He impressed all the ladies with his daring-do.,80
+DASH_RULE,Punctuation Errors,"- What is that, mother?",
+,,"…— as aforementioned -,…",
+,,In these educational establishments there were enrollments - mostly from elementary school — and a total of teachers.,
+,,Vitorino Nemésio (1901 - 1978) — writer and university teacher.,
+DATE_FUTURE_VERB_PAST,Semantic,We have visited the client on 10/27/2040.,
+,,We have visited the client on 27/10/2040.,
+,,We have visited the client on 7 October 2020.,
+,,"We have visited the client on October 7, 2020.",
+,,We visited the client on 10/27/2040.,
+,,We visited the client on 27/10/2040.,
+,,We visited the client on 7 October 2020.,
+,,"We visited the client on October 7, 2020.",
+DATE_NEW_YEAR,Semantic,IGD Convention - 7 October 2013,
+,,"IGD Convention - October 7, 2013",
+,,IGD Convention 2014 - 10/31/2013,
+,,IGD Convention 2014 - 2013-10-31,
+,,IGD Convention 2014 - 31/10/2013,
+DATE_WEEKDAY,Semantic,"IGD Convention - Monday, 7 October 2014",
+,,"IGD Convention - Monday, October 7, 2014",
+,,"IGD Convention 2014 - Monday, 10/31/2014",
+,,"IGD Convention 2014 - Monday, 2014-10-31",
+,,"IGD Convention 2014 - Monday, 31/10/2014",
+DATE_WEEKDAY_WITHOUT_YEAR,Semantic,"IGD Convention - Monday, 7 October",
+,,"IGD Convention - Monday, October 7",
+,,"IGD Convention 2014 - Monday, 10/31",
+,,"IGD Convention 2014 - Monday, 31/10",
+DE_FACTOR,Possible Typo,There was a de factor ban on cigarettes.,80
+DE_JURO,Possible Typo,There is no de juro segregation allowed by law anywhere in the United States.,80
+DEATH_NAIL,Possible Typo,The fall of the Berlin Wall was the death nail for the USSR.,80
+DECEASE_DISEASE,Commonly Confused Words,He has a deadly decease.,
+DEEP_SEEDED,Commonly Confused Words,He has a deep-seeded infection.,
+DEER_DEAR,Commonly Confused Words,"Deer Anne,...",
+DEFUSE_BOMB,Commonly Confused Words,How long did it take you to diffuse the bomb?,
+DEGREE_CHANGE,Possible Typo,She made a 360 degree change in her life.,80
+DEPARTURE_OF_FROM,Collocations,The stay is finally ended and they prepared their departure of New York.,
+DEPEND_ON,Grammar,He depends you.,50
+DEPENDENT,Commonly Confused Words,They are dependant on the results,
+DEPRIVE_FROM_OF,Collocations,This soil is deprived from nutrients.,
+DESCEND_DOWN,Redundant Phrases,The Pentagon aides and journalists descend down the back stairs of the plane as is customary while Rumsfeld comes down the main stairs to meet his welcome party.,
+DESERT_DESSERT,Commonly Confused Words,The criminal will get his just desserts.,
+DESIRE_ON_FOR,Collocations,"Even though some businessmen prefer unusual approaches to boost up their business identification, they get interested to identify the best approach to realize their desires on the business development.",
+DESPITE_OF,Grammar,He kept running despite of the pain in his chest.,50
+DESPITE_THE_FACT,Plain English,He still loves her despite the fact that she cheated on him.,
+,,He still loves her in spite of the fact that she cheated on him.,
+DID_BASEFORM,Grammar,Mozilla should has a grammar checker.,50
+,,Since he does not really has any connection with us...,
+,,Since he doesn't has any connection with us...,
+,,They will comes home.,
+DID_PAST,Grammar,Did the application worked?,50
+,,Did you forgot it?,
+DIE_DICE,Grammar,I had a dice in my hand.,50
+DIE_FROM_OF,Collocations,The ferns are dying from too much watering.,
+DIFFERENCE_ABOUT_BETWEEN,Collocations,There is not big difference about the week and the weekend to me.,
+DIFFERENT_TACT,Possible Typo,We'll have to try a different tact.,80
+DIFFICULT_TO_ME,Collocations,Studying grammar is difficult to me.,
+DIFFUSE_TENSIONS,Commonly Confused Words,They gathered at her police precinct to thank officers for their work and to diffuse tensions.,
+DIRECTLY_ANTITHETICAL,Redundant Phrases,The two events this week were directly antithetical to the University's values for these reasons.,
+DISAPPOINT_FROM,Collocations,She was disappointed from the surprise.,
+DISAPPOINTED_OF,Collocations,We could be disappointed of this announcement.,
+DISC_BREAK,Possible Typo,The rear wheels are disc break.,80
+DISCUSS_ABOUT,Grammar,Do you have a few minutes to discuss about this project?,50
+DISCUSSIONS_AROUND,Possible Typo,They had many discussions around politics.,80
+DIVERSITY_OF,Collocations,The diversity nature of this work is appealing to many.,
+DIVIDE_IN_INTO,Collocations,Divide the pizza in four.,
+DO_A_PARTY,Collocations,"A new roommate has moved in, so we decided to do a party with all of us..",
+,,I like making a party.,
+DO_ARTS,Collocations,My sister plays ballet at the community center.,
+DO_HAVE_A_MEETING,Collocations,We decided to do a meeting the next day.,
+DO_TO_THE_FACT_THAT,Commonly Confused Words,"Do to the fact that the MTA has burned through leaders at a rate of nearly one per year over the last six years, ...",
+DO_VBZ,Grammar,Do you tried this?,50
+DO_YOU_WHAT,Grammar,Do you why she left him?,50
+DOE_SNOT,Possible Typo,This doe snot mean that I like you.,80
+DOES_NP_VBZ,Grammar,Does your memory usage grows during processing?,50
+DOES_X_HAS,Grammar,He does not has expertise about that.,50
+DOES_XX_CAN,Grammar,Does someone can reproduce what I described before?,50
+DOES_YOU,Grammar,But Does you have your glasses?,50
+,,Does you have your glasses?,
+DONT_NEEDS,Grammar,I do not needs help with that.,50
+,,I don't needs help with that.,
+DONT_WHAT,Grammar,One problem is that you often don't where a sentence starts and ends.,50
+DONT_WILL,Grammar,I don't will do that.,50
+DOOR_JAM,Possible Typo,There were scratches all along the door jam.,80
+DOUBLE_NEGATIVE,Grammar,I didn't see nothing.,50
+,,Nobody told me nothing.,
+,,She could not hardly understand a word.,
+,,She couldn't hardly understand a word.,
+,,She hasn't seen nobody.,
+,,You shouldn't have not done it!,
+,,You shouldn't not do it!,
+DOUBLE_PUNCTUATION,Punctuation,(empty),
+DOUBT_FOR_IN,Collocations,I doubt for that.,
+DOWN_SIDE,Possible Typo,There was no serious down side to the plan.,80
+DOWNPAYMENT,Possible Typo,The couple made their first downpayment on their new house.,80
+DRAW_ATTENTION,Plain English,We'd like to draw your attention to the last picture.,
+,,Your attention is drawn to the last page.,
+DRESS_WITH_IN,Collocations,Jane dresses with a coverall.,
+DT_BAIL_OUT,Possible Typo,The bail out was too expensive.,80
+DT_DT,Grammar,I like a this dog.,50
+,,The 'an international movie' is interesting.,
+,,The a thing is this.,
+DT_JJ_NO_NOUN,Grammar,An absurd is making my existence meaningless.,50
+,,This is an absurd.,
+DT_PRP,Grammar,"Strode past the now frightened man, entered the he house.",50
+DT_RESPONDS,Possible Typo,Thanks for the responds.,80
+DT_VBZ_THEYRE_NN,Possible Typo,"And if another is they're boyfriend, I will be angry.",80
+DUE_TO_THE_FACT,Plain English,The experiment was halted due to the fact that funding was withdrawn.,
+DURING_OVER_THE_WEEKENDS,Collocations,"During the week, I go to school and I work in a pet shop during the week end.",
+,,"During the week, I go to school and I work in a pet shop during the weekend.",
+,,I only speak English on weekends because during weekends I work and some clients that only speak in English.,
+DURING_THE_COURSE_OF,Redundant Phrases,He never smiled during the course of the trial.,
+E_PRIME_LOOSE,Creative Writing,This is right.,100
+E_PRIME_STRICT,Creative Writing,This is wrong.,100
+EACH_AND_EVERY,Redundant Phrases,God bless each and every one of you!,
+EACH_AND_EVERY_NOUN,Plain English,You better check each and every door.,
+EACH_EVERY_NNS,Grammar,Each children are happy.,50
+EACH_OTHERS,Grammar,They checked each others’ work.,50
+EAGER_TO,Grammar,Bangladesh is eager to buying cars from Iran.,50
+EARLY_ADAPTER,Nonstandard Phrases,DualCore PC is available for purchase for selected companies in the early adapter program.,
+EASE_EASY,Commonly Confused Words,This looks pretty ease to me.,
+EASE_OFF_USE,Commonly Confused Words,Increase ease off use.,
+EASIEST_WAS_TO,Possible Typo,What is the fastest was to learn Spanish?,80
+ECONOMIC_ECONOMICAL,Commonly Confused Words,This is a very economic car.,
+ECONOMICAL_ECONOMIC,Commonly Confused Words,This article deals with economical development of the Third World.,
+EG_NO_COMMA,Punctuation Errors,"There are several grammar checkers for English, e.g. LanguageTool.",
+,,"There are several grammar checkers for English, eg LanguageTool.",
+,,"There are several grammar checkers for English, eg. LanguageTool.",
+EG_SPACE,Punctuation Errors,"There are several grammar checkers for English, e. g. LanguageTool.",
+,,"Who's responsible for providing public facilities, i. e., a post office, library, etc. for the Northwest?",
+EGG_YOKE,Commonly Confused Words,Chocolate mousse with egg yoke,
+ELDER_OLDER,Possible Typo,She is elder than her brother.,80
+ELLIPSIS,Typography,This is important . . . as far as I know.,
+ELUDED_TO,Possible Typo,He eluded to engagement at the party.,80
+EMPHATIC_REFLEXIVE_PRONOUNS,Plain English,I cannot do it for you. Only you yourself can do it.,
+,,I cannot do it for you. Only you yourselves can do it.,
+,,The software update is not correct. It itself causes more problems than in solves.,
+,,There are no biscuits. I myself ate the last one.,
+,,They cannot do it for us. We ourselves must do it.,
+,,You cannot do it for her. Only she herself can do it.,
+,,You cannot do it for him. Only he himself can do it.,
+,,You cannot do it them. Only they themselves can do it.,
+EMPTY_LINE,Style,(empty),
+EN_A_VS_AN,Miscellaneous,The train arrived a hour ago.,
+EN_COMPOUNDS,Miscellaneous,I now have a part time job.,
+EN_CONTRACTION_SPELLING,Possible Typo,We havent earned anything.,80
+EN_DASH_RULE,Miscellaneous,(empty),
+EN_MASS,Commonly Confused Words,HP Already Shipping Linux en mass,
+EN_QUOTES,Typography,„Test”.,
+,,``Test”.,
+,,"This is a (""test"")",
+,,"This is a (""test"").",
+EN_UNPAIRED_BRACKETS,Punctuation,"""I'm over here, she said.",
+EN_WORD_COHERENCY,Miscellaneous,"He likes archaeology. Really? She likes archeology, too.",
+END_RESULT_OR_PRODUCT,Plain English,The end result is clear.,
+ENGLISH_WORD_REPEAT_BEGINNING_RULE,Style,"Moreover, the street is almost entirely residential. Moreover, it was named after a poet.",
+ENGLISH_WORD_REPEAT_RULE,Miscellaneous,This is is just an example sentence.,
+ENGLISH_WRONG_WORD_IN_CONTEXT,Commonly Confused Words,I have proscribed you a course of antibiotics.,
+ENROLLED_IN_FOR,Collocations,He enrolled at the college.,
+ENTER_IN,Collocations,"While he was entering in the room, he felt an uncomfortable feeling on his spine.",
+ENTIRELY_COMPRISED_OF,Possible Typo,It was entirely comprised of people.,80
+ENUMERATION_AND_DASHES,Punctuation Errors,1.- Introduction,
+ENVELOPE_ENVELOP,Possible Typo,The smell started to envelope me.,80
+EQUALLY_AS,Grammar,This model is equally as effective.,50
+ESSENTIAL_ESSENTIALLY,Grammar,This is essential the same work,50
+ESTABLISHED_FACT,Redundant Phrases,This is an established fact.,
+ET_AL,Possible Typo,Thelen et al 2001,80
+,,Thelen et. al. 2001,
+ET_ALL,Commonly Confused Words,"In the recent paper by Shakespeare et all, it is argued that envy is not unique to primates.",
+EUPUB_ACTION,Misused terms in EU publications (Gardner),Action 1 Measure 1.1 - Town twinning citizens' meetings - EUR 5896000,
+EUPUB_ACTOR,Misused terms in EU publications (Gardner),… which have been supported by the EU and endorsed by various international actors.,
+EUPUB_ACTORNESS,Misused terms in EU publications (Gardner),EU Actorness in International Affairs: The Case of EULEX Mission in Kosovo.,
+EUPUB_ACTUAL,Misused terms in EU publications (Gardner),This appropriation is… based on the actual regulations and on the probable adjustments.,
+EUPUB_ADEQUATE,Misused terms in EU publications (Gardner),The collection of the data should be adequate and proportionate to the objectives pursued.,
+EUPUB_AGENDA,Misused terms in EU publications (Gardner),Three agendas were found in the meeting room.,
+,,Write the time of the meeting in your agenda.,
+EUPUB_AGENT,Misused terms in EU publications (Gardner),The problem of vacancies mainly concerns contract agents.,
+EUPUB_AIDS,Misused terms in EU publications (Gardner),State aids — Decisions to propose appropriate measures pursuant to Article 108(1).,
+EUPUB_AIM,Misused terms in EU publications (Gardner),List of specific recommendations from the Commission with the aim to reduce the administrative burden of REACH by SMEs.,
+EUPUB_ALLOW_PERMIT_ENABLE_TO,Misused terms in EU publications (Gardner),The statistics available do not allow to take account of all these situations.,
+EUPUB_ANGLO_SAXON,Misused terms in EU publications (Gardner),The Anglo-Saxon group of agencies are…,
+EUPUB_ANIMATE,Misused terms in EU publications (Gardner),The Commission is looking for a head of sector to animate 12 staff members.,
+EUPUB_ANTI,Misused terms in EU publications (Gardner),These threats are outlined in the framework of the Commission anti-cyber crime policy.,
+EUPUB_ARTICULATE_ARTICULATION,Misused terms in EU publications (Gardner),"The European Parliament… urges Turkey to articulate with the Iraqi Government, and other neighbours, …",
+,,This includes an appropriate articulation with the Cohesion policy funds.,
+EUPUB_ASSIST_AT,Misused terms in EU publications (Gardner),Officials of the Commission assist at the meetings of the Committee and the working groups.,
+EUPUB_ATTESTATION,Misused terms in EU publications (Gardner),… is a necessary and sufficient condition for an attestation of conformity.,
+EUPUB_ATTRIBUTE,Misused terms in EU publications (Gardner),The contracting authority can attribute a contract to the company if…,
+,,The contracts were attributed on 21 March.,
+EUPUB_AXIS,Misused terms in EU publications (Gardner),… shall be calculated by applying the co-financing rate for each priority axis laid down by the Commission decision.,
+EUPUB_BADGE,Misused terms in EU publications (Gardner),New topping up system for your children's badges at the European School.,
+EUPUB_BOVINE_OVINE_CAPRINE_PORCINE_ASININE_ANIMALS,Misused terms in EU publications (Gardner),… and asinine animals.,
+,,… and caprine fresh meat.,
+,,… and porcine fresh meat.,
+,,… as regards model certificates relating to the importation of bovine animals for slaughter and…,
+,,… as regards model certificates relating to the importation of ovine animals for slaughter and…,
+EUPUB_BUDGET_LINE,Misused terms in EU publications (Gardner),"These are DG and Culture (DG EAC) for budget line 15, …",
+EUPUB_CABINET,Misused terms in EU publications (Gardner),Go to the British cabinet.,
+EUPUB_CASE,Misused terms in EU publications (Gardner),Farmers are… subject to possible reduction of the grubbing-up premium in case of non-compliance with certain requirements.,
+EUPUB_CITIZEN,Misused terms in EU publications (Gardner),Tax on citizens travelling from airports within the EU.,
+EUPUB_COHERENT_COHERENCE,Misused terms in EU publications (Gardner),The Framework Programme is coherent with the objectives of the SET-Plan.,
+EUPUB_COLLEGE,Misused terms in EU publications (Gardner),… to be adopted by the College before the 2007 summer break.,
+EUPUB_COMITOLOGY,Misused terms in EU publications (Gardner),"… in the framework of the now-abolished comitology procedure, to ensure that the new system operates properly.",
+EUPUB_COMPETENCES,Misused terms in EU publications (Gardner),"This Directive fully respects the competences of Member States, …",
+EUPUB_COMPLETE,Misused terms in EU publications (Gardner),"They proposed a Regulation to complete Regulation (EC) No 1347/2000, aimed at facilitating…",
+EUPUB_CONCERN,Misused terms in EU publications (Gardner),"Concerning the achievement[s] of the six EFA goals, the PEDP report reports that sound progress is being made…",
+EUPUB_CONCERNED,Misused terms in EU publications (Gardner),This list should not be used in order to target the concerned officials with a marketing campaign or to profile them…,
+EUPUB_CONDITIONALITY,Misused terms in EU publications (Gardner),… possible for you to influence conditionalities.,
+EUPUB_CONFERENCE,Misused terms in EU publications (Gardner),"… the Medical Service is organizing a conference on Tuesday 12 October… A specialist doctor, M. Vic Arendt, will answer any of your questions.",
+EUPUB_CONSIDER_AS,Misused terms in EU publications (Gardner),This increase is considered as adequate and in line with the rules.,
+EUPUB_CONTRACTUAL_AGENT,Misused terms in EU publications (Gardner),… Temporary agents (officials seconded by the Commission and agents recruited by the agency) | Contractual agents | Seconded national experts | Total,
+EUPUB_CONTRADICTORY_PROCEDURE,Misused terms in EU publications (Gardner),"… to confirm the accuracy of the Court's observations, followed by a ""contradictory procedure"" on the final text of the audit report.",
+EUPUB_CONTROL,Misused terms in EU publications (Gardner),A number of controls are built into the system.,
+,,Fraud occurred because the system was not controlled.,
+EUPUB_DEAN,Misused terms in EU publications (Gardner),Each Chamber shall elect one Member as Dean.,
+,,Each of the deans must…,
+EUPUB_DEBRIEFING,Misused terms in EU publications (Gardner),Weekly debriefing meetings are necessary.,
+EUPUB_DECOMMIT,Misused terms in EU publications (Gardner),The Commission shall decommit a portion of a budget commitment…,
+EUPUB_DEEPEN,Misused terms in EU publications (Gardner),Portugal shall deepen the use of shared services.,
+EUPUB_DEFINE_DEFINITION,Misused terms in EU publications (Gardner),The definition and implementation of all Union policies and activities…,
+,,The main task is to define and carry out the annual implementation plan.,
+EUPUB_DELAY,Misused terms in EU publications (Gardner),"In order to respect the delay for transmission, …",
+EUPUB_DETACHED_DETACHMENT,Misused terms in EU publications (Gardner),"External staff comprise Local Agents, Contract Agents, Detached National Experts and Young Experts.",
+,,The officer responsible for detachment must…,
+EUPUB_DISPOSE_OF,Misused terms in EU publications (Gardner),… and disposes of independent information sources.,
+,,… and may not dispose of independent information sources.,
+EUPUB_DO,Misused terms in EU publications (Gardner),Do the statistical adjustments at national level.,
+EUPUB_DOSSIER,Misused terms in EU publications (Gardner),An amendment to the Treaty could give new momentum to this dossier.,
+EUPUB_ELABORATE,Misused terms in EU publications (Gardner),Refer to the information document elaborated by the Group of Experts.,
+EUPUB_ENSURE_TO,Misused terms in EU publications (Gardner),In order to ensure to patients with rare diseases…,
+EUPUB_ENTERPRISE,Misused terms in EU publications (Gardner),"Persons starting their own enterprise, including self-employment.",
+EUPUB_ESTABLISH,Misused terms in EU publications (Gardner),The Agency shall establish a final inspection report.,
+EUPUB_EVENTUAL_EVENTUALLY,Misused terms in EU publications (Gardner),They both opposed an eventual imposition of anti-dumping measures…,
+EUPUB_EVOLUTION,Misused terms in EU publications (Gardner),These costs lead to a negative evolution of exports.,
+EUPUB_EXERCISE,Misused terms in EU publications (Gardner),The promotion exercise is different in each institution.,
+EUPUB_EXPERTISES,Misused terms in EU publications (Gardner),… in order to optimise local human resources and expertises as greatest potential drivers of growth in the ORs.,
+,,The authority had obtained an expertise on the question…,
+EUPUB_EXTERNALISE_EXTERNALISATION,Misused terms in EU publications (Gardner),… the decision to externalise should be taken on a consistent basis across the European Commission…,
+,,This externalisation should be consistent across the European Commission.,
+EUPUB_FICHE,Misused terms in EU publications (Gardner),"Where other information in the product information fiche is also provided, …",
+EUPUB_FINANCIAL_ENVELOPE,Misused terms in EU publications (Gardner),The overall financial envelope remains unchanged.,
+EUPUB_FIX,Misused terms in EU publications (Gardner),"… under certain conditions fixed in the regulation (Article 145(7)), …",
+EUPUB_FOLLOW_UP,Misused terms in EU publications (Gardner),Develop a mechanism to follow up the implementation of the recommendations.,
+EUPUB_FOLLOW-UP,Misused terms in EU publications (Gardner),This allows for an adequate follow-up of the sector.,
+EUPUB_FORESEE,Misused terms in EU publications (Gardner),The Fleet Adjustment Schemes foresee the scrapping of 367 vessels.,
+EUPUB_FORMULATE,Misused terms in EU publications (Gardner),… and one communication manager to formulate urgent safety communications.,
+EUPUB_GLOBAL,Misused terms in EU publications (Gardner),"Today at 14:30, there will be a global power cut.",
+EUPUB_HEAVY,Misused terms in EU publications (Gardner),The usual reason appears to be overly heavy administration.,
+EUPUB_HIERARCHICAL_SUPERIOR,Misused terms in EU publications (Gardner),The applicant's hierarchical superior is usually…,
+EUPUB_HOMOGENISE_HOMOGENEOUS_HOMOGENEOUSLY,Misused terms in EU publications (Gardner),Homogeneous policy regimes are not necessary.,
+,,Homogeneously developed policy regimes are not necessary.,
+,,Member States can work together towards shared goals without seeking to homogenize their inherited policy regimes.,
+EUPUB_IMPORTANT,Misused terms in EU publications (Gardner),… and explain the reasons for which an important amount is still to be implemented.,
+EUPUB_INCITE,Misused terms in EU publications (Gardner),Such activities shall not incite consumers to buy a product.,
+EUPUB_INFORM_TO,Misused terms in EU publications (Gardner),A number of Member States informed that they…,
+,,If Member States inform that they…,
+EUPUB_INFORMATICS_TELEMATICS,Misused terms in EU publications (Gardner),Professional experience in informatics related to data base management…,
+EUPUB_INSIDE,Misused terms in EU publications (Gardner),Evidence-based policy making inside the Commission…,
+EUPUB_INSTANCE,Misused terms in EU publications (Gardner),… for tasks undertaken by another instance on behalf of the said authorities.,
+EUPUB_INTERVENTION,Misused terms in EU publications (Gardner),… become a means of making the EU intervention truly complementary.,
+EUPUB_INTRODUCE,Misused terms in EU publications (Gardner),When a State introduces a demand to be granted funding…,
+EUPUB_JURY,Misused terms in EU publications (Gardner),The jury invited the applicants for interview.,
+EUPUB_JUSTIFY_JUSTIFICATION,Misused terms in EU publications (Gardner),The French Government did not justify the…,
+,,"The Government was unable to provide any justification, and the Commission could find none…",
+EUPUB_LEGISLATOR,Misused terms in EU publications (Gardner),… while respecting the prerogatives of the two branches of legislator.,
+EUPUB_MISSION,Misused terms in EU publications (Gardner),Last week I was in Rome on a mission.,
+EUPUB_MODALITY,Misused terms in EU publications (Gardner),Evaluation modalities have changed over recent years.,
+EUPUB_MODIFY_MODIFICATION,Misused terms in EU publications (Gardner),The Commission… undertook to make proposals to modify the regulation.,
+,,The modification to the regulations…,
+EUPUB_MODULATION,Misused terms in EU publications (Gardner),The voluntary modulations should take the form of…,
+EUPUB_NAME,Misused terms in EU publications (Gardner),CardHolderName is the name and given name(s) of the holder of the Control Card.,
+EUPUB_NORMALLY,Misused terms in EU publications (Gardner),"Normally, she will come at 8 o'clock'.",
+EUPUB_NOTE,Misused terms in EU publications (Gardner),"An information note from Vice-President Kallas and the President, … was adopted in 2008.",
+EUPUB_NOTIFY_TO,Misused terms in EU publications (Gardner),"Member States shall notify to the Commission the name, the address, ….",
+EUPUB_OPERATOR,Misused terms in EU publications (Gardner),… a serious risk caused by an economic operator to the proper and secure functioning of the Single Market.,
+EUPUB_OPPORTUNITY,Misused terms in EU publications (Gardner),The Court questioned the opportunity of introducing these measures.,
+EUPUB_ORIENTATIONS,Misused terms in EU publications (Gardner),It will include policy orientations in all these areas.,
+EUPUB_PERSPECTIVE,Misused terms in EU publications (Gardner),The Foundation enjoys a more stable perspective in 2010.,
+EUPUB_PLANIFICATION,Misused terms in EU publications (Gardner),Simplified procedures and better planification should make it possible to…,
+EUPUB_PRECISE_TO_PRECISION,Misused terms in EU publications (Gardner),… there is a need to precise the objectives of the CFP.,
+,,"Without further precisions, this could lead to…",
+EUPUB_PRESCRIPTION,Misused terms in EU publications (Gardner),"A uniform method for calculating the prescription is used, …",
+EUPUB_PROJECT,Misused terms in EU publications (Gardner),… and more consistent with the wording of the project of Regulation on placing on the market.,
+EUPUB_PROVIDE_TO,Misused terms in EU publications (Gardner),It is also part of ERA's effort to provide to its stakeholders a…,
+EUPUB_PUNCTUAL,Misused terms in EU publications (Gardner),"… through regular meetings of the Standing Committee, and punctual expert groups meetings where appropriate.",
+EUPUB_REASONABILITY,Misused terms in EU publications (Gardner),The reasonability of the rates was discussed.,
+EUPUB_REFLECTION_GROUP_FORUM,Misused terms in EU publications (Gardner),The Commission's Reflection Forum on Multilingualism and Interpreter Training…,
+,,The Commission's Reflection Forums on Multilingualism and Interpreter Training…,
+EUPUB_REINFORCE,Misused terms in EU publications (Gardner),…will seek to reinforce the coordination of risk management.,
+EUPUB_REQUEST,Misused terms in EU publications (Gardner),The Court of Justice was requested for a preliminary ruling.,
+EUPUB_RESPECT,Misused terms in EU publications (Gardner),… and all people respect the law.,
+,,… laws which ensure the respect of property rights and…,
+EUPUB_RESPONSIBLE,Misused terms in EU publications (Gardner),The responsible official should monitor this experiment.,
+EUPUB_RETAIN,Misused terms in EU publications (Gardner),If the social partners do not retain the hypothesis…,
+EUPUB_SEMESTER_TRIMESTER,Misused terms in EU publications (Gardner),… were given during 2011 and in the first trimester of 2012.,
+,,… will submit a proposal during the first semester of 2011.,
+EUPUB_SERVICE,Misused terms in EU publications (Gardner),The services of the Commission's Accounting Officer carried out a…,
+EUPUB_SHALL,Misused terms in EU publications (Gardner),It shall also include…,
+EUPUB_SICKNESS_INSURANCE,Misused terms in EU publications (Gardner),… from an establishment with which the insured person's sickness insurance fund has an agreement.,
+EUPUB_SO_CALLED,Misused terms in EU publications (Gardner),The so-called transitional system for the application of VAT…,
+EUPUB_SUPPRESS_SUPPRESSION,Misused terms in EU publications (Gardner),… to suppress the fees at the start of 2015.,
+,,… where fees were suppressed at the start of 2015.,
+,,"Furthermore, the suppression of inpatient fees from 2014…",
+,,"If you are suppressing the fees, …",
+EUPUB_THIRD_COUNTRY,Misused terms in EU publications (Gardner),The standard values for imports from a third country are…,
+EUPUB_TRAINING,Misused terms in EU publications (Gardner),… ICT (including for the purpose of a training).,
+,,… ICT (including for the purpose of trainings).,
+EUPUB_TRANSMIT,Misused terms in EU publications (Gardner),When the Court transmits its draft report…,
+EUPUB_TRANSPOSE_TRANSPOSITION,Misused terms in EU publications (Gardner),… which transpose Chapter 3 of Title XI of Directive 2006/112/EC.,
+,,The transposition of Chapter 3 of Title XI of Directive 2006/112/EC…,
+EUPUB_TRANSVERSE_TRANSVERSAL,Misused terms in EU publications (Gardner),Conclusions of the Council on a transversal approach to youth policy.,
+,,The activities are transverse and apply to all…,
+EUPUB_TRAVEL,Misused terms in EU publications (Gardner),The consent form for travels in and out of the Schengen area…,
+EUPUB_TREATMENT,Misused terms in EU publications (Gardner),The significant efforts undertaken in data treatment and methodological developments…,
+EUPUB_VALORISE_VALORIZE,Misused terms in EU publications (Gardner),The work of the Agency was valorised for both the public and the private sectors.,
+EUPUB_VERIFICATIONS,Misused terms in EU publications (Gardner),To increase the effectiveness of its on-the-spot verifications of the Member States' statistical reports…,
+EUPUB_VISA,Misused terms in EU publications (Gardner),"The centralised ex-ante visa performed by the Financial Controller, …",
+EVER_SO_OFTEN,Nonstandard Phrases,"Ever so often, we put down the books, and go sailing!",
+EVERY_EACH_SINGULAR,Grammar,The manager wants to speak to every employees in his office.,50
+EVERY_NOW_AND_THEN,Redundant Phrases,Every now and then the faucet drips.,
+EVERY_SINCE,Possible Typo,"And every since the war, the people have gone to bed at eleven.",80
+EVERY_WHERE,Possible Typo,There are bugs every where.,80
+EVERYDAY_EVERY_DAY,Commonly Confused Words,Everyday he gets up early.,
+,,"Everyday, he gets up early.",
+,,He gets up early everyday.,
+EVERYONE_EVERY_ONE,Commonly Confused Words,The space in which each and everyone of us lives has taken on a new shape.,
+EXACT_REPLICA,Redundant Phrases,We created an exact replica of the building.,
+EXACT_SAME,Redundant Phrases,This is the exact same situation.,
+,,This shoe is exactly the same.,
+EXCEPTION_OF_TO,Collocations,I'll make an exception to you.,
+,,This is an exception of the guidelines.,
+EXCEPTION_PREPOSITION_THE_RULE,Grammar,Graphite is an exception of the rule.,50
+EXITED_EXCITED,Possible Typo,She is really exited about it.,80
+EXPLAIN_TO,Grammar,She explained me the results in detail.,50
+EXTEND_EXENT,Commonly Confused Words,It is not known to what extend the subjects were being truthful.,
+,,Shoplifters will be prosecuted to the fullest extend of the law.,
+,,"To a great extend, psychological explanations prove satisfactory.",
+EYE_BROW,Possible Typo,Calcium deposits on eye lids,80
+FACE_FIRST,Punctuation Errors,I crashed face first into the snow.,
+FAIRED_AS_WELL,Possible Typo,He faired as well as could be expected.,80
+FAIRED_BADLY,Possible Typo,It was a pity that the Jets faired badly.,80
+FAMOUS_CELEBRITY,Redundant Phrases,I'm told that he's a famous celebrity now.,
+FAR_BE_IT_FOR_ME,Nonstandard Phrases,Far be it for me to say that you can’t.,
+FAR_OF_FROM,Collocations,It is not very far of my job.,
+FED_UP_OF_WITH,Collocations,The people are fed up of so many pointless elections.,
+FEEL_TREE_TO,Possible Typo,Feel tree to add it to the list.,80
+FELLOW_CLASSMATE,Redundant Phrases,I would enjoy a reunion with my fellow classmates.,
+FEMALE_ACTOR,Redundant Phrases,She was the first female actor.,
+FEMALE_WAITER,Redundant Phrases,She was the first female waiter.,
+FEW_IN_NUMBER,Redundant Phrases,"They were few in number, but mighty.",
+FEW_OCCASIONS,Redundant Phrases,The man drank on a few occasions.,
+FEWER_LESS,Grammar,He has less items,50
+,,Ten items or less,
+FEWER_UNCOUNTABLE,Possible Typo,He gave his enemies fewer information than he gave his friends.,80
+FIGURE_HEAD,Possible Typo,The boss was merely a figure head.,80
+FILED_WITH,Possible Typo,The gallery was filed with friends and family.,80
+FILL_OF_WITH,Collocations,Fill the page of numbers.,
+FIRST_AID_KIT,Commonly Confused Words,"A first aid kid is a collection of medical supplies and equipment, often portable.",
+FIRST_MAN_NOUN,Redundant Phrases,He was the first man employee of the company.,
+FIRST_SERVED,Grammar,"First come, first serve.",50
+FIRST_TIME_EVER,Redundant Phrases,We have a pig in space for the first time ever.,
+FIRST_WOMAN_NOUN,Redundant Phrases,She was the first woman president.,
+FLAG_SHIP,Possible Typo,This was the flag ship store.,80
+FLASHPOINT,Possible Typo,The flashpoint of lead is very high.,80
+FOLLOW_A_COURSE,Collocations,There is classes were students can follow their courses.,
+FOOT_FEET,Grammar,I had a shoe on one feet.,50
+FOR_ALL_INTENSIVE_PURPOSES,Commonly Confused Words,"Well, not all of it, but for all intensive purposes, I read it.",
+FOR_ALL_INTENTS_AND_PURPOSES,Plain English,"The era in which we must aggressively defend our woodlands has, for all intents and purposes, passed.",
+FOR_ALONG_TIME,Possible Typo,I have been interested in Wicca for along time.,80
+FOR_AWHILE,Possible Typo,I haven't posted in awhile.,80
+,,I haven't posted in quite awhile.,
+FOR_FRO,Possible Typo,I got a voicemail fro Ken.,80
+FOR_ITS_NN,Possible Typo,No one had any remedies for it's crazy rantings.,80
+FOR_NOUN_SAKE,Punctuation Errors,For heavens sake!,
+FOR_SELL,Commonly Confused Words,Current Michigan homes for sell,
+FOR_THE_MOST_PART,Plain English,For the most part people's suspicions are based on a misunderstanding of the facts.,
+FOR_THE_PURPOSE_OF,Plain English,Commercial shows are one-off projects put on for the purpose of making money.,
+FOR_TIME_TO_TIME,Possible Typo,He buys a car for time to time.,80
+FORE_DPS,Possible Typo,Thanks again fore your help.,80
+FOREIGN_IMPORT,Redundant Phrases,"The rise in foreign imports, the argument goes, is forcing some Americans to accept lower pay to remain competitive with, say, Mexican and Chinese workers.",
+FOREVER_AND_EVER,Redundant Phrases,"It is you and me, forever and ever.",
+FORMALLY_KNOWN_AS,Commonly Confused Words,The artist formally known as Prince,
+FORMER_ALUMNUS,Redundant Phrases,"As the wife of a former alumnus of UCLA, I am appalled at recent events that have occurred and seemingly encouraged by the administration.",
+,,The former alumnus adviser of Alpha Lambda Chapter was elected as congressman-at- large in Ohio.,
+FORMER_GRADUATE,Redundant Phrases,I am a former graduate of the school.,
+FORTH_PLACE,Possible Typo,The runner finished in forth place.,80
+FOWL_SWOOP,Possible Typo,He completed the symphony in one fowl swoop.,80
+FRAME,Misused terms in EU publications (Gardner),"If the analysis is performed in the frame of a contamination incident, …",
+FREE_GIFT,Redundant Phrases,Receive a free gift with every purchase.,
+FREE_LANCE,Possible Typo,We did some free lance work for the company.,80
+FREE_LANCER,Possible Typo,He was a free lancer.,80
+FREE_LANCES,Possible Typo,He only free lances for the CIA.,80
+FREE_LANCING,Possible Typo,His free lancing work is fantastic.,80
+FREE_REIGN,Possible Typo,The famous actor was given free reign over the city.,80
+FROM_FORM,Possible Typo,Do not duplicate or redistribute in any from.,80
+,,Fill in this from.,
+,,I got a letter form my friend.,
+,,Type in the from on the web page.,
+FROM_THAN_ON,Commonly Confused Words,"From than on I entered a period of dullness, nothing bothered me anymore.",
+FROM_WHENCE,Redundant Phrases,Go back from whence you came.,
+FROM_X_Y,Nonstandard Phrases,From 12 – 17 February 2016,
+FULL_COMPLIMENT_OF,Possible Typo,He had the full compliment of good qualities.,80
+FULL_WITH_OF,Collocations,The washing machine is full with dishes.,
+FURTHER_ADIEU,Commonly Confused Words,Without further adieu,
+GARDENERGARDEN_SNAKE,Possible Typo,We found a tiny gardener snake in the bushes.,80
+GAVE_GIVE,Grammar,The updates do gave the correct date.,50
+GENERAL_XX,Redundant Phrases,We should show this to the general public.,
+GESTURE_OF_GREETING,Collocations,She made me a gesture of greeting.,
+GET_A_JOB_IN_WITH,Collocations,The text is also a very important things for the people who want to get a job in the SPVM.,
+GIVE_ADVISE,Commonly Confused Words,Any advise is welcome!,
+,,I must advice you to go.,
+,,"Please give me advise, I don't know what to do.",
+,,What was the best piece of advise that you ever got?,
+GLAD_WITH_ABOUT,Collocations,He's glad with it.,
+GO_GERUNG,Collocations,Do you do jogging?,
+GO_TO_HOME,Collocations,Suzie went to home.,
+GOING_ONE,Possible Typo,She knew what was going one.,80
+GOING_TO_VACATION,Collocations,She is going to vacation.,
+GOING_TO_VBD,Grammar,I'm going to wrote him.,50
+GOOD_IN_AT,Collocations,I'm good in computer science.,
+,,I'm good in home economics.,
+,,I'm good in language arts.,
+,,I'm good in math. I was good in running errands.,
+,,I'm good in physical education.,
+,,I'm good in social studies.,
+,,I'm good in world geography.,
+GOOD_IN_AT_GERUND,Collocations,He is good in swimming.,
+GOOD_NEWS,Possible Typo,The bad new is that it doesn't work.,80
+GOT_SHUTDOWN,Possible Typo,"Before he could get assigned to it, the project got shutdown.",80
+GOT_SHUTOUT,Possible Typo,The Mets got shutout by the Phillies.,80
+GOVERNMENT_COMPRISED_OF,Possible Typo,Theirs was a government comprised of warring factions.,80
+GRADUATE_FROM,Grammar,He graduated the university last June.,50
+,,She will graduate high school next month.,
+GRASPING_FOR_STRAWS,Possible Typo,"At that point, the desperate gentleman was simply grasping for straws.",80
+GRILL_CHEESE,Possible Typo,The kid only wanted to eat grill cheese sandwiches.,80
+GROWLED_TO_AT,Collocations,Dr. Dre growled to him about the snow.,
+GUARD_FROM_AGAINST,Collocations,The dog guards from the thieves.,
+GUEST_STARED,Possible Typo,Alan Alda never guest stared in another episode.,80
+GUILTY_FOR_OF,Collocations,Mark is guilty for laziness.,
+HAD_OF,Possible Typo,I had of bought this house.,80
+HAD_VBP,Grammar,They had play the game,50
+HAIRS,Possible Typo,She cut her hairs yesterday.,80
+HALO_HALLO,Possible Typo,Halo John!,80
+HAND_AND_HAND,Possible Typo,The ability to talk forever goes hand and hand with being a Brown student.,80
+HAPPEN_TO,Grammar,What happened with him?,50
+HARDLY_NEVER,Possible Typo,She hardly never takes the subway.,80
+HARRISON_FORD,Possible Typo,Harison Ford is famous for playing Indiana Jones.,80
+HART_HARD,Possible Typo,She had a hart time there.,80
+HART_HEART,Possible Typo,She had a hart attack.,80
+HASH_SYMBOL,Wikipedia,The #3,
+HASNT_IRREGULAR_VERB,Possible Typo,They haven't bit their tongue.,80
+HAVE_A_BREAKFAST,Grammar,Ray and Helen have invited us out to a dinner in the hotel restaurant.,50
+,,Ray and Helen went with us for a dinner in the hotel restaurant.,
+,,We had a breakfast in the hotel restaurant.,
+HAVE_A_TENDENCY,Plain English,This policy has a tendency to isolate some communities.,
+HAVE_CD_YEARS,Collocations,He has 25 years old.,
+HAVE_HAVING,Grammar,I have having lunch.,50
+HAVE_PART_AGREEMENT,Grammar,Have you like her?,50
+,,Have you went to Italy?,
+,,I could have went to Italy.,
+,,I have like her.,
+,,I have not always wrote that.,
+,,I must have always wrote that.,
+,,I must have wrote that.,
+,,What have you did?,
+,,Where have you went?,
+HAVE_THE_ABILITY_TO,Plain English,The toddle has the ability to walk.,
+HAY_DAY,Possible Typo,He was never as good as he was in his hay day.,80
+HE_THE,Possible Typo,"At he beginning, I was afraid.",80
+HE_VERB_AGR,Grammar,Ann walk to the building.,50
+,,Have Mary bought a ticket?,
+,,Have she bought a ticket?,
+,,He always walk to the building.,
+,,He don't like fish.,
+,,He walk to the building every day.,
+,,She recommended he walking to the building.,
+,,She recommended that he walking to the building.,
+,,Someone else always walk to the building.,
+,,Someone else walk to the building.,
+,,When have he bought a ticket?,
+,,When have Mary bought a ticket?,
+HEAD_GEAR,Possible Typo,She wore head gear.,80
+HEAD_QUARTERS,Possible Typo,He found the secret head quarters.,80
+HEAD_SCARF,Possible Typo,France had a ban on the head scarf.,80
+HEAD_SCARVES,Possible Typo,France had a ban on head scarves.,80
+HEAD_STONE,Possible Typo,They wrote the words on his head stone.,80
+HEAD_WEAR,Possible Typo,The Mets cap was his favorite head wear.,80
+HEAR_HERE,Commonly Confused Words,Hear is an entertainment fit for giants.,
+HEAVY_WEIGHT,Possible Typo,He is the best heavy weight boxer in the world.,80
+HELL,Possible Typo,And hell be there.,80
+,,Hell be there.,
+,,Shell be there.,
+HELP_TO_FIND,Grammar,Can any guru help me to find the reason?,50
+HERE_HEAR,Commonly Confused Words,Glad to here that!,
+,,I can almost here you crying.,
+,,I can here you!,
+,,I hope to here from you soon.,
+,,If you don't here from me in a day...,
+HEW_AND_CRY,Possible Typo,There was a massive hew and cry after the beating.,80
+HIDE_OF_FROM,Collocations,This is very useful to hide of prying tourists.,
+HISTORIC_RECORD,Possible Typo,The policy was strictly a matter of historic record.,80
+HIT_THE_BREAKS,Possible Typo,Charlie forgot to hit the breaks.,80
+HIV_VIRUS,Redundant Phrases,The HIV virus continues to spread.,
+HOLLOW_TUBE,Redundant Phrases,We fixed the hollow tube.,
+HONEST_TRUTH,Redundant Phrases,That is the honest truth of the matter.,
+HOPEFULLY,Style,"Hopefully, this will be a great grammar checker.",
+HOUR_OUR,Possible Typo,It happened half an our ago.,80
+HOW_EVER,Possible Typo,"We knew, how ever, that he would come around.",80
+HUMANS_BEINGS,Possible Typo,We are all human's beings.,80
+,,We are all humans beings.,
+I_A,Possible Typo,I a not sure.,80
+I_AFRAID,Grammar,He afraid of the dark.,50
+,,I afraid of the dark.,
+,,I don't afraid of the dark.,
+,,I'm afraid eat spiders.,
+,,I'm afraid spiders.,
+,,I'm afraid the rain.,
+,,She doesn't afraid of the dark.,
+,,You afraid of the dark.,
+,,You don't afraid of the dark.,
+I_AM,Grammar,I looking into the problem.,50
+I_AM_NOTE_SURE,Possible Typo,I'm note sure.,80
+I_AM_WORRY,Possible Typo,I am worry about her.,80
+I_HERD,Commonly Confused Words,I herd of a new song by Madonna.,
+I_IF,Possible Typo,"I the data confirm my theory, I will be famous.",80
+I_ILL,Possible Typo,It seems that I ill have to celebrate at home.,80
+I_LIFE,Grammar,I life in Moscow.,50
+I_LOWERCASE,Possible Typo,"No, i am not letting you near my kids.",80
+,,"No, i'm not letting you near my kids.",
+I_MOVING,Grammar,We regularly moving a conversation from the forum to email.,50
+I_NEVER_HAVE_BEEN,Nonstandard Phrases,I never have been to London.,
+I_NEW,Commonly Confused Words,"Ah, I new you would say that.",
+I_THIN,Possible Typo,I thin you are right.,80
+I_VE_A,Nonstandard Phrases,I've a new car.,
+,,I've three new cars.,
+I_WANDER_IF,Commonly Confused Words,I wander if I'm studying enough?,
+ID_WOULD,Possible Typo,He'd would want to wake up early.,80
+IE_NO_COMMA,Punctuation Errors,"Who's responsible for providing public facilities, i.e. a post office, library, etc. for the Northwest?",
+,,"Who's responsible for providing public facilities, ie a post office, library, etc. for the Northwest?",
+,,"Who's responsible for providing public facilities, ie. a post office, library, etc. for the Northwest?",
+IF_IS,Possible Typo,I wonder if the context if actually important.,80
+,,"The rules are testes, which if quite fast.",
+IF_OR_NOT,Grammar,It's not certain whether communication with the site's customer service has led it to be clear if or not this is true.,50
+IF_THERE,Grammar,"The workers have also threatened that if there demands are not met, they will go on strike again.",50
+IF_WHICH,Possible Typo,We cannot know if which functionality gets tested.,80
+IF_WOULD_HAVE_VBN,Grammar,"If I would have known about the party, I would have gone to it.",50
+ILL_I_LL,Possible Typo,Ill explain!,80
+IM_AM,Possible Typo,I'm am a madman.,80
+IMITATION_FROM_OF,Collocations,Children imitate every habit and behavior from their parents.,
+IMMINENT_DOMAIN,Possible Typo,Their house was claimed due to imminent domain.,80
+IMPORTANT_WITH_TO,Collocations,Family who is closest and important with you.,
+IN_1990s,Grammar,It happened in 1990's.,50
+,,It happened in 1990s.,
+IN_A_ISLAND,Collocations,Our house is located in a small island surrounded by ices. There are no other houses around us.,
+IN_A_MANNER_OF_SPEAKING,Plain English,"The policy has, in a manner of speaking, begun to Balkanize the more rural parts of our state.",
+IN_A_VERY_REAL_SENSE,Plain English,"In a very real sense, this policy works to the detriment of those it is supposed to help.",
+IN_A_X_MANNER,Redundant Phrases,He came in a hasty manner.,
+IN_ALONG_TIME,Possible Typo,I haven't had a shower in along time.,80
+IN_ANYWAY,Possible Typo,"Make sure you get the plans, in anyway possible.",80
+IN_AT_A_PARTY,Collocations,"Later, I started working as a Research Assistant in university projects again, where I met her in a party.",
+IN_AT_THE_MORNING,Collocations,I hardly ever drinks coffee at the morning because this make me crazy.,
+IN_AT_THE_TOP,Collocations,The button is in the top of the screen.,
+IN_CHARGE_FOR,Collocations,charge for.,
+,,Who is in charge for this shop?,
+IN_CHARGE_OF_FROM,Collocations,Wood in exchange of metal.,
+IN_EDITION_TO,Possible Typo,"In edition to failing, he embarrassed himself.",80
+in_excess_of,Plain English,Her three albums have sold in excess of 17 million copies worldwide,
+IN_FACEBOOK,Collocations,Check it in Wikipedia.,
+IN_FROM_THE_PERSPECTIVE,Collocations,In the psychological perspective.,
+IN_FRONT_OF,Collocations,"In front to so many decisions, the people are fed up.",
+IN_JANUARY,Possible Typo,"In February 21, we ate the poison.",80
+IN_LAWS,Possible Typo,How many brother-in-laws do you have?,80
+,,How many brothers-in-laws do you have?,
+IN_MASSE,Commonly Confused Words,HP Already Shipping Linux in Masse,
+IN_MY_OPINION,Plain English,"In my opinion, this wasteful policy ought to be revoked.",
+IN_NOWADAYS,Collocations,"In nowadays, many organizations are jumping in the social websites bandwagon.",
+IN_ON_A_SECRET_MISSION,Collocations,Bond is in a secret mission.,
+IN_ON_A_TEAM,Collocations,I’m the one Frank Catania need in his team.,
+IN_ON_A_TRIP,Collocations,"It was is in his trip, that he met her.",
+IN_ON_AN_ALBUM,Collocations,Listen to that in the album.,
+IN_ON_BIRTHDAY,Collocations,"My favorite thing is bag, I love my bag very much because it is a gift from my girl friend in my birthday, it is a red bag, I have kept it for 2 years and forever.",
+IN_ON_THE_FOOT,Collocations,He is wearing a crocs in my feet.,
+IN_ON_THE_RIGHT_HAND_SIDE,Collocations,The button is in the left hand side of the screen.,
+IN_ON_THE_TEAM,Collocations,in the men's basket ball team.,
+,,in the men's basketball team.,
+,,in the men's team.,
+IN_ON_VACATION,Commonly Confused Words,He is probably in vacation right now.,
+IN_ON_WEEKDAY,Commonly Confused Words,"In Friday afternoon, the President announced the embargo.",
+IN_OR_WITH_REGARDS_TO_OF,Nonstandard Phrases,Please be aware of the following changes in regards to this program.,
+IN_ORDER_TO,Redundant Phrases,We opened the door in order to enter.,
+IN_PARENTHESIS,Possible Typo,This is indicated by the number not in parenthesis.,80
+IN_PAST,Grammar,Something happened in past.,50
+IN_PRINCIPAL,Commonly Confused Words,Always stick to your principals.,
+,,He told me it's against his principals to drink alcohol.,
+,,In principal I don't think it will be too difficult.,
+,,In this discussion we have endeavored to do this: to point out basic principals of liberty in which all people can believe.,
+,,Mr Brown is our new school principle.,
+,,"The principle activity of the Foundation is centred on humanitarian aid and charity, especially with regards to children.",
+IN_PRP_THEN_IN_PRP,Possible Typo,I'd rather be between him then between she.,80
+IN_STEAD_OF,Possible Typo,Can my car really use water in stead of gas?,80
+IN_TACT,Possible Typo,Outdoor Activities in Louisiana Remain In Tact,80
+IN_TERM_OF,Plain English,Femininity is still defined in term of beauty.,
+IN_TERMS_OF,Plain English,Disclaimers vary in terms of their uniformity.,
+IN_THE_AFFIRMATIVE,Plain English,"The poll asked average Israelis if they support such a program, and 82 percent responded in the affirmative.",
+IN_THE_CASE_OF,Plain English,"In the case of this particular policy, citizens of northeast Connecticut became very upset.",
+IN_THE_EVENT,Plain English,"In the event that I can't come back by seven, you can eat without me.",
+IN_THE_FINAL_ANALYSIS,Plain English,"In the final analysis, it is their war.",
+IN_THE_INTERNET,Collocations,Land reclamation is in the internet.,
+IN_THE_MOMENT,Nonstandard Phrases,"No, in the moment not.",
+IN_THE_NATURE_OF,Plain English,Something in the nature of a repeal may soon take place.,
+IN_THE_NEIGHBORHOOD_OF,Plain English,They searched for the keys in the neighborhood of the playground.,
+IN_THE_OUTSIDE,Collocations,There are white windows in the outside of the house.,
+IN_THE_PASSED,Commonly Confused Words,We succeeded in the passed.,
+IN_THE_PROCESS_OF,Plain English,The work is in the process of getting done.,
+IN_THE_SKIES,Commonly Confused Words,It was a blessing in the skies that my car broke down.,
+IN_THIS_MOMENT,Collocations,In this moment she woke up.,
+IN_TITLED,Possible Typo,The children felt in titled to their expensive education.,80
+IN_TO_INTO,Possible Typo,It is split in to two sections.,80
+IN_VBZ_THEYRE_NN,Possible Typo,The only thing we think of is they're happiness.,80
+IN_VEIN,Commonly Confused Words,I have been looking in vein 30 plus years with no luck.,
+IN_WHO,Grammar,To who do I send my transcripts?,50
+,,Who was with who?,
+IN_X_ORDER,Nonstandard Phrases,List the names in an alphabetical order.,
+IN_YOU_RE_NN,Commonly Confused Words,There are a number of things you can do to reduce the risk to you’re pet.,
+INCASE_OF,Possible Typo,"Always keep a baseball bat by the bed, incase of an emergency.",80
+INCORRECT_POSSESSIVE_FORM_AFTER_A_NUMBER,Grammar,"At the time, Guider was working just two day's drive from Narooma, in a Canberra suburb.",50
+INDEPENDENTLY_FROM_OF,Collocations,"Independently from our relationship, you are not the best, nor most the brightest.",
+INSIST_ON_GERUND,Collocations,She insisted to attend the conference.,
+INSPIRED_WITH,Grammar,The artist was inspired with the beauty of the mountains.,50
+INSURE_THAT,Commonly Confused Words,Please insure that you are registered with us.,
+INTEREST_ABOUT_IN,Collocations,"They are more interest about the money, like how it's manage.",
+INTEREST_FOR_IN,Collocations,I have an interest for the sea.,
+INTERESTED_BY,Collocations,I am not interested by this job.,
+INTERJECTIONS_PUNCTUATION,Punctuation Errors,Oh horrid examples...,
+,,Oh John what a horrid example...,
+INTRODUCE_FOR_THE_FIRST_TIME,Redundant Phrases,We were introduced for the first time a week ago.,
+INVALID_DATE,Semantic,"It happened on Feb 30, 2014.",
+,,"It happened on November 31, 2014.",
+,,"January 10 – 1, 2016.",
+,,"January, 10 – 1, 2016.",
+INVOICE_OF_FOR,Collocations,We booked for 8 tickets but we only received an invoice of 7 tickets.,
+IRREGARDLESS,Style,"Irregardless of what he says, do it!",
+IS_CAUSE_BY,Grammar,This is cause by a bug.,50
+IS_COMPRISED_MOSTLY_OF,Possible Typo,The government is comprised mostly of idiots.,80
+IS_COMPRISED_OF,Possible Typo,The government is comprised of idiots.,80
+IS_CONTAINED_OF,Possible Typo,The beer is contained of hops and water.,80
+IS_EVEN_WORST,Grammar,He was even nicest after a year.,50
+IS_RENOWN_FOR,Possible Typo,Brown is renown for its annoying undergraduates.,80
+IS_SHOULD,Possible Typo,I definitely think is should be less than four years.,80
+IS_WERE,Possible Typo,"Now, this is were my ignorance sets in.",80
+IT_IS,Possible Typo,"Alongside it's coast, there were boats.",80
+,,Amid it's wonderful moments of humor...,
+,,And its had a mention at the Labour Party Conference this morning.,
+,,And its so hard to beat him.,
+,,Don't judge a book by it's cover.,
+,,"Due to it's nature, a cat cannot fly.",
+,,"For all it's perfection, I could not really like it.",
+,,For all it's wonderful moments of humor...,
+,,Help is on it's way.,
+,,I can see it's eyes.,
+,,I can’t remember it’s name.,
+,,I have decided that its time to leave.,
+,,I would still consider assembling it from all it's basic components.,
+,,It does this by providing it's own open source based products.,
+,,It's door is too small.,
+,,Its going to be sunny tomorrow.,
+,,Its hard to explain.,
+,,Its his uncle.,
+,,Its OK.,
+,,Its removing the errors.,
+,,Its where people walk around.,
+,,Kentucky State University formally installs Brown as it's 18th president,
+,,Linux at it's best,
+,,New Robot Reproduces on It's Own.,
+,,No one has ever seen it's eyes.,
+,,"RDF can also be used to express metaproperties of a thesaurus, such as it's title.",
+,,"Sorry, but its too late.",
+,,This is an opportunity to see how SAP addresses it's internal developers.,
+,,This lovely and interesting area with it's friendly people will make a welcoming break,
+,,We could borrow it's approach.,
+,,When some of it's clauses match.,
+,,"Yes, its that simple.",
+IT_IS_JJ_TO_VBG,Grammar,They think that it is not easy to grasping skills.,50
+IT_IS_NO,Possible Typo,It is no possible.,80
+,,It's no possible.,
+IT_IS_SURE,Collocations,It is sure that my English will improve.,
+IT_SEAMS,Commonly Confused Words,"Being vegan easier than it seams, experts say.",
+,,"Being vegan easier than it's seems, experts say.",
+IT_SEEMS_OR_APPEARS_THAT,Plain English,It seems that they can't wait to get rid of this one.,
+IT_SELF,Possible Typo,I believe that such advertisements indicate a clear statement about the issue it self and they clarify the main cause of the problem.,80
+IT_VBZ,Grammar,It support transparency.,50
+ITS_IS,Possible Typo,She's is the best dancer on the west coast.,80
+ITS_JJ_NNSNN,Possible Typo,I appreciated it's odorless handshake by the fifth time.,80
+ITS_JJS_NN,Possible Typo,"For the painting, it's reddest area was in the upper left.",80
+IVE_HAVE,Possible Typo,I've have no problem taking the first watch.,80
+JEALOUS_FROM_OF,Collocations,Jane might be jealous from my car.,
+JIMMY_BUFFET,Possible Typo,Jimmy Buffet sang at the Arco Arena.,80
+JIMMY_HENDRIX,Possible Typo,Some argue that Jimmy Hendrix was the best guitarist who ever lived.,80
+JIVE_WITH,Possible Typo,That doesn't jive with my mental outlook.,80
+JJS_OF_ALL_OTHER,Grammar,Bill is the tallest of all other boys.,50
+,,He is the most important of all other players.,
+KEY_NOTE,Possible Typo,The key note speaker was Bill Gates.,80
+KEY_WORDS,Possible Typo,You have to enter the key words.,80
+KIND_OF_A,Grammar,What kind of a man is Bush?,50
+KIND_WITH_TO,Collocations,All the people he met were very kind with him.,
+KNEW_NEW,Commonly Confused Words,This is very knew to me.,
+KNOT_NOT,Grammar,She does knot know everything.,50
+KNOW_NOW,Commonly Confused Words,And know he is leaving.,
+,,"From know on, he is the “Big Kahuna”.",
+,,Girls wanting to meet you right know!,
+,,I can know say something more.,
+,,My mom used to make a hell of a burrito every know and then.,
+,,Thanks for letting us now.,
+LAID_AHEAD,Possible Typo,We never knew what laid ahead.,80
+LAND_LOVER,Possible Typo,The sailors considered John to be a serious land lover.,80
+LARGE_NUMBER_OF,Redundant Phrases,A large number of people were in the parade.,
+LAST_BUT_NOT_LAST,Possible Typo,"Last but not last, I accentuate difficulties that such theories face.",80
+LAUGH_OF_AT,Collocations,I laughed of him.,
+LAUGHING_STOCK,Possible Typo,The fool was the laughing stock of the town.,80
+LAWSUIT,Commonly Confused Words,The plaintiff brought a law suit against the defendant,
+LAY_AROUND,Possible Typo,All he did Sunday was lay around the house.,80
+LAYING_AROUND,Possible Typo,He had a special talent for laying low.,80
+LAYS_ATOP,Possible Typo,The text explains how important it is that the chicken lays on the noodles artfully.,80
+LCD_DISPLAY,Redundant Phrases,The result is printed on this LCD display.,
+LEAD_ROLL,Possible Typo,She accepted the lead roll in the prestigious play.,80
+LEARN_NNNNS_ON_DO,Grammar,We can learn ways on manage complex relationships with colleagues.,50
+LEAST_COMPARATIVE,Grammar,This is the least harder task.,50
+LEAVE_TO_FOR,Collocations,They are leaving to England soon.,
+LESS_COMPARATIVE,Grammar,This is less harder.,50
+LESS_DOLLARSMINUTESHOURS,Possible Typo,There were less hours to devote to work that day.,80
+LESS_MORE_THEN,Commonly Confused Words,It's less controversial then one would think.,
+LET_OBJECT,Grammar,Let she do it!,50
+LETS_DONT,Grammar,Let's don't go there.,50
+LETS_LET,Possible Typo,It let's you quickly search for the product.,80
+,,Lets go home.,
+,,The system let's all students enter the building.,
+LIFE_TIME,Possible Typo,"In his life time, there will be many medical advances.",80
+LIGHT_WEIGHT,Possible Typo,He is the best light weight boxer in the world.,80
+LIGHTYEAR,Semantic,It all seems light-years ago now.,
+LING,Possible Typo,See you all there - this is ling overdue.,80
+LISTEN_TO_MOVIES,Collocations,"During my free time, I like listen to movie with my boyfriend and my friends.",
+,,"During my free time, I like listen to movies in cinema with my boyfriend and my friends.",
+,,"During the week, I listen to action movie in English because I want to improve myself with my sister.",
+LITTLE_BIT,Redundant Phrases,He was a little bit late.,
+LIVE_FROM_OFF,Collocations,He lives from his brother’s money.,
+LIVE_IN_ON_PLANET,Collocations,Not all creatures that live in the planet Earth use oxygen.,
+LOCATED_ON_AT,Collocations,The company's name is Denver Inc. and it's located on 11056 Main street.,
+LOG_IN,Commonly Confused Words,Please login before commenting.,
+,,Your log in attempt was not successful.,
+LOOK_AT_TO,Collocations,I suppose what makes me unusual is the fact that I can put on make up without looking at a mirror.,
+LOOK_ATE,Possible Typo,Although I must admit when I look ate the paperback...,80
+LOOK_WATCH,Commonly Confused Words,I am looking TV.,
+,,I look TV every morning.,
+,,I looked TV in the morning.,
+,,She looks TV every morning.,
+LOOSE_LOSE,Commonly Confused Words,I always loose the password.,
+,,Who do I contact if I loose my passport?,
+,,You can loose so much and gain so little.,
+,,"You don't want to loose this job, do you?",
+LOOSING_EFFORTRECORDSEASON,Possible Typo,The Yankees never had a loosing season.,80
+LOSE_LIVES,Grammar,They lost their life in the line of duty.,50
+LOSE_LOOSE,Commonly Confused Words,Spammer on the lose?,
+,,What do you do if your tooth gets knocked lose?,
+LOSE_LOSS,Commonly Confused Words,Feeling at a lose and frustrated.,
+LOT_OF,Collocations,A lot people were late.,
+LOT_S,Possible Typo,There was lot's of stuff.,80
+LOTS_OF_NN,Grammar,I have got lots of book.,50
+LUNCH_TO_FOR,Collocations,The lunch to the guests is ready.,
+MAIN_FOCUS,Redundant Phrases,Redundancies are the main focus of my essay.,
+MAJOR_BREAKTHROUGH,Redundant Phrases,It was a major breakthrough in genetic research.,
+MAJORITY,Plain English,Majority of the world is covered with water.,
+MAKE_AN_ATTEMPT,Plain English,We should make an effort to win.,
+MAKE_DECISIONS_ABOUT,Plain English,The school board will make decision about the first day of school.,
+MAKE_SINCE,Nonstandard Phrases,Something like 90 most likely never makes since.,
+MAKE_US_OF,Possible Typo,He made us of the new tools.,80
+MAN_MEN,Grammar,A men walked in to the room.,50
+MANAGERIAL_REIGNS,Possible Typo,He handed over the managerial reigns of the project to the junior member.,80
+MANGER_MANAGER,Possible Typo,He's our new project manger.,80
+MANY_FEW_UNCOUNTABLE,Grammar,John eats as many food as Peter.,50
+,,She has many money.,
+MANY_KINDS_OF,Grammar,There are many kinds of book in the shop.,50
+MANY_NN,Grammar,I have several book.,50
+MANY_NN_U,Grammar,I have a few wine.,50
+,,I have a number of wine.,
+,,I have many red wine and a lot is happening this spring.,
+,,I have many red wine.,
+,,I have many wine.,
+,,I have several wine.,
+,,There are many wine and a lot is happening this spring.,
+,,There is few wine and a lot is happening this spring.,
+,,There is several wine and a lot is happening this spring.,
+MARRIAGE_ANNIVERSARY,Commonly Confused Words,We celebrated our fifth marriage anniversary last year.,
+MARRY_MERRY,Commonly Confused Words,Marry Christmas!,
+MARRY_WITH,Collocations,Angela was married with a rich man.,
+MASH_POTATOES,Possible Typo,His favorite food is mash potatoes and gravy.,80
+MASS_AGREEMENT,Grammar,Marketing are bad for you.,50
+,,"Marketing, for instance, are bad for you.",
+,,She asked whether marketing are bad for you.,
+,,"She asked whether marketing, for instance, are bad for you.",
+,,She asked whether the dog eat.,
+,,"She asked whether the dog, whose owner likes you, eat.",
+,,She wants to know whether this room are big enough.,
+,,"She wants to know whether this room, for example, are big enough.",
+,,The dog eat.,
+,,"The dog, whose owner likes you, eat.",
+,,The marketing are bad for you.,
+,,"The marketing, for example, are bad for you.",
+MASSAGE_MESSAGE,Commonly Confused Words,There is an error massage.,
+MASTERS,Possible Typo,His masters degree is excellent.,80
+MAY_BE,Possible Typo,I paid (may be) an exorbitant price for this.,80
+,,May be I don't understand.,
+MAY_COULD_POSSIBLY,Redundant Phrases,That may possibly be the greatest blunder of all.,
+MD_BE_NON_VBP,Grammar,This part must be replaces with caution.,50
+MEAN_FOR_TO,Grammar,Does she know what she means for me?,50
+,,This trophy meant a lot for me.,
+MEAN_WHILE,Possible Typo,"Mean while, back on the farm...",80
+MENTAL_TELEPATHY,Redundant Phrases,Do cats really use mental telepathy?,
+MENTION_ABOUT,Collocations,"Please, consider about this.",
+META_DATA,Possible Typo,Tika's library takes meta data into account.,80
+MIGHT_HAS_WELL,Possible Typo,You might has well take off your shoes.,80
+MIGHT_PERHAPS,Redundant Phrases,We might possibly go fishing.,
+MINUETS,Commonly Confused Words,The main plaza and town is located ten minuets walking distance from the beach.,
+MINUS_WELL,Possible Typo,We minus well break up.,80
+MISS_VERB,Possible Typo,Did I miss understand you?,80
+MISSING_ARTICLE,Grammar,You are good boy.,50
+MISSING_COMMA_AFTER_INTRODUCTORY_PHRASE,Punctuation Errors,For years I have been travelling.,
+MISSING_COMMA_AFTER_WEEKDAY,Punctuation Errors,We will meet Friday July 15.,
+MISSING_COMMA_BETWEEN_DAY_AND_YEAR,Punctuation Errors,My birthday is October 18 1983.,
+MISSING_COMMA_WITH_NNP,Punctuation Errors,"Please Tom, let us go.",
+,,"Thank you Tom, for helping us.",
+,,Tom thank you!,
+MISSING_HYPHEN,Punctuation Errors,France has a 35 hour working week.,
+,,He is her right hand man.,
+,,Rudolph is a two year old reindeer.,
+,,Rudolph is a two-year old reindeer.,
+,,This is all about English speaking people.,
+MISSING_NOUN,Grammar,The is the best day of my life.,50
+MODAL_OF,Possible Typo,It should of been found last night.,80
+,,It will of been discovered by tomorrow.,
+MONEY_IS_NO_OPTION,Nonstandard Phrases,Money is no option when are you rich.,
+MONTH_OF_XXXX,Nonstandard Phrases,February of 1995,
+MORE_A_JJ,Grammar,I can give you more a detailed description of what's necessary.,50
+MOST_COMPARATIVE,Grammar,Kyoto is a more older city.,50
+,,Kyoto is a most older city.,
+MOST_EVERYONE,Style,Most everyone saw him.,
+MOST_POPULACE,Possible Typo,Chicago was the most populace city.,80
+MOST_SOME_OF_NNS,Grammar,Most of students do their homework.,50
+MOST_SUPERLATIVE,Grammar,Kyoto is the most oldest city.,50
+MOTHER-IN-LOW,Commonly Confused Words,This is her mother in low.,
+,,This is her mother-in-low.,
+MOTIVATION_IN_TO,Collocations,It is very important for them because motivation in study is the best ways for them to get good mark and high spirit in study process.,
+MUCH_COUNTABLE,Grammar,There are much children.,50
+MUST_BE_DO,Grammar,"If you have after-school activities, the homework must be do first.",50
+MUST_HAVE_TO,Grammar,I must to go shopping.,50
+MUST_MOST,Commonly Confused Words,I do this must of the time.,
+MUST_OF_THE_TIME_MOST_OF_THE_TIME,Possible Typo,It's true must of the time.,80
+MUTE_POINT,Possible Typo,"It was a mute point, so we ignored it.",80
+MUTUALLY_DEPENDENT_ON_EACH_OTHER,Redundant Phrases,"Well, they're mutually dependent on each other.",
+MY_BE,Possible Typo,Something that my be interesting...,80
+NAIL_ON_THE_HEAD,Possible Typo,She hit the nail on the hat.,80
+NAMED_IT_AS,Collocations,They named it as Gilead.,
+NATION_WIDE,Possible Typo,There was a nation wide epidemic.,80
+NEAR_BY,Possible Typo,There were some stores near by.,80
+NEAR_FROM_TO,Collocations,It is not very near from my job.,
+NEED_TO_VBG,Possible Typo,We're going to hypothesizing about the origins of man.,80
+NEEDNT_TO_DO_AND_DONT_NEED_DO,Grammar,They do not need change them.,50
+,,They don't need change them.,
+,,They need not to change them.,
+,,They needn't to change them.,
+NEEDS_FIXED,Style,My car needs fixed.,
+NEGATE_MEANING,Redundant Phrases,The car was not fast enough to win the race.,
+,,The car was not large enough for the tall man.,
+,,The car was not small enough to fit through the tunnel.,
+,,The list is not complete.,
+,,The paragraph is not perfect.,
+,,The rock is not steady.,
+,,The student was not rational.,
+NEITHER_NOR,Grammar,Neither the teachers or the students won.,50
+NEVER_AT_ANY_TIME,Redundant Phrases,I was never at any time with that woman.,
+NEW_COMER,Possible Typo,There was a new comer to the party.,80
+NEW_XX,Redundant Phrases,He was a new recruit.,
+NIB_NUB,Commonly Confused Words,This is the nib of the problem.,
+,,try using raw cacao nubs.,
+NIECE_NICE,Commonly Confused Words,I wish you a niece holiday.,
+NIP_IT_IN_THE_BUTT,Nonstandard Phrases,We'd like to nip it in the butt right here.,
+NO_COMMA_BEFORE_INDIRECT_QUESTION,Punctuation Errors,"I asked Tom, where he lives.",
+NO_NOT,Possible Typo,She could no hear you.,80
+NO_SPACE_CLOSING_QUOTE,Punctuation Errors,"“Good morning, Frank,”said Hal.",
+NOBLE_PRIZE,Possible Typo,He was awarded the Noble Prize in literature.,80
+NODT_DOZEN,Grammar,You need almost hundred examples.,50
+NON_ACTION_CONTINUOUS,Grammar,He had been knowing it.,50
+,,I am knowing it.,
+,,She is knowing it.,
+,,She was knowing it.,
+NON3PRS_VERB,Grammar,Has you bought a ticket?,50
+,,I works here.,
+,,Is I crazy?,
+,,Is you crazy?,
+,,They works here.,
+,,We doesn't believe so.,
+,,What has you done?,
+,,What is you doing?,
+,,Why is I in love?,
+,,You doesn't work hard enough.,
+,,You works here.,
+NOT_ABLE,Plain English,He was not able to join the meeting.,
+NOT_ACCEPT,Plain English,He does not accept the proposal.,
+NOT_AD_ALL,Commonly Confused Words,"No, not ad all.",
+,,This is not true ad all.,
+NOT_CERTAIN,Plain English,Future is not certain.,
+NOT_JET,Commonly Confused Words,That is not jet decided.,
+NOT_MANY,Plain English,Not many people know this.,
+NOT_THE_SAME,Plain English,The taste is not the same.,
+NOT_UNLIKE,Plain English,Sisters were not unlike.,
+NOT_US1,Possible Typo,Please do not us dispose.,80
+NOT_VERY_OFTEN,Plain English,It is not very often that a hotel exceeds your expectations.,
+NOTE_WORTHY,Possible Typo,This was a note worthy achievement.,80
+NOTHING_SUCH_AS,Grammar,There is nothing such as as a free lunch.,50
+NOUN_AROUND_IT,Redundant Phrases,He didn't like the protesters around him.,
+NOW,Possible Typo,No is the right time.,80
+,,There no will be a park.,
+,,There's no a new building.,
+NOW_A_DAYS,Possible Typo,"Now a days, there isn't much hope.",80
+NOW_AND_DAYS,Nonstandard Phrases,Money is becoming pretty tight now and days.,
+NOW_CURRENTLY,Redundant Phrases,She is now currently the ambassador.,
+NUMBER_OF_NNS,Commonly Confused Words,This tool will help you to reduce the number or errors.,
+NUMEROUS_DIFFERENT,Redundant Phrases,I will read many different books,
+NUT_NOT,Possible Typo,I'm nut sure.,80
+O_CLOCK,Punctuation Errors,They meet at 2 o' clock.,
+OBJECTIVE_CASE,Grammar,Give it to I.,50
+OBTAIN,Plain English,We need to obtain visas.,
+OBVIOUS_FOR,Collocations,It's obvious for me.,
+OF_ANY_OF,Redundant Phrases,He was the worst of any of the dancers,
+OF_CAUSE,Commonly Confused Words,Of cause all these things are relative.,
+OFFERED_IN_AT,Collocations,"In addition, if people are in favor of women practicing combat sports, it would be beneficial to have combat sport sessions in schools as well as optional courses offered in universities.",
+OFT_CHANCE,Possible Typo,"On the oft chance that you get home by nine, could you turn on the oven?",80
+OLD_WISE_TAILTALE,Possible Typo,The story of the monster was only an old wise tail.,80
+ON_ADDITION,Grammar,"On addition, ...",50
+ON_BEHAVE,Commonly Confused Words,They act on behave of a user.,
+ON_FACT,Collocations,"On fact, the people are fed up of so many elections.",
+ON_FIRST_GLANCE,Grammar,On first glance it seems to be a good idea.,50
+ON_GOING,Possible Typo,There is an on going investigation.,80
+ON_IN_A_HOSPITAL_BED,Collocations,The patient is on a hospital bed waiting for surgery.,
+ON_IN_A_MEETING,Collocations,I was on a meeting.,
+ON_IN_CHARGE_OF,Collocations,Julie is the person on charge to the security.,
+ON_IN_THE_AFTERNOON,Collocations,The meeting is on the afternoon.,
+ON_IN_THE_CORNER,Collocations,The button is on the top left corner of the screen.,
+ON_IN_THE_MIDDLE,Collocations,The button is on the middle of the screen.,
+ON_OF_THE,Possible Typo,It's on of the loudest songs.,80
+,,It's on of the most popular songs.,
+ON_THE_CONTRAIRE,Possible Typo,"On the contraire, you've been following me home!",80
+ON_THE_LAMB,Possible Typo,The criminals spent most of the summer on the lamb.,80
+ON_THE_NOVEL,Collocations,The use of symbolism is an important writing technique that accounts a crucial contribution on the novel.,
+ON_THE_OCCASION_OF,Plain English,I was congratulated on the occasion of my son's birthday.,
+ON_THE_OTHER_HAND,Plain English,"It was quite a good bargain. On the other hand, do we really need one?",
+ON_THE_SAME_TOKEN,Possible Typo,"On the same token, they believe you've cheated them.",80
+ON_THE_SHELF,Possible Typo,She likes being of the shelf.,80
+ON_TWO_SEPARATE_OCCASIONS,Plain English,I stayed here on two separate occasions.,
+ON-GOING,Possible Typo,There is an on-going investigation.,80
+ONCE_AND_A_WHILE,Possible Typo,My computer starts up only once and a while.,80
+,,My computer starts up only once and awhile.,
+ONE_AND_THE_SAME,Redundant Phrases,Santa Claus and Saint Nick are one and the same person.,
+ONE_IN_THE_SAME,Possible Typo,Our town is a place where neighbours and friends are one in the same.,80
+ONE_OF_THE_ONLY,Possible Typo,He's one of the only magicians in Providence.,80
+ONE_ORE,Possible Typo,Type in one ore more words.,80
+ONE_PLURAL,Grammar,I drew one hexagons on my paper.,50
+ONE_THE_ONE_HAND,Possible Typo,"One the one hand, he was rich.",80
+ONES,Possible Typo,One should always wash ones feet in the morning.,80
+OPINION_POLE,Commonly Confused Words,Is it possible to add an opinion pole to my Myspace page?,
+OPPOSITE_FROM_TO,Collocations,Their house is opposite from ours.,
+OR_ALTERNATIVELY,Redundant Phrases,We can either do this now or alternatively leave it for tomorrow.,
+OR_WAY_IT,Possible Typo,Or way that a very recent change in Qt?,80
+ORDER_OF_WORDS_WITH_NOT,Grammar,She knows that can not you do it.,50
+ORDINAL_NUMBER_SUFFIX,Semantic,This was my 1nd try.,
+ORIGINALLY_BORN_IN,Redundant Phrases,I was originally born in Texas.,
+ORIGINALLY_DISCOVERED,Redundant Phrases,He originally discovered gold.,
+OTHER_THEN,Possible Typo,There was no one other then us at the campsite.,80
+OTHER_WISE_OTHERWISE,Possible Typo,Other wise it's not true.,80
+OUGHT_SAY,Grammar,We ought say the truth.,50
+OUT_COME,Possible Typo,What was the out come?,80
+OUT_GROW,Possible Typo,The little guy would soon out grow his clothes.,80
+OUT_OF_PLACE,Punctuation Errors,This is an out of place word.,
+OUT_OF_SINK,Possible Typo,The teammates were so badly out of sink.,80
+OUT_OF_THE_WAY,Punctuation Errors,An out of the way place.,
+OUT_SIDE,Possible Typo,There were more tables out side.,80
+OVER_EXAGGERATED,Redundant Phrases,I enjoy over exaggerating.,
+,,I enjoy over-exaggerating.,
+OVER_LOOKED,Possible Typo,There were several details we over looked.,80
+OVER_LOOKING,Possible Typo,We were over looking the Grand Canyon.,80
+OVER_RATED,Possible Typo,The movie was highly over rated.,80
+OVER_SEAS,Possible Typo,He was stationed over seas.,80
+OVER_TIME,Commonly Confused Words,I worked two hours of over time last week.,
+,,No child shall be permitted or required to work over time.,
+,,They worked over time to come up with a great idea.,
+OVERNIGHT,Commonly Confused Words,She stayed over night.,
+PARAGRAPH_REPEAT_BEGINNING_RULE,Style,(empty),
+PARTICIPATE_TO_IN,Collocations,"They participate to many activities, which contains organize laboratory experiments, supervise students research, conducting many lectures and of course, writing textbooks.",
+PASSED_PAST,Commonly Confused Words,I walked passed the school.,
+PASSING_FAD,Redundant Phrases,Computers are just a passing fad.,
+PASSIONATE_BY_ABOUT,Collocations,I am very passionated by my job.,
+PASSIONATE_BY_ABOUT_2,Collocations,"I'm really passionate by the chocolate, it's my vocation.",
+PASSIVE_VOICE,Style,A cake is being baked by him by tonight.,
+,,He insisted that red should be used.,
+,,He is said to be happy.,
+,,He is said to have been happy.,
+,,Her work will have been finished by tonight.,
+,,Instruments are played by her.,
+,,It is possible that the sky is blue.,
+PAST_EXPERIENCE_MEMORY,Redundant Phrases,We know from past experience that weakness breeds contempt.,
+PAST_TIME,Possible Typo,This was America's favorite past time.,80
+PAWN_OFF,Possible Typo,Are you trying to pawn off that annoying client?,80
+PAYED,Grammar,She payed her debts.,50
+PEACE_PIECE,Commonly Confused Words,It's a peace of cake!,
+PEAK_HIS_INTEREST,Possible Typo,The mere mention of Luxembourg was enough to peak his interest.,80
+PEAK_PIQUE,Grammar,It peaked my interest.,50
+PEDAL_TO_THE_MEDAL,Possible Typo,"To get by the police car, he put the pedal to the medal.",80
+PEOPLE_VBZ,Grammar,Some people thinks that space is endless.,50
+PER_SE,Possible Typo,Not a car lover per say…,80
+PERIOD_OF_TIME,Redundant Phrases,Horses were absent throughout that period of time.,
+PERS_PRON_CONTRACTION,Possible Typo,"Yes, I'l.",80
+,,"Yes, we'r over here.",
+,,"Yes, we'v discussed that.",
+PERS_PRONOUN_AGREEMENT_SENT_START,Grammar,He were too old for that.,50
+,,I are at the restaurant.,
+,,I is at the restaurant.,
+,,I were at the restaurant.,
+,,They is too old for that.,
+,,We is too old for that.,
+,,You is too old for that.,
+PERSONAL_OPINION_FRIENDSHIP,Redundant Phrases,"In my personal opinion, canaries are quite tasty.",
+PERSONAL_PERSONNEL,Commonly Confused Words,For authorized personal only.,
+,,He is the personal director.,
+,,She's the director of personal.,
+PERSPECTIVES_ABOUT_ON,Collocations,They have different perspectives about the topic.,
+PHILLIPS_ARENA,Possible Typo,The team played at Phillips Arena.,80
+PHOTO_WITH_HIS_CAT,Collocations,This is a photo with his cat.,
+PHRASE_REPETITION,Grammar,Hepatology at the at the turn of centuries.,50
+PIGEON_ENGLISH,Commonly Confused Words,Pigeon English is spoken widely across Nigeria.,
+PIN_NUMBER,Redundant Phrases,Please input your PIN number to access.,
+PLAY_GAMES,Collocations,I like to do soccer on the weekend.,
+PLAY_WITH_FOR,Collocations,He plays regularly with that team.,
+PLAYOFF_BIRTH,Possible Typo,The Patriots failed to earn a playoff birth.,80
+PLAYS_A_FACTOR,Possible Typo,The goalie hardly plays a factor in the endgame.,80
+PLEASE_NOT_THAT,Possible Typo,Please not that saying “Open Source” does not mean very much.,80
+PLEASE_VBZ,Grammar,Please answers quickly!,50
+PM_IN_THE_EVENING,Redundant Phrases,It's 1 P.M. at night.,
+,,It's 1 PM at night.,
+,,It's 5 P.M. in the afternoon.,
+,,It's 5 PM in the evening.,
+POINT_BEING_IS_THAT,Redundant Phrases,The point being is that Russia and Japan weren't even at war.,
+POPULAR_AMONG_WITH,Collocations,John's popular among his friends.,
+PORTLAND_TRAILBLAZERS,Possible Typo,On Tuesday the Nets play the Portland Trailblazers.,80
+POSSESSIVE_APOSTROPHE,Possible Typo,Please grant me one days' leave of absence on March 1st.,80
+,,This is a transcript of the presidents speech from March.,
+,,This is a transcript of the presidents speech.,
+POSSESSIVE_CASE,Grammar,Look at I eyes!,50
+POSSIBILTY_POSSIBLE,Style,I did not have a possibility to check for possible errors.,
+PRECEDENT_PRECEDENCE,Commonly Confused Words,Allow us to set a precedence.,
+PREFER_OVER_TO,Collocations,"She much prefers overalls over skirts, because she enjoys playing in the mud",
+PREFER_TO_VBG,Grammar,Some other people prefer to changing job.,50
+PRICE_PRIZE,Commonly Confused Words,She won a price.,
+,,That is the consolation price.,
+,,That is the Nobel Price.,
+PRIZE_PRICE,Commonly Confused Words,This is called prize spiral.,
+PROFANITY,Style,Piss off!,
+PROGRESSIVE_VERBS,Grammar,I am doubting these results.,50
+,,I am surprising.,
+PROSTRATE_PROSTATE,Grammar,He was diagnosed with prostrate cancer.,50
+PROVE_PROOF,Commonly Confused Words,It's just a prove of concept.,
+,,Their prove is wrong.,
+PRP_MD_CD_IN,Grammar,We could one of them.,50
+PRP_PAST_PART,Grammar,He done it.,50
+,,You can been gone from Russia.,
+,,You can gone from Russia.,
+,,You could been from Russia.,
+,,You used to been stupid.,
+PRP_RB_NO_VB,Grammar,I accidentally the flashlight.,50
+PUBIC_X,Commonly Confused Words,Pubic Affairs is a term for the formal offices of the branches of the US Department of Defense.,
+PUNCTUATION_PARAGRAPH_END,Punctuation,(empty),
+PUT_FOURTH_THEAAN,Possible Typo,He put fourth the proposal.,80
+QUESTION_X_WHETHER,Plain English,The question as to whether it will do any good hasn’t been determined.,
+,,There is a question of whether we need to be there or not.,
+QUI_BONO,Nonstandard Phrases,Let me ask: qui bono?,
+QUIET_QUITE,Commonly Confused Words,Be quite!,
+,,I am quiet new to the school.,
+,,That's quiet a list.,
+R_SYMBOL,Typography,Windows (R),
+RACK_BRAIN,Possible Typo,He wracked his brain about it.,80
+RATHER_THEN,Commonly Confused Words,Are human beings any different than animals?,
+,,Single Clicking rather then Double Clicking,
+RATIO_RATION,Commonly Confused Words,The screen aspect ration...,
+RATIONAL_RATIONALE,Commonly Confused Words,I fully understand the rational behind it.,
+,,The rational for the policy is not well understood.,
+RE_CENT,Possible Typo,The country has so far not changed its re cent five-year plan.,80
+REALMS_OF_POSSIBILITY,Possible Typo,That is hardly outside the realms of possibility.,80
+REAP_WHAT_YOU_SEW,Possible Typo,You always reap what you sew.,80
+REASON_IS_BECAUSE,Grammar,The reason we were late is because there was an accident.,50
+REASON_WHY,Redundant Phrases,The reason why I did that is simple.,
+REFERRING_BACK,Plain English,The above-mentioned fact is important.,
+REGARD_AS_BEING,Plain English,What industries do you regard as being highly competitive?,
+REGARDING_TO,Grammar,Your action with regarding to the decision of the committee is not satisfactory.,50
+REIGNS_OF_POWER,Possible Typo,Idi Amin held the reigns of power for far too long.,80
+RELATIVE_CLAUSE_AGREEMENT,Grammar,There are others who likes sleeping until noon.,50
+RELY_ON,Grammar,I rely my family to help me out.,50
+REPEAT_AGAIN,Redundant Phrases,We made the song repeat again.,
+REPERCUSSION_WITH_ON,Collocations,This action has repercussions with the entire community.,
+RESPECTFUL_AGAINST,Collocations,Respectful against.,
+RESPONSIBLE_OF_FOR,Collocations,I am responsable of marketing.,
+RETURN_AT_HOME,Collocations,Return at home before midnight.,
+RETURN_BACK,Redundant Phrases,We returned back home.,
+RETURN_IN_THE,Collocations,"While we were returning in Montreal, I have been arrested for speeding.",
+,,"While we were returning in the office, I have been arrested for speeding.",
+RID_FROM_OF,Collocations,He got rid from the clutter.,
+RIGHT_OF_PASSAGE,Possible Typo,The fire-ritual was a Cherokee right of passage.,80
+RING_ITS_NECK,Possible Typo,I'm going to ring its neck.,80
+RODROT_IRON,Possible Typo,She specialized in art done in rod iron.,80
+ROLE_CALL,Possible Typo,The colonel always forgot to take role call.,80
+ROLL_PLAYER,Possible Typo,Eddie House was mainly a roll player in the Celtics' championship run.,80
+ROUTE_OF_THE_PROBLEM,Commonly Confused Words,The route of the problems is unknown.,
+RUSTIC_COUNTRY,Redundant Phrases,She loved her rustic country kitchen.,
+SAFE_HAVEN,Redundant Phrases,"They ran for the forest, searching for a safe haven.",
+SAFETY_DEPOSIT_BOX,Possible Typo,He inherited his grandfather's safety deposit box.,80
+SAID_SAD,Commonly Confused Words,She sad that she was tired.,
+SALSA_SAUCE,Redundant Phrases,I enjoy eating salsa sauce.,
+SAVE_SAFE,Possible Typo,It is not save to eat moldy food.,80
+SAY_TELL,Commonly Confused Words,He said me the truth.,
+,,He says me the truth.,
+,,Say me the truth.,
+SCENE_SEEN,Possible Typo,Similar to those scene in the park...,80
+,,We watched the opening seen of the play.,
+SCENT_SENT,Possible Typo,He scent the package.,80
+,,His sent was strong.,
+SCHROEDINGER,Possible Typo,The Schrodinger equation is a mathematical formulation for studying quantum mechanics.,80
+SEE_SEA,Possible Typo,We have spent the first night at see.,80
+SELF_ADMITTED,Redundant Phrases,"Springfield police arrest 'very dangerous, self-admitted gang member.'",
+SEND_AN_EMAIL,Redundant Phrases,He was going to send an email to her.,
+SENSE_OF_FALSE_HOPEPRIVACYSECURITY,Possible Typo,The members of the board were holding onto a sense of false security.,80
+SENT_AN_EMAIL,Redundant Phrases,He sent an email to her.,
+SENT_START_CONJUNCTIVE_LINKING_ADVERB_COMMA,Punctuation Errors,In addition he created a great rule for LanguageTool.,
+,,Nonetheless you should set commas to enhance readability.,
+SENT_START_DOE,Grammar,Doe he like me?,50
+SENT_START_NUM,Style,12 soldiers were killed!,
+SENT_START_THEM,Possible Typo,Them it became clear.,80
+SENTENCE_FRAGMENT,Grammar,Even if the dog likes to bark.,50
+,,In order that the dog guards the house.,
+,,Provided that the dog guards my house.,
+,,So even if the dog likes to bark.,
+,,So if the dog likes to bark.,
+,,"So, even if the dog likes to bark.",
+,,"So, if the dog likes to bark.",
+,,Though the dog likes to bark.,
+SENTENCE_WHITESPACE,Typography,(empty),
+SERIAL_COMMA_OFF,Punctuation Errors,"The pen, pencil, and book are on the desk.",
+SERIAL_COMMA_ON,Punctuation Errors,"In addition to buses, trams and taxis, popular modes of transport are ...",
+,,"She speaks Spanish, German and French.",
+,,"Stocking, George, Jr. (Race, Culture and Evolution).",
+,,"While air, water and food are necessary for life, we cannot so easily categorize the prerequisites of happiness.",
+SHELL_WE,Commonly Confused Words,Shell we dance?,
+,,We shell overcome.,
+,,What shell I do?,
+SHOE_IN,Grammar,He says some of his supporters thought he was a shoe-in.,50
+SHORT_COMING,Possible Typo,Being on time was his biggest short coming.,80
+SHORT_COMPARATIVES,Grammar,This example is more silly than the other.,50
+SHORT_CUT,Possible Typo,I know a short cut.,80
+SHORT_SUPERLATIVES,Grammar,This example is the most silly I have read.,50
+SHOULD_BE_DO,Grammar,"If you have after-school activities, the homework should be do first.",50
+SI_UNITS_OF_MEASURMENT_ADJECTIVES_PLURAL,Nonstandard Phrases,Use a 6-microfarads capacitor.,
+SIDE_KICK,Possible Typo,He had a zany side kick.,80
+SIDE_SITE,Commonly Confused Words,There is a construction side.,
+SIGN_INTO,Grammar,When you sign into your e-mail account...,50
+SIMILAR_LIKE_AS_SOMETHING,Collocations,the roof will be similar as a church.,
+SINCE_FOR,Commonly Confused Words,I've lived in Barcelona since six years.,
+SINGULAR_AGREEMENT_SENT_START,Grammar,The dog are released.,50
+SINGULAR_VERB_AFTER_THESE_OR_THOSE,Grammar,Make sure that these two contains sufficient examples.,50
+,,These includes the ring and the compass.,
+,,Those two is nice.,
+SINKING_HIP,Collocations,The idiom 'like rats fleeing a sinking hip is used in reference to people abandoning an enterprise once it seems likely to fail.,
+SIT_ON_THE_COURT,Collocations,He is 67 year old and he sits on the court since 1998..,
+SITE_SIDE,Commonly Confused Words,"On the positive site, there are some improvements.",
+SKY_DIVING,Possible Typo,We went sky diving.,80
+SLIGHT_OF_HAND,Commonly Confused Words,This is where the slight of hand comes in.,
+SMALL_NUMBER_OF,Redundant Phrases,A small number of people were in the store.,
+SMARTPHONE,Possible Typo,Susie wanted to get a smartphone to impress her boyfriend.,80
+SNEAK_PEAK,Commonly Confused Words,Yahoo has released a sneak peak into Yahoo! BrowserPlus.,
+SO_AS_TO,Redundant Phrases,The band practiced so as to increase their chances of success.,
+SO_THEREFORE,Redundant Phrases,"I am me, the only me, so therefore I am unique, which in turn makes me special :)",
+SOLICIT_FOR,Plain English,We are soliciting for suggestions.,
+SOME_EXTEND,Commonly Confused Words,To the extend permitted by law,
+,,"Yes it is, to a certain extend.",
+SOME_FACULTY,Grammar,Three faculty support the change.,50
+SOME_HOW,Possible Typo,"Some how, we made it out alive.",80
+SOME_NN_VBP,Grammar,I think some language are more complicated than others.,50
+SOME_OF_THE,Redundant Phrases,Some of the parks are in the area.,
+SOME_WHAT_JJ,Possible Typo,Some what disappointed,80
+SOME_WHERE,Possible Typo,"There's a place for us, some where.",80
+SON_SOON,Possible Typo,It was too son.,80
+SOONER_RATHER_THAN_LATER,Plain English,I believe that spring will be here sooner rather than later.,
+SOUND_BYTE,Possible Typo,The politician gave an awful sound byte.,80
+SOUSE_CHEF,Possible Typo,He gave most of his responsibility to his souse chef.,80
+SPARE_OF_THE_MOMENT,Possible Typo,It was a spare of the moment decision.,80
+SPARKING_WINE,Possible Typo,I love sparking wine.,80
+SPEND_IT_FOR,Collocations,I spend it for my essence.,
+SPILLING_ERROR,Commonly Confused Words,This is a spilling error.,
+,,What is the correct spilling of 'Mississippi'?,
+SPINAL_CHORD,Possible Typo,There was permanent injury to the spinal chord.,80
+SQUARE_ROOT,Semantic,The square root of 9 is 3.,
+SQUARED_SQUARE,Possible Typo,What is the definition of a squared mile?,80
+STALE_MATE,Possible Typo,The game ended in a stale mate.,80
+STAND_ALONE,Possible Typo,I wrote a stand alone application.,80
+STAND_ALONE_NN,Possible Typo,This is a stand alone computer.,80
+STATE_OF_THE_ART,Punctuation Errors,We present our state of the art solution.,
+STATE-OF-THE-ART,Plain English,Many covet for a state of the art cell phone.,
+,,Many covet for a state-of-the-art cell phone.,
+STATIONARY_STATIONERY,Possible Typo,Save 50% on all office stationary.,80
+,,The exact word which my doctor used was stationery.,
+,,The office junior is in charge of filling the stationary cupboard.,
+,,The office junior is in charge of ordering our stationary.,
+STATUE_OF_LIMITATIONS,Possible Typo,"Luckily, his crime wasn't covered by the statue of limitations.",80
+STEPS_TO_DO,Collocations,There are some steps to do.,
+STOCK_AND_TRADE,Possible Typo,Swords and knives are their stock and trade.,80
+STOP_HIM_OF_FROM,Collocations,This stops us of achieving victory.,
+STRESS_OUT_FOR_OVER,Collocations,I have to stop stressing out for everything.,
+STRIKE_A_CORD,Possible Typo,Her comment happened to strike a cord with the colonel.,80
+STRIPED_STRIPPED,Commonly Confused Words,He striped naked for a swim.,
+STRIPPED_STRIPED,Commonly Confused Words,Did you see her stripped dress?,
+SUBSEQUENT_TO,Redundant Phrases,The roads needed repairs subsequent to the storm.,
+SUFFER_OF_WITH,Collocations,A clinical psychologist deals with people suffering of bipolar disorder.,
+SUFFICIENT,Plain English,That is sufficient reason.,
+SUFFICIENT_ENOUGH,Redundant Phrases,The money is sufficient enough to buy the pullover.,
+SUMMER_TIME,Redundant Phrases,It is warm during the summer time.,
+,,It is warm during the summertime.,
+SUMMON_AT_TO,Collocations,"Without him knowing, Quentin was summoned at an examination in order to get his admission to this institution.",
+SUPERIOR_THAN,Collocations,He feels inferior than us.,
+,,He feels more inferior than us.,
+SUPERIOR_THAN_TO,Grammar,This product is superior than the competition.,50
+SUPERLATIVE_THAN,Grammar,That's worst than before!,50
+SUPPER,Commonly Confused Words,"After I had eaten my super, I went straight to bed.",
+,,We went for a walk after super.,
+SUPPOSE_TO,Possible Typo,What jar is this suppose to be coming from?,80
+SWORN_AFFIDAVIT,Redundant Phrases,A sworn affidavit is a written statement made by someone under oath to tell the truth about something.,
+,,His sworn affidavit was deposited in the post office mailbox.,
+TAKE_ACTION_TO,Plain English,Take action to fight climate change.,
+TAKE_AWHILE,Possible Typo,"I'm sorry sir, your laundry will take awhile longer.",80
+TAKE_THE_REIGNS,Possible Typo,Take the reigns cried the bandit.,80
+TAKING_CASE_OF_IT,Commonly Confused Words,We need to take case of it.,
+TAKING_INTO_CONSIDERATION,Collocations,Tom takes into consideration of all the perspectives.,
+TALK_AT_TO,Collocations,I was talking at Charles about,
+TALK_DOWN_ABOUT_TO,Collocations,Don't you ever talk down about my baby boy or Kristy.,
+TANK_YOU,Possible Typo,Tank you very much!,80
+,,The case went poorly tanks to the lawyer's incompetence.,
+TATTLE-TAIL,Possible Typo,Every child hates a tattle-tail.,80
+TEEM_TEAM,Commonly Confused Words,This is my favorite football teem.,
+TELEPHONE_POLL,Commonly Confused Words,"As sort of life crises go, this is low on the totem poll.",
+TEMPORARY_BIVOUAC_BIVOUAC,Redundant Phrases,"In temporary bivouac areas (1 to 3 days), the straddle trench latrine is used unless more permanent facilities are provided for the unit.",
+TH_THORIUM,Possible Typo,Th water is hot.,80
+THAN_I,Style,She is wiser than me!,
+THAN_INTERJ,Commonly Confused Words,"The genuinely interesting question, than, becomes...",
+THAT_BEING_SAID,Commonly Confused Words,That being sad ...,
+THAT_EXISTS,Plain English,The fear that exists among many people that we are losing our woodlands is uncalled for.,
+THAT_I_WORK_FOR,Collocations,The company that I work is Cosme Inc...,
+THATS_ITS,Possible Typo,He's it's primary caretaker.,80
+THATS_THEYRE,Possible Typo,That's they're fault.,80
+THATS_YOURE,Possible Typo,"Don't ask me, that's you're own problem.",80
+THE_BEST_WAY,Grammar,There must be faster way of going to California.,50
+,,This is best way of dealing with errors.,
+THE_EXACTLY_THE,Grammar,That’s the really the point of these songs.,50
+THE_FALL_SEASON,Redundant Phrases,The leaves turn red and gold in the fall season.,
+THE_FLEW,Commonly Confused Words,I have been out with the flew for the past 3 days.,
+THE_HOW,Possible Typo,These are also examples of the how a woman's perspective can contribute to science.,80
+THE_NN_AND_THE_NN,Grammar,The plane and the train is fast.,50
+THE_ONLY_ON,Possible Typo,The trash folder is the only on for me that works.,80
+THE_PROOF_IS_IN_THE_PUDDING,Nonstandard Phrases,The Proof Is In The Pudding,
+THE_PUNCT,Grammar,"I am going to an, then I see you.",50
+THE_QUESTION_WH,Nonstandard Phrases,This thesis addresses the question how to analyze concepts.,
+THE_SAME_AS,Grammar,This is not the same thing than his.,50
+THE_SENT_END,Grammar,I am going to an.,50
+THE_SOME_DAY,Possible Typo,It happened on the some day.,80
+THE_SUPERLATIVE,Grammar,Kyoto is an oldest city.,50
+,,The guy is best driver.,
+,,The guy is funniest friend.,
+,,The guy is least funny friend.,
+THE_THEY,Commonly Confused Words,The cannot help you.,
+THE_TRUTH_OR_FACT_IS,Plain English,"The truth is, this is annoying.",
+THE_UNDERSIGNED,Plain English,Please contact the undersigned.,
+THE_WORSE_OF,Grammar,The worse of all is that he doesn't know what to do!,50
+THEIR_IS,Commonly Confused Words,He noticed that their is a new test.,
+,,He noticed that they're is a new test.,
+,,"Yes, their might be a better approach.",
+THEM_SELVES,Possible Typo,They were falling over them selves.,80
+THERAPEUTIC_TREATMENT,Redundant Phrases,My swelled knee required special therapeutic treatment.,
+THERE_EXITS,Possible Typo,There exits an α-evaluating homomorphism π.,80
+THERE_OWN,Commonly Confused Words,They completed the huge project on they're own.,70
+,,They were largely on there own that night.,
+THERE_RE_MANY,Grammar,There are many problem in Iraq.,50
+,,There're a lot problem in Iraq but it is not a terrible situation.,
+,,There're problem in Iraq but it is not a terrible situation.,
+THERE_S_MANY,Grammar,There is many problems in Iraq but it is not a terrible situation.,50
+,,There is problems in Iraq but it is not a terrible situation.,
+,,There's many problems in Iraq but it is not a terrible situation.,
+,,There's problems in Iraq but it is not a terrible situation.,
+THERE_THEIR,Commonly Confused Words,The parents loved there son.,70
+,,The parents yelled at there son.,
+,,What would you do in there place?,
+THERE_WAS_MANY,Grammar,For almost one year there was no updates to the software.,50
+,,For more than one year there was updates daily.,
+THESE_ONES,Grammar,These Ones Are Bitter.,50
+THESE_SINGULAR_NOUN,Grammar,How is livelihood in America these day?,50
+THEY_WHERE,Commonly Confused Words,It seems unlikely that they where going to achieve it.,70
+THEYRE_JJS_NN,Possible Typo,It was they're oddest hypothesis yet.,80
+THEYRE_THEIR,Commonly Confused Words,I'm not worried about they're problems.,70
+,,These are they're best clothes.,
+THINK_IN_ABOUT,Collocations,I'm thinking in finish this text.,
+THINK_OFF,Possible Typo,It's the only part of KDE I know off that uses automasking.,80
+THINK_YOU_A,Possible Typo,Some would think you a fortunate man.,80
+THIS_NNS,Grammar,If this errors are easy to fix...,50
+,,These kind of errors are easy to fix.,
+,,These was an error.,
+,,This are errors.,
+THIS_NNS_VB,Grammar,Can LanguageTool find this errors?,50
+,,This images are beautiful.,
+THOUGH_THROUGH,Possible Typo,You should read though this contract.,80
+THREE_NN,Style,The security protection software we offer is the state-of-the art achievement.,
+THROUGH_AWAY,Possible Typo,Or we just through away all bugs.,80
+THROUGH_OUT,Possible Typo,We felt awkward through out the play.,80
+THROUGH_THOROUGH,Commonly Confused Words,The manual does not have a through discussion of the topic.,70
+THROWS_THROES,Possible Typo,He was in the final throws of death.,80
+,,The country is still in the throws of a major crisis.,
+TIME_NOW,Plain English,"At the moment, I am taking a leave of absence from my work.",
+,,"At the present time, this Wiki is experimental.",
+,,"At this time, Churchill was serving as Chancellor of the Exchequer",
+,,This document has no formal standing at this point in time.,
+TIP_AND_TRICK,Grammar,tip and tricks,50
+,,tips and trick,
+TIRED_ABOUT_OF,Collocations,tired about.,
+TIRED_INTENSIFIERS,Plain English,The band is very irritating.,
+TIRED_OF_FROM,Collocations,I am always tired of the last night,
+TO__THEN_BY,Possible Typo,I'd rather go to play then by the market.,80
+TO_AIDE,Commonly Confused Words,I want to aide you in a task.,70
+TO_BACKOUT,Possible Typo,There's still time to backout of the deal.,80
+TO_BATH,Possible Typo,It's so relaxing to bath in the evening.,80
+TO_BLACKOUT,Possible Typo,He didn't want to blackout in front of his professor.,80
+TO_COMEBACK,Possible Typo,The Mets gave the Yankees too much of a chance to comeback.,80
+TO_FOUND_FIND_A_CURE,Collocations,It took a while to found a cure for malaria.,80
+TO_NON_BASE,Grammar,He convinced her to gave him a call.,50
+,,I was surprised to learns this.,
+,,I've decided to renamed the project.,
+,,She wants you to goes there.,
+TO_ON_A_TRIP,Collocations,"Yes, I went to a trip.",80
+TO_THE_MANOR_BORN,Possible Typo,He played the piano as to the manor born.,80
+TO_TOO,Commonly Confused Words,But I see the problem of two many files.,70
+,,"But you can use it for other things, to.",
+,,His idea came much to soon to be successful.,
+,,It broke because to much snow was on it.,
+,,It's to early.,
+,,It's to good to be true.,
+,,She returned to quickly.,
+,,This price is way to high.,
+,,To bad that you don't like cats.,
+TO_VB_ITS_NN,Possible Typo,I wanted so badly to take it's apple and throw it through the window.,80
+TO_WITHDRAWN,Grammar,The team are to withdrawn.,50
+TODAY_MORNING,Collocations,I'm going home today evening.,80
+TODAY_NIGHT,Collocations,I'm going fishing today night.,80
+TOME_TIME,Possible Typo,I found tome to read.,80
+,,I have no tome.,
+TONGUE_AND_CHEEK,Possible Typo,He said it with a fair amount of tongue and cheek.,80
+TOO_ADJECTIVE_TO,Grammar,This is to good to be true.,50
+TOO_CARDINAL_NUMBER,Possible Typo,We are expanding too ten new locations.,80
+TOO_DETERMINER,Possible Typo,We expanded too all proposed new locations.,80
+TOO_EITHER,Grammar,"I am not a child, and my cousin isn't too.",50
+,,I don't have problems too.,
+,,I have no problems too.,
+TOO_LONG_PARAGRAPH,Stylistic hints for creative writing,(empty),
+TOO_LONG_SENTENCE,Style,(empty),
+TOO_TO,Commonly Confused Words,I want too go abroad.,70
+TOO_TWO,Possible Typo,They meet at too o'clock.,80
+TOOL_LONG,Possible Typo,I was away for tool long.,80
+TOT_HE,Possible Typo,The Hitchhiker's Guide tot he Galaxy,80
+TOW_THE_LINE,Possible Typo,We'll tow the line.,80
+TRADEMARK,Typography,The new product is Executive Choice(TM) Plus.,
+TRAVEL_WITH_BY,Collocations,We are going to travel with a bus.,80
+TRAVELED_FOR,Collocations,I traveled four days.,80
+TREASURE_TROUGH,Possible Typo,In the wreckage they found a treasure trough of doubloons.,80
+TREE_THREE,Redundant Phrases,I've lived in Barcelona for tree years.,
+TRITE_AND_TRUE,Possible Typo,It was a trite and true solution.,80
+TRUE_TO_WORD,Possible Typo,She was true to her words.,80
+TRY_AND,Redundant Phrases,She is going to try and go to the store.,
+TURNED_OFF,Commonly Confused Words,The light was switched of,70
+TWICE_AS_COLD,Semantic,It's half as warm as it was yesterday.,
+TWO_CONNECTED_MODAL_VERBS,Grammar,That could should do.,50
+TYPE_OF,Plain English,Legislators need to be more careful of the type of policy they propose.,
+UNDER_WEAR,Possible Typo,Designer's Under Wear,80
+UNLIKELY_OPENING_PUNCTUATION,Punctuation Errors,; How's it goin'?,
+UNNECESSARY_COMMA,Punctuation Errors,"My aunt, and I like skiing.",
+UNTIL_SUCH_TIME_AS,Plain English,He may keep the key until such time as he resigns.,
+UP_TO_DATA,Possible Typo,The software is not up to data.,80
+UPPERCASE_SENTENCE_START,Capitalization,This house is old. it was built in 1950.,100
+URINE_ANALYSIS,Possible Typo,They got the results of the urine analysis the next day.,80
+USE_TO_VERB,Grammar,He use to believe this.,50
+USELESS_THAT,Redundant Phrases,I am pretty sure that this is right.,
+USUAL_CUSTOM,Redundant Phrases,Eggnog on Christmas is our usual custom.,
+VARIETIES_IN_OF,Collocations,They should increase varieties in food.,80
+VARY_MUCH,Possible Typo,Thank you vary much.,80
+VARY_VERY,Possible Typo,They were vary happy.,80
+VB_A_WHILE,Possible Typo,He was expected to forget a while after the fact.,80
+VBG_THEYRE,Commonly Confused Words,They couldn't stop conceptualizing they're own demise.,70
+VBG_YOURE,Possible Typo,Stop visualizing you're own demise.,80
+VBZ_IN_THEYRE_NN,Possible Typo,What kind of person disparages of they're company?,80
+VBZ_VBD,Possible Typo,...which is wasn't the last day.,80
+VE_GO_TO,Possible Typo,I've go to go.,80
+VE_HAVING,Grammar,I've having lunch.,50
+VERB_IN_AT,Collocations,"At lunch, I eat with my colleague working or I eat in my desk alone.",80
+VERSE,Commonly Confused Words,The tale was written in verses.,70
+VERY_KNOWN,Nonstandard Phrases,He is a very known actor.,
+VERY_MATCH,Possible Typo,Thank you very match.,80
+VERY_THANKS_THANKS_A_LOT,Grammar,Very thanks!,50
+VERY_UNIQUE,Redundant Phrases,Walk until you see the very unique building on your right.,
+VINTAGE_POINT,Possible Typo,There was a great vintage point on the back side of the hill.,80
+VULNERABLE_FROM_TO,Collocations,"We do want to differ from other solutions where you must redirect all your domain names to a service provider, leaving your server vulnerable from direct attacks and having you hassle with domain records all the time.",80
+WAIT_AFTER_FOR,Collocations,I am waiting after her.,80
+WAITING_MY_PATIENT,Collocations,Anne is waiting her patient.,80
+WAITING_MY_PATIENT_FINISH,Collocations,I am waiting my patient finish the sample collection.,80
+WAIVED_OFF,Possible Typo,The offsides call was waived off by the referee.,80
+WAN_T,Possible Typo,But I wan't to suggest something else.,80
+WANT_THAT_I,Grammar,He wants that I send him an email.,50
+,,He wants that we send him an email.,
+,,He wants that you send him an email.,
+,,They want that he sends him an email.,
+,,They want that she sends him an email.,
+,,They want that they sends him an email.,
+WAS_ALOUD,Possible Typo,No dancing was aloud.,80
+WAS_BEEN,Grammar,She was been here since Monday.,50
+,,She was not been here since Monday.,
+,,She wasn't been here since Monday.,
+WAS_COMPRISED_OF,Possible Typo,The proposal was comprised of faulty assumptions.,80
+WAS_LAIN,Possible Typo,The body was lain beside his wife in the cemetery.,80
+WAS_WANDERING_IF,Commonly Confused Words,I was wandering if someone could help me.,70
+WAY_SIDE,Possible Typo,We let it fall by the way side.,80
+WE_RB_ARE_VB,Grammar,Today we still are fly to space.,50
+WEATHER_WHETHER,Possible Typo,She asked weather he knew her.,80
+WEB_SITE,Possible Typo,The web site was down.,80
+WED_WE_D,Possible Typo,"Really, wed better hurry!",80
+,,Wed gone so far.,
+WELL_IN_ON,Collocations,I do badly in tests because I'm lazy.,80
+WERE_ARE,Possible Typo,We're are the favorites to win the championship.,80
+WERE_COMPRISED_OF,Possible Typo,The missiles were comprised of nuclear warheads.,80
+WERE_MD,Possible Typo,Were could we sleep tonight?,80
+WERE_VBB,Possible Typo,They went were he wanted.,80
+,,Were are in the process of implementing this.,
+WET_YOUR_APPETITE,Possible Typo,The first John Wayne movie will only serve to wet your appetite.,80
+WHAT_HOW,Possible Typo,How is it like to live in New York?,80
+,,How is your new teacher like?,
+WHAT_I_MEAN_TO_SAY_IS_THAT,Plain English,What I mean to say is that well intentioned lawmakers sometimes make fools of themselves.,
+WHAT_VBZ,Grammar,Who want to go to the mall?,50
+WHAT_WE_CALL_2,Collocations,I'm not what we call perfectly bilingual.,80
+WHEN_WHERE,Style,There are times where you need to measure high current devices.,
+WHERE_AS,Possible Typo,"The northern and urban areas of the state do not generally offer sweet tea in the most restaurants, where as it is a staple beverage for the southern part ...",80
+WHETHER,Redundant Phrases,"As to whether it is difficult, we are not concern.",
+,,The question as to whether it is difficult is not our concern.,
+,,The question as to whether or not it is difficult is not our concern.,
+,,The question of whether it is difficult is not our concern.,
+,,The question whether it is difficult is not our concern.,
+,,We are not concern as to whether or not it is difficult.,
+,,What the government decides to do depends on whether or not the bill passes.,
+WHICH_COMPRISED_OF,Possible Typo,"The ants, which comprised of the colony, were asleep.",80
+WHIM_AND_A_PRAYER,Possible Typo,The Lakers appeared to be hanging on a whim and a prayer.,80
+WHIP_CREAM,Nonstandard Phrases,Whip cream until it becomes whip cream.,
+WHITESPACE_PARAGRAPH,Style,(empty),
+WHITESPACE_PARAGRAPH_BEGIN,Style,(empty),
+WHITESPACE_RULE,Typography,(empty),
+WHO_NOUN,Grammar,A student who participant in the program,50
+WHO_THAN,Commonly Confused Words,"Please, who than can help!",70
+WHO_VERB,Grammar,Who care's?,50
+WHO_WHOM,Possible Typo,Depending on who you like more...,80
+,,Whom paid for the meal?,
+WHOLE_LOT,Redundant Phrases,I will read a whole lot of books,
+WHOM_WHO,Possible Typo,Sarah gave the tickets to who?,80
+,,"The hall was filled with students, many of who were girls.",
+,,With who did you go?,
+WHORE_WORE,Commonly Confused Words,Last Sunday I whore a beautiful dress.,70
+,,This is the skirt that I whore last week.,
+WHOS,Possible Typo,By who's standards?,80
+,,These are people who's lives are important.,
+,,Those who's highest level of education...,
+WHOS_ACTUAL,Possible Typo,Who's actual job is it to make copies around here?,80
+WHOS_NN,Possible Typo,Do we know who's banana this is on the table?,80
+WHOS_TO,Possible Typo,Whose at the door?,80
+WHOSE_DT,Possible Typo,Whose the boss around here?,80
+WIFI,Possible Typo,WiFi is a technology for wireless local area networking with devices based on the IEEE 802.11 standards.,80
+WIKIPEDIA_12_AM,Wikipedia,At 12 am,
+WIKIPEDIA_12_PM,Wikipedia,At 12 pm,
+WIKIPEDIA_CONTRACTIONS,Wikipedia,it's,
+,,wasn't,
+WIKIPEDIA_CURRENTLY,Wikipedia,currently,
+WILDLY_ACCEPTED,Commonly Confused Words,This idea is now wildly accepted.,70
+WILL_BE_COMPRISED_OF,Possible Typo,The album will be comprised of synthetic sounds.,80
+WILL_COMPRISE_OF,Possible Typo,The ants will comprise of the colony.,80
+WILL_IN_THE_FUTURE,Redundant Phrases,I will in the future work hard.,
+WILL_LIKE_TO,Grammar,I will like to do something.,50
+WITCH_HAUNT,Commonly Confused Words,An anti-Polish witch haunt,70
+WITCH_IS_WRONG,Commonly Confused Words,Which position is right and witch is wrong?,70
+WITH_OR_IN_REFERENCE_OR_REGARD_TO,Plain English,Statement in reference to the book.,
+WITH_OUT,Possible Typo,We must take the bus before it leaves with out us.,80
+WITH_THE_EXCEPTION_OF,Redundant Phrases,"With the exception of Bob, all of the children went running.",
+WITHOUT_OUT,Possible Typo,"Without out a doubt, the internet's power is mighty and far-reaching.",80
+WOMAN_WOMEN,Grammar,A women walked in to the room.,50
+WONT,Possible Typo,"No, I wont do that.",80
+WORD_WAR,Possible Typo,He was a member of the anti-aircraft artillery during Word War II,80
+WORK_COLLEAGUE,Redundant Phrases,I will talk to a work colleague.,
+WORK_IN_ON_A_PROJECT,Collocations,"Later, I started working as a Research Assistant in university projects again.",80
+WORKING_PROGRESS,Possible Typo,His symphony was a working progress.,80
+WORLD_AROUND_IT,Redundant Phrases,He didn't like the world around him.,
+WORLD_WIDE,Possible Typo,There was a world wide epidemic.,80
+WORRY_FOR,Collocations,Don't worry for.,80
+WORSE_WORST,Grammar,Worse came to worse.,50
+WORSE-CASE_SCENARIO,Possible Typo,They always prepared for the worse-case scenario.,80
+WORST_COMES_TO_WORST,Possible Typo,"If worst comes to worst, we'll just move.",80
+WORST_WORSE,Grammar,The conditions in March were much worst than they imagined to be possible.,50
+WORTH_THAN,Commonly Confused Words,Is cloud hosting worth than hostgator?,70
+WORTH_WHILE,Possible Typo,It was a worth while endeavor.,80
+WORTHWHILE,Plain English,It was a worthwhile endeavor.,
+WOULD_COMPRISE_OF,Possible Typo,The ants would comprise of the colony.,80
+WRB_THERE_THEY_RE,Possible Typo,"Wherever there going, I will follow them.",80
+WRECK_HAVOC,Possible Typo,The hurricane would go on to wreck havoc up and down the coast.,80
+WRITE_IN_MY_OWN_PAGE,Collocations,That is written in page 21.,80
+WRITINGPOLITICALSCIENCE_GAFF,Possible Typo,His novel was a huge cultural gaff.,80
+WRITINGPOLITICALSCIENCE_GAFFS,Possible Typo,There were some serious political gaffs committed that day.,80
+WRONG_APOSTROPHE,Typography,I´ll be here.,
+,,She´ll make a decision tomorrow.,
+,,You shouldn;t do it!,
+,,You shouldn´t do it!,
+,,You´ll have to decide.,
+WRONG_GENITIVE_APOSTROPHE,Possible Typo,This was the employees's decision.,80
+WRONG_PRP_AT_SENT_START,Grammar,Her has many animals.,50
+YEAR_20001,Semantic,I will go to Holland in May 20014.,
+YEAR_END_AND_YEAR_OUT,Possible Typo,"Year end and year out, we go out to the vineyards.",80
+YELL_ON_AT,Collocations,Lily yelled on him.,80
+YESTERDAY_NIGHT,Collocations,I was there yesterday night.,80
+YOU_ARE_REQUESTED,Plain English,you are requested to sit down.,
+YOU_THING,Possible Typo,I thing that's a good idea.,80
+YOULL_WILL,Possible Typo,You'll will want to make sure you get the daily special.,80
+YOUR,Commonly Confused Words,Let's see if your a developer.,70
+,,Let's see if your using multiple search servers.,
+,,Your so annoying!,
+YOUR_NN,Commonly Confused Words,You're optimization is a good example.,70
+YOUR_S,Possible Typo,"It's not mine, it's your's.",80
+YOUR_SHOULD,Possible Typo,"If it's running, your should deactivate it.",80
+YOUR_YOU,Possible Typo,Have your seen my sister?,80
+YOUR_YOU_RE,Possible Typo,Your beautiful.,80
+,,Your not a nice man.,
+,,"Your sincerely, Tom",
+,,Your welcome.,
+YOURE_JJS_NN,Possible Typo,I'd like to buy you're greenest banana please.,80
+YOURS_APOSTROPHE,Possible Typo,This house is yours'.,80
+ZERO-SUM_GAIN,Commonly Confused Words,It is a zero-sum gain when wages are held flat...,70

@@ -1,0 +1,96 @@
+school
+college
+university
+education
+qualification
+pursued
+pursuing
+vocational education
+department
+secondary education
+secondary school
+higher secondary
+high school
+educate
+qualified
+qualify
+schooling
+student
+schooling
+undergraduate
+academic
+academics
+homeschooling
+higher education
+computer science
+humanities
+coeducation
+educational
+research
+cse
+iit
+iiit
+nit
+kiit
+ait
+course
+primary school
+classroom
+middle school
+college
+colleges
+study
+studies
+studied
+studying
+students
+universities
+university
+institute
+institutes
+instute
+institution
+courses
+graduate
+graduates
+graduated
+graduating
+degree
+syllabus
+schools
+scholar
+scholars
+scholared
+technologist
+institutions
+engineering
+academia
+10th
+12th
+metric
+intermediate
+inter
+board
+btech
+tech
+b.tech
+b.e
+bachelor
+i.t
+c.s.e
+m.b.a
+b.a
+b.s.c
+bsc
+iti
+i.t.i
+polytechnic
+marks
+c.g.p.a
+cgpa
+score
+percentage
+scored
+exam
+examination
+examinations
